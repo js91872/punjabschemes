@@ -1,7 +1,12 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 
-const categories = ["Pensions", "Scholarships", "Women & Children", "Agriculture"];
+const categories = [
+  { name: "Pensions", slug: "pensions" },
+  { name: "Scholarships", slug: "scholarships" },
+  { name: "Women & Children", slug: "women-and-children" },
+  { name: "Construction Workers", slug: "construction-workers" },
+];
 
 export const metadata: Metadata = { alternates: { canonical: "/" } };
 
@@ -20,10 +25,10 @@ export default function Home() {
         <h2>Explore by category</h2>
         <div className="card-grid">
           {categories.map((category) => (
-            <article className="card" key={category}>
-              <h3>{category}</h3>
+            <Link className="card" href={`/categories/${category.slug}`} key={category.slug}>
+              <h3>{category.name}</h3>
               <p>Verified, plain-language guidance will be added during the content research phase.</p>
-            </article>
+            </Link>
           ))}
         </div>
       </section>

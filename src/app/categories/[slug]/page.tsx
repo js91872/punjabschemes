@@ -8,6 +8,7 @@ const categories = {
   scholarships: "Scholarships",
   "women-and-children": "Women & Children",
   agriculture: "Agriculture",
+  "construction-workers": "Construction Workers",
 } as const;
 
 type CategorySlug = keyof typeof categories;

@@ -2,7 +2,7 @@ export type Scheme = {
   slug: string;
   name: string;
   summary: string;
-  category: "Pensions" | "Scholarships" | "Women & Children" | "Agriculture" | "Children & Families" | "Disability";
+  category: "Pensions" | "Scholarships" | "Women & Children" | "Agriculture" | "Children & Families" | "Disability" | "Construction Workers";
   beneficiaries: string;
   officialUrl: string;
   department: string;
@@ -83,6 +83,32 @@ export const schemes: Scheme[] = [
       "Call 1076 for doorstep service guidance",
     ],
     importantNote: "The supporting certificate depends on who applies: the official sheet distinguishes applications by a guardian, mother or disabled father.",
+    lastReviewed: "2026-08-18",
+  },
+  {
+    slug: "construction-worker-shagun-scheme-punjab",
+    name: "Punjab BOCW Shagun Scheme",
+    summary: "Marriage assistance of ₹31,000 under the Punjab Building and Other Construction Workers Welfare Board for eligible registered workers' daughters or an eligible female beneficiary's own marriage.",
+    category: "Construction Workers",
+    beneficiaries: "A registered Punjab BOCW beneficiary applying for an eligible daughter's first marriage, or an eligible registered female beneficiary applying for her own first marriage. The official form limits assistance to the marriages of up to two daughters.",
+    officialUrl: "https://bocw.punjab.gov.in/userfiles/file/shagun%20Form%2035%20updated.pdf",
+    department: "Punjab Building and Other Construction Workers Welfare Board, Department of Labour",
+    fee: "The official scheme form does not state a separate application fee. The worker's BOCW registration and contribution must be current.",
+    documents: [
+      "Registered marriage certificate",
+      "Photograph of the bride",
+      "Marriage photograph",
+      "Bride's date-of-birth certificate issued by a school, medical authority or birth registrar",
+      "BOCW registration and bank-account details requested in Form 35",
+      "Marriage confirmation from the Sarpanch or another local authority",
+    ],
+    applicationMethods: [
+      "Complete the Punjab BOCW Board's Form 35",
+      "Attach the official supporting documents",
+      "Submit through the relevant Punjab labour authority or service channel",
+      "Apply within three months after the marriage date",
+    ],
+    importantNote: "The assistance is ₹31,000 for an eligible marriage. It applies only once for each of up to two daughters and does not apply to a second marriage. Confirm that the worker's Board membership and contributions are active before applying.",
     lastReviewed: "2026-08-18",
   },
 ];
