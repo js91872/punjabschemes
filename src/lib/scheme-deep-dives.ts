@@ -41,6 +41,13 @@ export const schemeDeepDives: Record<string, { heading: string; paragraphs: stri
       "BPL evidence must identify the relevant family, not merely show that a relative once held a card. The older form asks for the BPL number, year and place of issue, family ID, member ID and recommendation details. Check whether the deceased and beneficiary appear correctly in the record used by Punjab today. If the card is damaged, the family composition changed, or an electronic record replaced an older card, obtain guidance before submission. Also ask about the current time limit: bereavement and certificate registration can cause delay, but an assumed deadline from another state should not guide a Punjab claim. A dated acknowledgement is essential because it records when the completed application reached the authorized service.",
     ],
   },
+  "aashirwad-scheme-punjab": {
+    heading: "Category, income and marriage-timing checks",
+    paragraphs: [
+      "A successful application must connect the bride to a covered scheme category and the family to the income and Punjab-residence conditions. Start with the category certificate or evidence appropriate to the case rather than assuming that low income alone is enough. A daughter-of-widow case and a Scheduled Caste widow or divorcee remarriage case should be recorded under the correct portal option and supported by the evidence the department requests. The stated annual family-income ceiling is ₹32,790 from all sources. If a BPL or other family record is used, check that the applicant and family details remain current; otherwise prepare the accepted income declaration or certificate and any required verification by the local authority.",
+      "Marriage timing is another avoidable source of difficulty. The legacy form says an application should be given after the marriage date is fixed and before marriage, while permitting submission up to 30 days after marriage for someone who missed the earlier filing. The online portal's current operational rule should be checked because digital workflows can add document, verification or submission requirements. Applying early allows time to correct a name, age, caste, income or bank mismatch. If applying after marriage, do not assume that an old video or another scheme's three-month deadline applies. Save the portal acknowledgement with its submission date and respond promptly to any deficiency message.",
+    ],
+  },
   "construction-worker-shagun-scheme-punjab": {
     heading: "Planning the Shagun claim around the marriage deadline",
     paragraphs: [
