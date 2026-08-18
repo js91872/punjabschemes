@@ -1,0 +1,1 @@
+export default function AboutPage() { return <div className="container section narrow"><h1>About Punjab Schemes</h1><p>PunjabSchemes.com is an independent information portal created to make Punjab welfare programmes easier to understand and discover.</p><p>We are not affiliated with the Government of Punjab or the Government of India.</p></div>; }

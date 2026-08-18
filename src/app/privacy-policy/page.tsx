@@ -1,0 +1,1 @@
+export default function PrivacyPage() { return <div className="container section narrow"><h1>Privacy policy</h1><p>This policy will be completed before analytics, advertising, forms or other data-processing services are enabled.</p></div>; }

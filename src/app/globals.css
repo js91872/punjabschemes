@@ -1,0 +1,29 @@
+:root { --ink:#17231b; --muted:#5a675e; --cream:#f7f4eb; --green:#14532d; --green-dark:#0d3b20; --line:#d9dfd9; --white:#fff; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; color:var(--ink); background:var(--white); font-family:Arial, Helvetica, sans-serif; line-height:1.65; }
+a { color:inherit; }
+.container { width:min(1120px, calc(100% - 2rem)); margin-inline:auto; }
+.narrow { max-width:760px; }
+.site-header { border-bottom:1px solid var(--line); background:var(--white); }
+.header-inner,.footer-inner { display:flex; align-items:center; justify-content:space-between; gap:1.5rem; min-height:72px; }
+.brand { color:var(--green-dark); font-size:1.2rem; font-weight:800; text-decoration:none; }
+nav { display:flex; flex-wrap:wrap; gap:1.25rem; }
+nav a { text-decoration:none; }
+.hero { padding:6rem 0; color:var(--white); background:linear-gradient(135deg,var(--green-dark),var(--green)); }
+h1,h2,h3 { line-height:1.15; letter-spacing:-.02em; }
+h1 { font-size:clamp(2.4rem,7vw,4.8rem); margin:.5rem 0 1rem; }
+h2 { font-size:clamp(1.7rem,4vw,2.5rem); }
+.eyebrow { font-size:.78rem; font-weight:800; letter-spacing:.12em; text-transform:uppercase; }
+.lead { color:inherit; font-size:1.2rem; max-width:62ch; }
+.button { display:inline-block; margin-top:1rem; padding:.75rem 1rem; border-radius:.35rem; color:var(--white); background:var(--green); font-weight:700; text-decoration:none; }
+.hero .button { color:var(--green-dark); background:var(--white); }
+.section { padding:4rem 0; }
+.card-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:1rem; }
+.card { padding:1.25rem; border:1px solid var(--line); border-radius:.5rem; background:var(--white); text-decoration:none; }
+.card h2,.card h3 { margin-top:0; }
+.notice,.empty-state { background:var(--cream); padding:3rem 0; }
+.empty-state { margin-top:2rem; padding:1.5rem; border-radius:.5rem; }
+.site-footer { margin-top:4rem; border-top:1px solid var(--line); color:var(--muted); }
+.footer-inner { align-items:flex-start; padding:1.5rem 0; }
+@media (max-width:640px) { .header-inner,.footer-inner { align-items:flex-start; flex-direction:column; padding:1rem 0; } .hero { padding:4rem 0; } }

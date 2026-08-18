@@ -1,0 +1,1 @@
+export default function DisclaimerPage() { return <div className="container section narrow"><h1>Disclaimer</h1><p>PunjabSchemes.com is an independent information website and is not an official government portal. Scheme rules can change; always confirm eligibility, deadlines and application procedures with the linked government department.</p></div>; }
