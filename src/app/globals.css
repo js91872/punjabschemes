@@ -86,6 +86,16 @@ h3 { font-size:1.3rem; }
 article.narrow h1,.narrow>h1 { color:var(--green-dark); font-size:clamp(2.4rem,5.5vw,4.3rem); }
 article.narrow h2 { margin-top:2.4rem; font-size:1.7rem; }
 article.narrow p,article.narrow li { color:#314238; }
+.info-page>h1 { max-width:760px; }
+.info-page h2 { margin-top:2.7rem; }
+.info-page a:not(.button) { color:var(--green); font-weight:700; }
+.policy-date { margin-top:-.35rem; color:var(--muted)!important; font-size:.86rem; }
+.contact-card { margin:2rem 0; padding:1.4rem; border:1px solid var(--line); border-radius:.65rem; background:var(--cream); }
+.contact-card span { display:block; color:var(--muted); font-size:.76rem; font-weight:900; letter-spacing:.1em; text-transform:uppercase; }
+.contact-card>a { display:inline-block; margin:.25rem 0; color:var(--green-dark)!important; font-family:Georgia,serif; font-size:1.65rem; text-decoration:none; }
+.contact-card p { margin:.45rem 0 0; }
+.info-actions { display:flex; align-items:center; flex-wrap:wrap; gap:1.25rem; margin-top:2.5rem; }
+.info-actions .button { margin-top:0; }
 .breadcrumbs { display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.5rem; color:var(--muted); font-size:.82rem; }
 .breadcrumbs a { color:var(--green); text-decoration:none; }
 .breadcrumbs a:hover,.verification-link a:hover { text-decoration:underline; }
