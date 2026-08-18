@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { notFound } from "next/navigation";
+import { SchemeCard } from "@/components/scheme-card";
 import { schemes } from "@/lib/schemes";
 
 const categories = {
@@ -32,7 +32,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ slug:
     <div className="container section narrow">
       <p className="eyebrow">Scheme category</p>
       <h1>{category} schemes in Punjab</h1>
-      {matchingSchemes.length === 0 ? <div className="empty-state">Verified guides are coming soon.</div> : matchingSchemes.map((scheme) => <Link className="card" href={`/schemes/${scheme.slug}`} key={scheme.slug}>{scheme.name}</Link>)}
+      {matchingSchemes.length === 0 ? <div className="empty-state">Verified guides are coming soon.</div> : <div className="scheme-grid">{matchingSchemes.map((scheme) => <SchemeCard scheme={scheme} key={scheme.slug} />)}</div>}
     </div>
   );
 }
