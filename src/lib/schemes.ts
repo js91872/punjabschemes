@@ -15,6 +15,30 @@ export type Scheme = {
 
 export const schemes: Scheme[] = [
   {
+    slug: "mukh-mantri-mawan-dheeyan-satkar-yojana",
+    name: "Mukh Mantri Mawan Dheeyan Satkar Yojana",
+    summary: "Punjab's monthly financial-assistance scheme for eligible women aged 18 or above: ₹1,500 for Scheduled Caste women and ₹1,000 for women in other categories.",
+    category: "Women & Children",
+    beneficiaries: "Women aged 18 or above who are registered resident voters of Punjab and hold valid Aadhaar and Punjab voter ID. There is no limit on the number of eligible women in one family, and existing social-security pension recipients may also receive this benefit.",
+    officialUrl: "https://punjab.gov.in/government/departments/social-security-and-women-child-development/",
+    department: "Department of Social Security and Women & Child Development, Government of Punjab",
+    fee: "Registration is free at every designated registration centre. The official notification says no fee may be charged to any citizen.",
+    documents: [
+      "Aadhaar card reflecting Punjab residency",
+      "Punjab voter ID issued by the Election Commission of India",
+      "Bank-account passbook for an Aadhaar-linked account",
+      "Scheduled Caste certificate, where the higher SC-category benefit is claimed",
+    ],
+    applicationMethods: [
+      "Visit a designated Anganwadi Centre or Punjab Sewa Kendra",
+      "Take the required identity, voter, bank and applicable caste documents",
+      "Complete Aadhaar authentication and the assisted registration process",
+      "Keep the registration acknowledgement and watch for official SMS or bank updates",
+    ],
+    importantNote: "Punjab Gazette Notification No. SSWCD-3/2/2026-6SS/E1074391/120 excludes specified government and public-body employees or pensioners, anyone who paid income tax in the previous financial year, serving or former ministers, MPs or MLAs, and their spouses. Assistance is paid by DBT to an Aadhaar-linked bank account.",
+    lastReviewed: "2026-08-18",
+  },
+  {
     slug: "old-age-pension-punjab",
     name: "Old Age Pension Scheme - Punjab",
     summary: "Punjab's social-security pension service for eligible older residents, administered by the Department of Social Security and Women & Child Development.",

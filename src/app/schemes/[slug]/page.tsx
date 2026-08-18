@@ -42,7 +42,7 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
       <h2>How to apply</h2>
       <ol>{scheme.applicationMethods.map((method) => <li key={method}>{method}</li>)}</ol>
       <div className="scheme-note"><strong>Important:</strong> {scheme.importantNote}</div>
-      <p><a className="button" href={scheme.officialUrl} rel="noopener noreferrer">Read the official Punjab service sheet</a></p>
+      <p><a className="button" href={scheme.officialUrl} rel="noopener noreferrer">Visit the official government source</a></p>
       <small>Information last reviewed: {scheme.lastReviewed}</small>
     </article>
   );

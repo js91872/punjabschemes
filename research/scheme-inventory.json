@@ -2,6 +2,7 @@
   "reviewedOn": "2026-08-18",
   "publicationRule": "Inventory records are research candidates, not publishable scheme guides. Benefits, eligibility, documents, application routes and current status must be verified before an entry is moved into src/lib/schemes.ts.",
   "publishedSlugs": [
+    "mukh-mantri-mawan-dheeyan-satkar-yojana",
     "old-age-pension-punjab",
     "widow-destitute-pension-punjab",
     "dependent-children-pension-punjab",
@@ -26,6 +27,15 @@
     "mySchemeRules": "https://rules.myscheme.gov.in/"
   },
   "schemes": [
+    {
+      "slug": "mukh-mantri-mawan-dheeyan-satkar-yojana",
+      "name": "Mukh Mantri Mawan Dheeyan Satkar Yojana",
+      "department": "Social Security and Women & Child Development",
+      "category": "Women & Children",
+      "status": ["official-department-listing"],
+      "sources": ["socialSecurityDepartment"],
+      "priority": "launch"
+    },
     {
       "slug": "old-age-pension-punjab",
       "name": "Old Age Pension Scheme - Punjab",
