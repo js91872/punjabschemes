@@ -24,6 +24,10 @@ h2 { font-size:clamp(1.7rem,4vw,2.5rem); }
 .card h2,.card h3 { margin-top:0; }
 .notice,.empty-state { background:var(--cream); padding:3rem 0; }
 .empty-state { margin-top:2rem; padding:1.5rem; border-radius:.5rem; }
+.scheme-alert,.scheme-note { margin:2rem 0; padding:1rem 1.25rem; border-radius:.5rem; background:var(--cream); }
+.scheme-alert { border-left:4px solid var(--green); }
+.scheme-note { border:1px solid var(--line); }
+li + li { margin-top:.45rem; }
 .site-footer { margin-top:4rem; border-top:1px solid var(--line); color:var(--muted); }
 .footer-inner { align-items:flex-start; padding:1.5rem 0; }
 @media (max-width:640px) { .header-inner,.footer-inner { align-items:flex-start; flex-direction:column; padding:1rem 0; } .hero { padding:4rem 0; } }
