@@ -19,13 +19,15 @@ export default function PrivacyPage() {
     <p>Our hosting and security providers may automatically process standard technical information such as IP address, browser and device type, requested page, referring page, date and time, and error or security events. This information is used to deliver the site, diagnose failures, prevent abuse and maintain security. Technical logs may be retained by the provider according to its operational and legal requirements.</p>
 
     <h2>Cookies, analytics and advertising</h2>
-    <p>The current portal does not require a visitor account or a scheme-application form. If analytics, advertising or other cookie-based services are introduced, this policy and any required consent controls will be updated before or when those services are enabled. Third-party advertising providers may use cookies or similar technologies to measure ads and prevent fraud, subject to their policies and applicable choices.</p>
+    <p>PunjabSchemes.com uses Google Analytics 4 to understand how visitors find and use the website. Google Analytics may use cookies or similar technologies and process information such as pages viewed, approximate location, browser and device information, referring source, interactions, session timing and an online identifier. IP addresses may be processed by Google as part of providing and protecting the service. We use aggregated reporting to improve navigation, content and website performance; we do not intentionally send scheme-application documents, Aadhaar numbers or bank details to Google Analytics.</p>
+    <p>You can restrict or delete cookies using your browser settings. Blocking analytics cookies or scripts should not prevent access to the scheme guides, although measurement may be incomplete. Google processes analytics data under its own terms and privacy practices; see <a href="https://policies.google.com/privacy" rel="noopener noreferrer">Google&apos;s Privacy Policy</a>. If advertising services are introduced later, this policy and any required controls will be updated.</p>
 
     <h2>How information is used</h2>
     <ul>
       <li>To operate, secure and improve PunjabSchemes.com</li>
       <li>To answer messages and investigate correction reports</li>
       <li>To understand and fix technical errors or abuse</li>
+      <li>To measure readership, navigation and content performance through aggregated analytics</li>
       <li>To comply with lawful obligations and enforce website protections</li>
     </ul>
 
