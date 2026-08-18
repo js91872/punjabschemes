@@ -1,0 +1,354 @@
+{
+  "reviewedOn": "2026-08-18",
+  "publicationRule": "Inventory records are research candidates, not publishable scheme guides. Benefits, eligibility, documents, application routes and current status must be verified before an entry is moved into src/lib/schemes.ts.",
+  "statuses": {
+    "official-service-listing": "Named on the current Punjab State Portal forms/services page.",
+    "official-department-listing": "Named on an official Punjab department page or manual; current operational details still require confirmation.",
+    "secondary-official-confirmation": "Also indexed by the Government of India's myScheme platform."
+  },
+  "sources": {
+    "punjabForms": "https://punjab.gov.in/forms/",
+    "socialSecurityDepartment": "https://punjab.gov.in/government/departments/social-security-and-women-child-development/",
+    "socialSecurityLegacyDepartment": "https://punjab.gov.in/government/departments/social-security1/",
+    "socialJusticeDepartment": "https://punjab.gov.in/government/departments/department-of-welfare-of-scs-bcs/",
+    "labourDepartment": "https://punjab.gov.in/government/departments/department-of-labour/",
+    "schoolEducationDepartment": "https://punjab.gov.in/government/departments/department-of-school-education/",
+    "schoolEducationManual": "https://punjab.gov.in/wp-content/uploads/2023/02/School-Education-manual.pdf",
+    "mySchemeRules": "https://rules.myscheme.gov.in/"
+  },
+  "schemes": [
+    {
+      "slug": "old-age-pension-punjab",
+      "name": "Old Age Pension Scheme - Punjab",
+      "department": "Social Security and Women & Child Development",
+      "category": "Pensions",
+      "status": ["official-service-listing", "secondary-official-confirmation"],
+      "sources": ["punjabForms", "mySchemeRules"],
+      "priority": "launch"
+    },
+    {
+      "slug": "widow-destitute-pension-punjab",
+      "name": "Widow Destitute Pension",
+      "department": "Social Security and Women & Child Development",
+      "category": "Pensions",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "launch"
+    },
+    {
+      "slug": "disabled-person-pension-punjab",
+      "name": "Disabled Person Pension",
+      "department": "Social Security and Women & Child Development",
+      "category": "Disability",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "launch"
+    },
+    {
+      "slug": "dependent-children-pension-punjab",
+      "name": "Dependent Children Pension Scheme - Punjab",
+      "department": "Social Security and Women & Child Development",
+      "category": "Children & Families",
+      "status": ["official-service-listing", "secondary-official-confirmation"],
+      "sources": ["punjabForms", "mySchemeRules"],
+      "priority": "launch"
+    },
+    {
+      "slug": "national-family-benefit-scheme-punjab",
+      "name": "National Family Benefit Scheme (Punjab)",
+      "department": "Social Security and Women & Child Development",
+      "category": "Children & Families",
+      "status": ["official-service-listing", "secondary-official-confirmation"],
+      "sources": ["punjabForms", "mySchemeRules"],
+      "priority": "launch"
+    },
+    {
+      "slug": "indira-gandhi-national-old-age-pension-punjab",
+      "name": "Indira Gandhi National Old Age Pension Scheme (Punjab)",
+      "department": "Social Security and Women & Child Development",
+      "category": "Pensions",
+      "status": ["official-department-listing", "secondary-official-confirmation"],
+      "sources": ["socialSecurityLegacyDepartment", "mySchemeRules"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "indira-gandhi-national-disability-pension-punjab",
+      "name": "Indira Gandhi National Disability Pension Scheme (Punjab)",
+      "department": "Social Security and Women & Child Development",
+      "category": "Disability",
+      "status": ["secondary-official-confirmation"],
+      "sources": ["mySchemeRules"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "indira-gandhi-national-widow-pension-punjab",
+      "name": "Indira Gandhi National Widow Pension Scheme (Punjab)",
+      "department": "Social Security and Women & Child Development",
+      "category": "Pensions",
+      "status": ["secondary-official-confirmation"],
+      "sources": ["mySchemeRules"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "bebe-nanki-laadli-beti-kalyan-scheme",
+      "name": "Bebe Nanki Laadli Beti Kalyan Scheme",
+      "department": "Social Security and Women & Child Development",
+      "category": "Women & Children",
+      "status": ["official-department-listing", "secondary-official-confirmation"],
+      "sources": ["socialSecurityLegacyDepartment", "mySchemeRules"],
+      "priority": "launch"
+    },
+    {
+      "slug": "mai-bhago-vidya-scheme",
+      "name": "Mai Bhago Vidya Scheme",
+      "department": "Social Security and Women & Child Development",
+      "category": "Education",
+      "status": ["official-department-listing"],
+      "sources": ["socialSecurityLegacyDepartment"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "financial-assistance-acid-attack-victims-punjab",
+      "name": "Punjab Financial Assistance to Acid Victims Scheme",
+      "department": "Social Security and Women & Child Development",
+      "category": "Women & Children",
+      "status": ["secondary-official-confirmation"],
+      "sources": ["mySchemeRules"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "aashirwad-scheme-punjab",
+      "name": "Aashirwad Scheme",
+      "department": "Social Justice, Empowerment and Minorities",
+      "category": "Marriage Assistance",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "launch"
+    },
+    {
+      "slug": "post-matric-scholarship-sc-punjab",
+      "name": "Post Matric Scholarship to SC Students",
+      "department": "Social Justice, Empowerment and Minorities",
+      "category": "Scholarships",
+      "status": ["official-service-listing", "official-department-listing"],
+      "sources": ["punjabForms", "schoolEducationManual"],
+      "priority": "launch"
+    },
+    {
+      "slug": "post-matric-scholarship-obc-punjab",
+      "name": "Post Matric Scholarship to OBC Students",
+      "department": "Social Justice, Empowerment and Minorities",
+      "category": "Scholarships",
+      "status": ["official-service-listing", "official-department-listing"],
+      "sources": ["punjabForms", "schoolEducationManual"],
+      "priority": "launch"
+    },
+    {
+      "slug": "pre-matric-scholarship-sc-punjab",
+      "name": "Pre-Matric Scholarship for SC Students",
+      "department": "School Education",
+      "category": "Scholarships",
+      "status": ["official-department-listing"],
+      "sources": ["schoolEducationManual"],
+      "priority": "launch"
+    },
+    {
+      "slug": "pre-matric-scholarship-obc-punjab",
+      "name": "Pre-Matric Scholarship for OBC Students",
+      "department": "School Education",
+      "category": "Scholarships",
+      "status": ["official-department-listing"],
+      "sources": ["schoolEducationManual"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "national-means-cum-merit-scholarship-punjab",
+      "name": "National Means-cum-Merit Scholarship Scheme",
+      "department": "School Education",
+      "category": "Scholarships",
+      "status": ["official-department-listing"],
+      "sources": ["schoolEducationManual"],
+      "priority": "launch"
+    },
+    {
+      "slug": "dr-hargobind-khurana-scholarship-punjab",
+      "name": "Dr. Hargobind Khurana Scholarship Scheme",
+      "department": "School Education",
+      "category": "Scholarships",
+      "status": ["official-department-listing"],
+      "sources": ["schoolEducationManual"],
+      "priority": "launch"
+    },
+    {
+      "slug": "encouragement-award-sc-girl-students-punjab",
+      "name": "Encouragement Award to SC Girl Students for Pursuing 10+2 Education",
+      "department": "School Education",
+      "category": "Scholarships",
+      "status": ["official-department-listing"],
+      "sources": ["schoolEducationManual"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "attendance-scholarship-sc-primary-girls-punjab",
+      "name": "Attendance Scholarship to SC Primary Girl Students",
+      "department": "School Education",
+      "category": "Scholarships",
+      "status": ["official-department-listing"],
+      "sources": ["schoolEducationManual"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "attendance-scholarship-bc-ews-primary-girls-punjab",
+      "name": "Attendance Scholarship to BC/EWS Primary Girl Students",
+      "department": "School Education",
+      "category": "Scholarships",
+      "status": ["official-department-listing"],
+      "sources": ["schoolEducationManual"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-pension-punjab",
+      "name": "Pension Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing", "secondary-official-confirmation"],
+      "sources": ["punjabForms", "mySchemeRules"],
+      "priority": "launch"
+    },
+    {
+      "slug": "construction-worker-scholarship-punjab",
+      "name": "Scholarship Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "launch"
+    },
+    {
+      "slug": "construction-worker-cycle-scheme-punjab",
+      "name": "Cycle Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-maternity-benefit-punjab",
+      "name": "Maternity Benefit Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "launch"
+    },
+    {
+      "slug": "construction-worker-funeral-assistance-punjab",
+      "name": "Financial Assistance for Funeral or Last Rites",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-general-surgery-scheme-punjab",
+      "name": "General Surgery Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-housing-scheme-punjab",
+      "name": "Housing Scheme, Vertical II (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-skilled-training-incentive-punjab",
+      "name": "Skilled Training Incentive (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-ltc-scheme-punjab",
+      "name": "LTC Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-disabled-children-benefit-punjab",
+      "name": "Disabled Children Benefit Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-occupational-disease-reimbursement-punjab",
+      "name": "Occupational Disease Expenditure Reimbursement",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-shagun-scheme-punjab",
+      "name": "Shagun Scheme for Marriage of Daughter (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "launch"
+    },
+    {
+      "slug": "construction-worker-skill-upgradation-punjab",
+      "name": "Skill Upgradation and Vocational Education Scheme",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-assistive-devices-punjab",
+      "name": "Spectacles, Denture and Hearing Aid Scheme",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing", "secondary-official-confirmation"],
+      "sources": ["punjabForms", "mySchemeRules"],
+      "priority": "secondary"
+    },
+    {
+      "slug": "construction-worker-ex-gratia-punjab",
+      "name": "Ex-Gratia Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "launch"
+    },
+    {
+      "slug": "construction-worker-tools-kit-punjab",
+      "name": "Tools Kit Scheme (Punjab BOCW Welfare Board)",
+      "department": "Labour",
+      "category": "Construction Workers",
+      "status": ["official-service-listing"],
+      "sources": ["punjabForms"],
+      "priority": "secondary"
+    }
+  ]
+}

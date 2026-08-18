@@ -36,8 +36,8 @@ npm run check
 
 ## Planned phases
 
-1. Build and verify a Punjab scheme inventory.
-2. Map search intent and define category/URL architecture.
+1. Verify the candidate records in `research/scheme-inventory.json` against scheme-specific official documents.
+2. Map search intent and finalize category/URL architecture.
 3. Select the first 20–30 launch guides.
 4. Add reviewed scheme content and structured data.
 5. Complete legal, contact, analytics and advertising disclosures before launch.
