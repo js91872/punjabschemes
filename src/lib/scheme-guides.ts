@@ -84,6 +84,42 @@ export const schemeGuides: Record<string, SchemeGuide> = {
       { question: "How can the application be submitted?", answer: "Punjab lists Punjab Connect, Sewa Kendras and 1076 doorstep-service guidance as application or assistance channels." },
     ],
   },
+  "disabled-person-pension-punjab": {
+    overview: [
+      "Punjab's Disabled Person Pension service provides financial assistance after the Department of Social Security and Women and Child Development verifies the beneficiary's disability evidence and the other conditions recorded in the application. The form covers a broad range of physical, visual, hearing, speech, intellectual, neurological, blood-disorder and multiple-disability categories.",
+      "The person with disability may apply personally. Where another person applies, the form recognizes the mother, father or guardian and requests that person's identity and residence evidence. For a minor beneficiary, the official note says that either the father, mother or guardian must make the declaration.",
+      "The application captures disability type and percentage, Punjab residence history, annual income, Aadhaar and the beneficiary's own bank details. Approval is not based on a diagnosis name alone: the disability proof must come from a competent authority and the department also examines the declaration concerning income, work, property and tax status.",
+    ],
+    benefitDetails: [
+      "Recurring financial assistance after departmental approval",
+      "Coverage across disability categories listed in the official Punjab form",
+      "A parent or guardian application route where applicable",
+      "₹0 government fee and ₹0 facilitation charge on the official form",
+      "Payment using the beneficiary bank account accepted during processing",
+    ],
+    eligibilityChecklist: [
+      "The beneficiary is a person with disability residing in Punjab",
+      "Disability type and percentage are certified by a competent authority",
+      "Current departmental income, employment, land, property and tax conditions are satisfied",
+      "Accepted age and residence evidence is available",
+      "A parent or guardian can provide the additional evidence where the beneficiary does not apply personally",
+      "The beneficiary's bank details can be verified",
+    ],
+    practicalTips: [
+      "Check that the disability certificate clearly records the beneficiary, disability and percentage.",
+      "Use the beneficiary's bank details, as requested in the official form, and confirm the account is active.",
+      "If a parent or guardian applies, prepare both the representative's and beneficiary's details.",
+      "Read the entire self-declaration before signing and reconfirm its older financial thresholds.",
+      "Keep the supporting file even after submission because the declaration says it may be requested later.",
+    ],
+    faqs: [
+      { question: "Can a parent apply for a child with disability?", answer: "Yes. The official form permits a mother, father or guardian to apply, and specifically requires one of them to declare where the person with disability is a minor." },
+      { question: "Is a disability certificate mandatory?", answer: "Yes. Proof of disability issued by the competent authority is listed as mandatory." },
+      { question: "Does the form charge a fee?", answer: "No. The form lists a government fee of ₹0 and facilitation charges of ₹0." },
+      { question: "Which disability categories appear on the form?", answer: "The form includes physical, visual, hearing, speech and language, intellectual, neurological, blood-disorder and multiple disabilities, with several listed subtypes." },
+      { question: "Is the ₹60,000 income figure definitely current?", answer: "It appears in the self-declaration of the official form, but that form is marked last revised in February 2019. Confirm the operative threshold before applying." },
+    ],
+  },
   "construction-worker-shagun-scheme-punjab": {
     overview: ["The BOCW Shagun Scheme provides marriage assistance to eligible construction-worker families registered with the Punjab Building and Other Construction Workers Welfare Board. It covers the first marriage of up to two daughters; an eligible woman registered as a Board beneficiary may also claim for her own first marriage.", "This is a time-sensitive claim. The Board's Form 35 requires the application within three months after marriage and asks for both civil-registration evidence and supporting photographs. Active Board membership and contribution status should be checked before submission."],
     benefitDetails: ["₹31,000 for each approved eligible marriage", "Coverage for the marriages of up to two daughters", "Own-marriage eligibility for a registered female beneficiary", "Direct payment using the accepted bank details"],
