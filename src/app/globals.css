@@ -85,6 +85,10 @@ h3 { font-size:1.3rem; }
 .scheme-note { border:1px solid var(--line); }
 article.narrow h1,.narrow>h1 { color:var(--green-dark); font-size:clamp(2.4rem,5.5vw,4.3rem); }
 article.narrow h2 { margin-top:2.4rem; font-size:1.7rem; }
+article.narrow p,article.narrow li { color:#314238; }
+.faq-section details { margin:.8rem 0; padding:1rem 1.1rem; border:1px solid var(--line); border-radius:.5rem; background:#fbfcfb; }
+.faq-section summary { color:var(--green-dark); font-weight:800; cursor:pointer; }
+.faq-section details p { margin:.7rem 0 0; }
 li+li { margin-top:.45rem; }
 .site-footer { padding-top:3.5rem; color:#ccddd1; background:#082f1c; }
 .footer-inner { display:grid; grid-template-columns:1.7fr 1fr 1fr; align-items:start; gap:3rem; padding-bottom:3rem; }
