@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getScheme, schemes } from "@/lib/schemes";
 import { schemeGuides } from "@/lib/scheme-guides";
+import { getApplicationGuide } from "@/lib/application-guide";
+import { schemeDeepDives } from "@/lib/scheme-deep-dives";
 import { siteConfig } from "@/lib/site";
 
 export function generateStaticParams() { return schemes.map(({ slug }) => ({ slug })); }
@@ -17,6 +19,8 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
   const scheme = getScheme((await params).slug);
   if (!scheme) notFound();
   const guide = schemeGuides[scheme.slug];
+  const applicationGuide = getApplicationGuide(scheme).slice(0, 4);
+  const deepDive = schemeDeepDives[scheme.slug];
   const structuredData = {
     "@context": "https://schema.org",
     "@graph": [
@@ -67,6 +71,14 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
         <ul>{guide.practicalTips.map((tip) => <li key={tip}>{tip}</li>)}</ul>
       </>}
       <div className="scheme-note"><strong>Important:</strong> {scheme.importantNote}</div>
+      {deepDive && <section>
+        <h2>{deepDive.heading}</h2>
+        {deepDive.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+      </section>}
+      {applicationGuide.map((section) => <section key={section.heading}>
+        <h2>{section.heading}</h2>
+        {section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
+      </section>)}
       {guide && <section className="faq-section">
         <h2>Frequently asked questions</h2>
         {guide.faqs.map((faq) => <details key={faq.question}><summary>{faq.question}</summary><p>{faq.answer}</p></details>)}

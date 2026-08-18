@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "check": "npm run lint && npm run typecheck && npm run build"
+    "content:check": "node scripts/verify-content.mjs",
+    "check": "npm run lint && npm run typecheck && npm run content:check && npm run build"
   },
   "dependencies": {
     "next": "16.3.1",
