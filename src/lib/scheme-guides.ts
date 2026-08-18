@@ -120,6 +120,42 @@ export const schemeGuides: Record<string, SchemeGuide> = {
       { question: "Is the ₹60,000 income figure definitely current?", answer: "It appears in the self-declaration of the official form, but that form is marked last revised in February 2019. Confirm the operative threshold before applying." },
     ],
   },
+  "national-family-benefit-scheme-punjab": {
+    overview: [
+      "The National Family Benefit Scheme is designed to provide one-time support when a below-poverty-line family loses its primary earning member. In Punjab, the Department of Social Security and Women and Child Development processes the service and asks for information about the beneficiary, the deceased person and the family's BPL record.",
+      "The official form explains that the primary earning member can be a woman or a man and is the person whose income was greater than the family's other earning members. It records that the person must have been between 18 and 64 years of age at death. The applicant therefore needs evidence of death as well as enough family information for the department to verify the deceased person's role and the family's BPL status.",
+      "This is not a continuing pension. It is a family-benefit claim linked to a specific death and household circumstances. The available Punjab form is older and does not print the grant amount, so the amount should be confirmed through the department rather than inferred from national summaries or another state's portal.",
+    ],
+    benefitDetails: [
+      "One-time financial assistance after approval of an eligible family claim",
+      "Coverage following the death of a woman or man who was the family's primary earner",
+      "Service for a family meeting the current BPL verification rules",
+      "Free application form through the District Social Security Officer office",
+      "No assistance amount stated in the Punjab form reviewed for this guide",
+    ],
+    eligibilityChecklist: [
+      "The family meets Punjab's currently accepted below-poverty-line verification requirement",
+      "The deceased person was the family's primary earning member",
+      "The deceased person's age at death falls within the currently operative scheme rule",
+      "A registered death certificate is available",
+      "The applicant can establish the relationship to the beneficiary and deceased person",
+      "Family, BPL, identity and bank records are consistent and verifiable",
+    ],
+    practicalTips: [
+      "Obtain the registered death certificate before beginning the benefit application.",
+      "Check the deceased person's name, parent or spouse name, age and death date across records.",
+      "Locate the BPL card, family ID and member ID information requested by the form.",
+      "Ask the District Social Security Officer to confirm the current grant and filing deadline.",
+      "Keep the complete application copy and acknowledgement for follow-up.",
+    ],
+    faqs: [
+      { question: "Who is treated as the primary earning member?", answer: "The Punjab form describes the primary earning woman or man as the person whose income was greater than the family's other earning members." },
+      { question: "What age condition appears in the form?", answer: "The available form says the primary earner's age at death is considered between 18 and 64 years, but this should be reconfirmed because the form was last revised in 2017." },
+      { question: "Is a death certificate mandatory?", answer: "Yes. A scanned copy of the death certificate is listed as mandatory, along with the self-declaration." },
+      { question: "Does the scheme provide a monthly pension?", answer: "No. It is a one-time family-benefit claim associated with the death of the primary earner." },
+      { question: "How much assistance is paid in Punjab?", answer: "The official Punjab form reviewed for this article does not state an amount. Confirm the currently sanctioned grant with the department before relying on a third-party figure." },
+    ],
+  },
   "construction-worker-shagun-scheme-punjab": {
     overview: ["The BOCW Shagun Scheme provides marriage assistance to eligible construction-worker families registered with the Punjab Building and Other Construction Workers Welfare Board. It covers the first marriage of up to two daughters; an eligible woman registered as a Board beneficiary may also claim for her own first marriage.", "This is a time-sensitive claim. The Board's Form 35 requires the application within three months after marriage and asks for both civil-registration evidence and supporting photographs. Active Board membership and contribution status should be checked before submission."],
     benefitDetails: ["₹31,000 for each approved eligible marriage", "Coverage for the marriages of up to two daughters", "Own-marriage eligibility for a registered female beneficiary", "Direct payment using the accepted bank details"],

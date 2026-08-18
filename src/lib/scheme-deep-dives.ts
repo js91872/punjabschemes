@@ -34,6 +34,13 @@ export const schemeDeepDives: Record<string, { heading: string; paragraphs: stri
       "A representative application must keep the beneficiary and applicant roles distinct. The form asks for the representative's relationship to the person with disability and separately records the beneficiary's personal, disability, Aadhaar and bank details. When the beneficiary is a minor, a parent or guardian signs or gives the declaration. The self-declaration also contains means-related statements about employment, self-employment, land, annual income, commercial property, urban residential property and tax status. These statements must be truthful, but their monetary and property thresholds come from a form last revised in 2019. Ask the department to confirm that those limits remain operative, and preserve the full application file because the declaration requires it to be produced if requested later.",
     ],
   },
+  "national-family-benefit-scheme-punjab": {
+    heading: "Proving the primary-earner and BPL-family conditions",
+    paragraphs: [
+      "The death certificate proves the event and date, but it does not by itself prove that the deceased person was the family's primary earner. The form asks for deceased-person details, age at death and BPL-family information so that the authority can assess the complete case. Prepare a clear explanation of the household at the time of death: who the earning members were, how the deceased person was related to the beneficiary, and why that person met the primary-earner definition. Do not change or simplify family details merely to fit the form. If the deceased worked informally and left no salary record, ask the District Social Security Officer what current evidence or local verification is accepted rather than attaching an unsupported income estimate.",
+      "BPL evidence must identify the relevant family, not merely show that a relative once held a card. The older form asks for the BPL number, year and place of issue, family ID, member ID and recommendation details. Check whether the deceased and beneficiary appear correctly in the record used by Punjab today. If the card is damaged, the family composition changed, or an electronic record replaced an older card, obtain guidance before submission. Also ask about the current time limit: bereavement and certificate registration can cause delay, but an assumed deadline from another state should not guide a Punjab claim. A dated acknowledgement is essential because it records when the completed application reached the authorized service.",
+    ],
+  },
   "construction-worker-shagun-scheme-punjab": {
     heading: "Planning the Shagun claim around the marriage deadline",
     paragraphs: [
