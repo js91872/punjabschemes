@@ -86,6 +86,22 @@ h3 { font-size:1.3rem; }
 article.narrow h1,.narrow>h1 { color:var(--green-dark); font-size:clamp(2.4rem,5.5vw,4.3rem); }
 article.narrow h2 { margin-top:2.4rem; font-size:1.7rem; }
 article.narrow p,article.narrow li { color:#314238; }
+.breadcrumbs { display:flex; flex-wrap:wrap; gap:.5rem; margin-bottom:1.5rem; color:var(--muted); font-size:.82rem; }
+.breadcrumbs a { color:var(--green); text-decoration:none; }
+.breadcrumbs a:hover,.verification-link a:hover { text-decoration:underline; }
+.category-page>h1 { max-width:900px; color:var(--green-dark); font-size:clamp(2.5rem,5.5vw,4.4rem); }
+.category-page>.lead { max-width:780px; color:var(--muted); }
+.category-page section { margin-top:3.5rem; }
+.comparison-wrap { overflow-x:auto; border:1px solid var(--line); border-radius:.65rem; }
+.comparison-table { width:100%; border-collapse:collapse; background:var(--white); }
+.comparison-table th,.comparison-table td { padding:1rem; border-bottom:1px solid var(--line); text-align:left; vertical-align:top; }
+.comparison-table th { color:var(--green-dark); background:var(--cream); font-size:.78rem; letter-spacing:.05em; text-transform:uppercase; }
+.comparison-table td:nth-child(2) { min-width:360px; color:var(--muted); }
+.comparison-table tr:last-child td { border-bottom:0; }
+.category-explainer { max-width:780px; padding:1.4rem; border-left:4px solid var(--green); background:var(--cream); }
+.verification-link a { color:var(--green); font-weight:800; }
+.related-section { margin-top:4rem; padding-top:2rem; border-top:1px solid var(--line); }
+.related-section .scheme-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
 .faq-section details { margin:.8rem 0; padding:1rem 1.1rem; border:1px solid var(--line); border-radius:.5rem; background:#fbfcfb; }
 .faq-section summary { color:var(--green-dark); font-weight:800; cursor:pointer; }
 .faq-section details p { margin:.7rem 0 0; }
@@ -98,5 +114,5 @@ li+li { margin-top:.45rem; }
 .footer-inner nav { display:flex; align-items:flex-start; flex-direction:column; gap:.55rem; }
 .footer-inner nav a { color:#bfd2c4; font-weight:500; }
 .footer-bottom { padding:1.1rem 0; border-top:1px solid rgba(255,255,255,.12); color:#93b19d; font-size:.78rem; }
-@media (max-width:900px) { .hero-grid,.trust-section,.notice-inner { grid-template-columns:1fr; gap:2.5rem; } .hero-panel { max-width:520px; } .category-grid { grid-template-columns:repeat(2,1fr); } .scheme-grid { grid-template-columns:repeat(2,1fr); } }
-@media (max-width:680px) { .trust-bar { text-align:left; } .header-inner { align-items:flex-start; flex-direction:column; padding:.9rem 0; } .site-header { position:static; } .header-inner nav { gap:.85rem 1.15rem; } .brand small { display:none; } .hero { padding:4.5rem 0; } .hero::after { display:none; } .hero-actions { flex-direction:column; align-items:stretch; } .hero-actions .button { text-align:center; } .section { padding:4rem 0; } .section-heading { align-items:flex-start; flex-direction:column; gap:.5rem; } .category-grid,.scheme-grid { grid-template-columns:1fr; } .category-card { min-height:215px; } .trust-section { gap:1.5rem; } .notice-inner { gap:1rem; } .footer-inner { grid-template-columns:1fr; gap:2rem; } }
+@media (max-width:900px) { .hero-grid,.trust-section,.notice-inner { grid-template-columns:1fr; gap:2.5rem; } .hero-panel { max-width:520px; } .category-grid { grid-template-columns:repeat(2,1fr); } .scheme-grid,.related-section .scheme-grid { grid-template-columns:repeat(2,1fr); } }
+@media (max-width:680px) { .trust-bar { text-align:left; } .header-inner { align-items:flex-start; flex-direction:column; padding:.9rem 0; } .site-header { position:static; } .header-inner nav { gap:.85rem 1.15rem; } .brand small { display:none; } .hero { padding:4.5rem 0; } .hero::after { display:none; } .hero-actions { flex-direction:column; align-items:stretch; } .hero-actions .button { text-align:center; } .section { padding:4rem 0; } .section-heading { align-items:flex-start; flex-direction:column; gap:.5rem; } .category-grid,.scheme-grid,.related-section .scheme-grid { grid-template-columns:1fr; } .category-card { min-height:215px; } .trust-section { gap:1.5rem; } .notice-inner { gap:1rem; } .footer-inner { grid-template-columns:1fr; gap:2rem; } }

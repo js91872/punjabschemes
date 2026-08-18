@@ -2,15 +2,17 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { SchemeCard } from "@/components/scheme-card";
 import { schemes } from "@/lib/schemes";
+import { categoryConfig, categorySlugFor } from "@/lib/categories";
 
-const categories = [
-  { name: "Pensions", slug: "pensions", description: "Old age, widow and other social-security pension guidance.", accent: "01" },
-  { name: "Scholarships", slug: "scholarships", description: "Education support for eligible students across Punjab.", accent: "02" },
-  { name: "Women & Children", slug: "women-and-children", description: "Family assistance and programmes focused on women and children.", accent: "03" },
-  { name: "Construction Workers", slug: "construction-workers", description: "Welfare Board benefits for registered building workers and families.", accent: "04" },
-];
+const categories = Object.entries(categoryConfig)
+  .map(([slug, category]) => ({ ...category, slug, count: schemes.filter((scheme) => categorySlugFor(scheme.category) === slug).length }))
+  .filter((category) => category.count > 0);
 
-export const metadata: Metadata = { alternates: { canonical: "/" } };
+export const metadata: Metadata = {
+  title: { absolute: "Punjab Government Schemes 2026 – Eligibility, Benefits & Apply Online" },
+  description: "Find Punjab government schemes, pensions, scholarships and welfare benefits. Check eligibility, documents, benefits and official application links.",
+  alternates: { canonical: "/" },
+};
 
 export default function Home() {
   return (
@@ -19,8 +21,8 @@ export default function Home() {
         <div className="container hero-grid">
           <div>
             <p className="eyebrow">Punjab welfare, explained clearly</p>
-            <h1>Find the support you may be eligible for.</h1>
-            <p className="lead">Understand benefits, prepare documents and reach the right official application service—without the jargon.</p>
+            <h1>Punjab Government Schemes 2026</h1>
+            <p className="lead">Find Punjab government schemes, pensions, scholarships and welfare benefits. Check eligibility, documents, benefits and official application links—without the jargon.</p>
             <div className="hero-actions"><Link className="button button-light" href="/schemes">Find a scheme</Link><Link className="button button-ghost" href="/about">How we verify information</Link></div>
           </div>
           <aside className="hero-panel" aria-label="Portal highlights">
@@ -34,9 +36,9 @@ export default function Home() {
       <section className="container section section-head-wrap">
         <div className="section-heading"><div><p className="eyebrow green">Browse by need</p><h2>Explore scheme categories</h2></div><Link className="text-link" href="/schemes">See all verified guides →</Link></div>
         <div className="category-grid">
-          {categories.map((category) => (
+          {categories.map((category, index) => (
             <Link className="category-card" href={`/categories/${category.slug}`} key={category.slug}>
-              <span className="category-number">{category.accent}</span>
+              <span className="category-number">{String(index + 1).padStart(2, "0")} · {category.count} guides</span>
               <h3>{category.name}</h3>
               <p>{category.description}</p><span className="category-arrow" aria-hidden="true">↗</span>
             </Link>

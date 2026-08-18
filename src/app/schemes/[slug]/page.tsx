@@ -1,10 +1,14 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
+import { SchemeCard } from "@/components/scheme-card";
+import { categoryConfig, categorySlugFor } from "@/lib/categories";
 import { getScheme, schemes } from "@/lib/schemes";
 import { schemeGuides } from "@/lib/scheme-guides";
 import { getApplicationGuide } from "@/lib/application-guide";
 import { schemeDeepDives } from "@/lib/scheme-deep-dives";
 import { siteConfig } from "@/lib/site";
+import { schemeSeo } from "@/lib/scheme-seo";
 
 export function generateStaticParams() { return schemes.map(({ slug }) => ({ slug })); }
 
@@ -12,7 +16,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const scheme = getScheme(slug);
   if (!scheme) return {};
-  return { title: scheme.name, description: scheme.summary, alternates: { canonical: `/schemes/${slug}` } };
+  const seo = schemeSeo[slug];
+  return { title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, alternates: { canonical: `/schemes/${slug}` }, openGraph: { type: "article", title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, url: `/schemes/${slug}` } };
 }
 
 export default async function SchemePage({ params }: { params: Promise<{ slug: string }> }) {
@@ -21,6 +26,10 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
   const guide = schemeGuides[scheme.slug];
   const applicationGuide = getApplicationGuide(scheme).slice(0, 4);
   const deepDive = schemeDeepDives[scheme.slug];
+  const categorySlug = categorySlugFor(scheme.category);
+  const category = categoryConfig[categorySlug];
+  const sameCategory = schemes.filter((item) => item.slug !== scheme.slug && item.category === scheme.category);
+  const relatedSchemes = [...sameCategory, ...schemes.filter((item) => item.slug !== scheme.slug && item.category !== scheme.category)].slice(0, 3);
   const structuredData = {
     "@context": "https://schema.org",
     "@graph": [
@@ -40,11 +49,20 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
           acceptedAnswer: { "@type": "Answer", text: faq.answer },
         })),
       }] : []),
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: siteConfig.url },
+          { "@type": "ListItem", position: 2, name: category.name, item: `${siteConfig.url}/categories/${categorySlug}` },
+          { "@type": "ListItem", position: 3, name: scheme.name, item: `${siteConfig.url}/schemes/${scheme.slug}` },
+        ],
+      },
     ],
   };
   return (
     <article className="container section narrow">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }} />
+      <nav className="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Home</Link><span>›</span><Link href={`/categories/${categorySlug}`}>{category.name}</Link><span>›</span><span>{scheme.name}</span></nav>
       <p className="eyebrow">{scheme.category}</p>
       <h1>{scheme.name}</h1>
       <p className="lead">{scheme.summary}</p>
@@ -86,7 +104,9 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
       <h2>Official source and verification</h2>
       <p>We reviewed the government material linked below and summarized it in plain language. Scheme rules, amounts, deadlines and service channels can change; use the official source for the final check before applying.</p>
       <p><a className="button" href={scheme.officialUrl} rel="noopener noreferrer">Visit the official government source</a></p>
+      <p className="verification-link"><Link href="/editorial-policy">How we verify and update scheme information →</Link></p>
       <small>Information last reviewed: {scheme.lastReviewed}</small>
+      <section className="related-section"><h2>Related Punjab schemes</h2><p>Continue comparing verified guidance before deciding which programme matches your circumstances.</p><div className="scheme-grid">{relatedSchemes.map((related) => <SchemeCard key={related.slug} scheme={related} />)}</div><p><Link className="text-link" href={`/categories/${categorySlug}`}>View all {category.name.toLowerCase()} guides →</Link></p></section>
     </article>
   );
 }
