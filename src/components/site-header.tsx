@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export function SiteHeader() {
@@ -7,7 +8,7 @@ export function SiteHeader() {
       <header className="site-header">
         <div className="container header-inner">
           <Link className="brand" href="/" aria-label="Punjab Schemes home">
-            <span className="brand-mark" aria-hidden="true">PS</span>
+            <Image className="brand-mark" src="/brand/punjab-schemes-mark.svg" alt="" width={48} height={48} priority />
             <span><strong>Punjab Schemes</strong><small>Clear guidance. Official sources.</small></span>
           </Link>
           <nav aria-label="Main navigation">
