@@ -3,10 +3,30 @@ import Link from "next/link";
 import { SchemeCard } from "@/components/scheme-card";
 import { schemes } from "@/lib/schemes";
 import { categoryConfig, categorySlugFor } from "@/lib/categories";
+import { siteConfig } from "@/lib/site";
 
 const categories = Object.entries(categoryConfig)
   .map(([slug, category]) => ({ ...category, slug, count: schemes.filter((scheme) => categorySlugFor(scheme.category) === slug).length }))
   .filter((category) => category.count > 0);
+
+const homepageFaqs = [
+  {
+    question: "Is PunjabSchemes.com an official government website?",
+    answer: "No. PunjabSchemes.com is an independent information portal. We explain schemes in plain language and link to the responsible government department for applications and final decisions.",
+  },
+  {
+    question: "How is scheme information checked?",
+    answer: "Each published guide is checked against an official department page, board website, notification or government document. The guide also shows when its information was last verified.",
+  },
+  {
+    question: "Can I apply for a scheme on this website?",
+    answer: "No. We do not accept applications, documents or payments. Use the official application route linked inside the relevant scheme guide.",
+  },
+  {
+    question: "What should I do if scheme rules have changed?",
+    answer: "Treat the responsible department as the final authority. Check the official source linked in the guide and contact the department before submitting an application.",
+  },
+];
 
 export const metadata: Metadata = {
   title: { absolute: "Punjab Government Schemes 2026 – Eligibility, Benefits & Apply Online" },
@@ -15,8 +35,38 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": `${siteConfig.url}/#organization`,
+        name: siteConfig.name,
+        url: siteConfig.url,
+        logo: `${siteConfig.url}/brand/punjab-schemes-logo.png`,
+        email: "info@punjabschemes.com",
+      },
+      {
+        "@type": "WebSite",
+        "@id": `${siteConfig.url}/#website`,
+        name: siteConfig.name,
+        url: siteConfig.url,
+        description: siteConfig.description,
+        publisher: { "@id": `${siteConfig.url}/#organization` },
+      },
+      {
+        "@type": "FAQPage",
+        mainEntity: homepageFaqs.map((faq) => ({
+          "@type": "Question",
+          name: faq.question,
+          acceptedAnswer: { "@type": "Answer", text: faq.answer },
+        })),
+      },
+    ],
+  };
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }} />
       <section className="hero">
         <div className="container hero-grid">
           <div>
@@ -49,6 +99,13 @@ export default function Home() {
       <section className="container section trust-section">
         <div><p className="eyebrow green">A safer way to research</p><h2>Government information, made easier—not replaced.</h2></div>
         <div className="trust-steps"><div><span>1</span><h3>We check the source</h3><p>Every published guide links to a Punjab government department or official board document.</p></div><div><span>2</span><h3>We explain the process</h3><p>Documents and application routes are organised into a practical checklist.</p></div><div><span>3</span><h3>You confirm officially</h3><p>Rules can change, so the final decision always belongs to the responsible department.</p></div></div>
+      </section>
+      <section className="container section home-faq">
+        <p className="eyebrow green">Before you use a guide</p>
+        <h2>Frequently asked questions</h2>
+        <div className="home-faq-list">
+          {homepageFaqs.map((faq) => <details key={faq.question}><summary>{faq.question}</summary><p>{faq.answer}</p></details>)}
+        </div>
       </section>
       <section className="notice">
         <div className="container notice-inner">

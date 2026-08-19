@@ -9,7 +9,7 @@ export function SchemeCard({ scheme }: { scheme: Scheme }) {
   return (
     <article className="scheme-card">
       {image && <Link className="scheme-card-image" href={`/schemes/${scheme.slug}`} aria-label={`Read ${scheme.name}`}>
-        <Image src={image.src} alt="" width={1200} height={800} sizes="(max-width: 680px) 100vw, (max-width: 900px) 50vw, 33vw" />
+        <Image src={image.src} alt={image.alt} width={1200} height={800} sizes="(max-width: 680px) calc(100vw - 2rem), (max-width: 900px) calc(50vw - 1.6rem), 370px" />
       </Link>}
       <div className="scheme-card-content">
         <div className="scheme-card-top"><span className="pill">{scheme.category}</span><span className="verified-mark">Official source</span></div>

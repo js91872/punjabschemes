@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!scheme) return {};
   const seo = schemeSeo[slug];
   const image = getSchemeImage(slug);
-  return { title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, alternates: { canonical: `/schemes/${slug}` }, openGraph: { type: "article", title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, url: `/schemes/${slug}`, images: image ? [{ url: image.src, width: 1200, height: 800, alt: image.alt }] : undefined } };
+  return { title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, alternates: { canonical: `/schemes/${slug}` }, openGraph: { type: "article", title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, url: `/schemes/${slug}`, images: image ? [{ url: `${siteConfig.url}${image.src}`, width: 1200, height: 800, alt: image.alt }] : undefined } };
 }
 
 export default async function SchemePage({ params }: { params: Promise<{ slug: string }> }) {
@@ -44,6 +44,7 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
         dateModified: scheme.lastReviewed,
         mainEntityOfPage: `${siteConfig.url}/schemes/${scheme.slug}`,
         image: featuredImage ? `${siteConfig.url}${featuredImage.src}` : undefined,
+        author: { "@type": "Organization", name: "PunjabSchemes Editorial Team", url: `${siteConfig.url}/editorial-policy` },
         publisher: { "@type": "Organization", name: siteConfig.name, url: siteConfig.url },
       },
       ...(guide ? [{
@@ -72,7 +73,7 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
       <h1>{scheme.name}</h1>
       <p className="lead">{scheme.summary}</p>
       {featuredImage && <figure className="scheme-featured-image">
-        <Image src={featuredImage.src} alt={featuredImage.alt} width={1200} height={800} priority sizes="(max-width: 812px) 100vw, 780px" />
+        <Image src={featuredImage.src} alt={featuredImage.alt} width={1200} height={800} priority sizes="(max-width: 812px) calc(100vw - 2rem), 780px" />
         <figcaption>Illustrative image created for PunjabSchemes.com; it is not official government artwork.</figcaption>
       </figure>}
       <div className="scheme-alert"><strong>Independent guidance:</strong> PunjabSchemes.com is not a government website. Always use the official source for final requirements.</div>
@@ -113,8 +114,10 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
       <h2>Official source and verification</h2>
       <p>We reviewed the government material linked below and summarized it in plain language. Scheme rules, amounts, deadlines and service channels can change; use the official source for the final check before applying.</p>
       <p><a className="button" href={scheme.officialUrl} rel="noopener noreferrer">Visit the official government source</a></p>
-      <p className="verification-link"><Link href="/editorial-policy">How we verify and update scheme information →</Link></p>
-      <small>Information last reviewed: {scheme.lastReviewed}</small>
+      <div className="review-provenance">
+        <span>Reviewed by <Link href="/editorial-policy">PunjabSchemes Editorial Team</Link></span>
+        <span>Last verified: <time dateTime={scheme.lastReviewed}>{scheme.lastReviewed}</time></span>
+      </div>
       <section className="related-section"><h2>Related Punjab schemes</h2><p>Continue comparing verified guidance before deciding which programme matches your circumstances.</p><div className="scheme-grid">{relatedSchemes.map((related) => <SchemeCard key={related.slug} scheme={related} />)}</div><p><Link className="text-link" href={`/categories/${categorySlug}`}>View all {category.name.toLowerCase()} guides →</Link></p></section>
     </article>
   );
