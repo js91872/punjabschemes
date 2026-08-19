@@ -7,6 +7,42 @@ export type SchemeGuide = {
 };
 
 export const schemeGuides: Record<string, SchemeGuide> = {
+  "mukh-mantri-sehat-yojana-punjab": {
+    overview: [
+      "Mukhya Mantri Sehat Yojana (MMSY), widely searched as Mukh Mantri Sehat Yojna, is Punjab's universal cashless-hospitalization programme. Punjab announced universal family coverage of up to ₹10 lakh per year and rolled out the present scheme in January 2026. The State Health Agency under the Department of Health and Family Welfare administers registration, hospital empanelment and claim processes.",
+      "The programme is intended to extend protection beyond the narrower beneficiary groups covered under earlier arrangements. Government descriptions say Punjab residents may enrol without an income ceiling, so salaried people, farmers, workers, pensioners, business owners and other resident families are not excluded merely because they belong to a particular occupation or income band. Residence, identity, family composition and health-card records still have to be verified.",
+      "The benefit is cashless treatment for eligible hospitalization packages at hospitals participating in the scheme. It is not ₹10 lakh deposited into a bank account and it does not reimburse every medical expense automatically. The empanelled hospital normally checks the beneficiary record, diagnoses the case, selects an eligible package and seeks any required authorization through the scheme system.",
+    ],
+    benefitDetails: [
+      "Cashless hospitalization cover up to ₹10 lakh per eligible family per year",
+      "Access through empanelled government hospitals and participating private hospitals",
+      "Coverage intended for Punjab resident families without a general income ceiling",
+      "A health card used to identify the enrolled family and initiate a package claim",
+      "Treatment subject to the package, hospital and authorization rules operating on the admission date",
+    ],
+    eligibilityChecklist: [
+      "The applicant and family can establish bona fide residence in Punjab through records accepted by the current portal",
+      "Identity details can be authenticated using Aadhaar, voter ID or another method currently permitted by the State Health Agency",
+      "Family members are entered correctly and are not duplicated or incorrectly attached to another family record",
+      "A valid health card or beneficiary record is available before planned cashless treatment",
+      "The selected hospital is empanelled and the proposed care falls within an eligible scheme package",
+    ],
+    practicalTips: [
+      "Register before a planned hospitalization so identity or family-record corrections do not delay treatment.",
+      "Check the hospital on the current official empanelled-hospital list rather than relying on an old poster or verbal claim.",
+      "Ask the hospital help desk to identify the exact package and whether pre-authorization has been received before agreeing to non-emergency admission.",
+      "Carry the health card and original identity documents, but never leave an original Aadhaar card permanently with an agent or hospital desk.",
+      "Request a written explanation if a covered-looking service is denied or if the hospital asks for payment outside the approved package.",
+    ],
+    faqs: [
+      { question: "How much cover does Mukh Mantri Sehat Yojana provide?", answer: "Punjab describes cover of up to ₹10 lakh per family per year. This is a maximum cashless-treatment ceiling for eligible packages, not ₹10 lakh paid directly to every family." },
+      { question: "Is there an income limit for the scheme?", answer: "Government announcements describe the current scheme as universal for Punjab resident families and do not publish a general income ceiling. Identity, Punjab residence and family records must still be verified." },
+      { question: "Can treatment be taken at any private hospital?", answer: "No. Cashless benefits are available only through hospitals empanelled for the scheme, and the particular treatment must fit an eligible package and authorization process." },
+      { question: "Where can a family register?", answer: "Punjab has identified online registration and assisted registration through Sewa Kendras or Common Service Centres. Use the State Health Agency website to confirm the currently active route before sharing documents." },
+      { question: "Does an old Ayushman card remain useful?", answer: "Existing card and beneficiary records may help the system identify a family, but the State Health Agency or hospital desk must confirm current MMSY activation, family details and the applicable cover. Do not assume an old card settles every current eligibility question." },
+      { question: "What should I do before planned admission?", answer: "Confirm the hospital's empanelment, show the health card, ask which package applies and obtain confirmation that any required pre-authorization has been requested or approved." },
+    ],
+  },
   "mukh-mantri-mawan-dheeyan-satkar-yojana": {
     overview: [
       "The Mukh Mantri Mawan Dheeyan Satkar Yojana is a statewide Punjab cash-assistance programme notified on 2 April 2026. It is administered by the Department of Social Security, Women and Child Development and is intended to give adult women a predictable source of personal financial support.",

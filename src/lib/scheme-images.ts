@@ -6,6 +6,10 @@ export type SchemeImage = {
 const imageBase = "/images/schemes";
 
 export const schemeImages: Record<string, SchemeImage> = {
+  "mukh-mantri-sehat-yojana-punjab": {
+    src: `${imageBase}/mukh-mantri-sehat-yojana-punjab.webp`,
+    alt: "A Punjabi family discussing a health card with an assistance worker at a hospital help desk",
+  },
   "mukh-mantri-mawan-dheeyan-satkar-yojana": {
     src: `${imageBase}/mukh-mantri-mawan-dheeyan-satkar-yojana.webp`,
     alt: "Punjabi women from different generations standing together in a village courtyard",

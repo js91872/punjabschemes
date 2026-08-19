@@ -2,7 +2,7 @@ export type Scheme = {
   slug: string;
   name: string;
   summary: string;
-  category: "Pensions" | "Scholarships" | "Women & Children" | "Agriculture" | "Children & Families" | "Disability" | "Construction Workers";
+  category: "Pensions" | "Scholarships" | "Women & Children" | "Agriculture" | "Children & Families" | "Disability" | "Construction Workers" | "Health";
   beneficiaries: string;
   officialUrl: string;
   department: string;
@@ -14,6 +14,32 @@ export type Scheme = {
 };
 
 export const schemes: Scheme[] = [
+  {
+    slug: "mukh-mantri-sehat-yojana-punjab",
+    name: "Mukhya Mantri Sehat Yojana Punjab",
+    summary: "Punjab's universal health scheme providing eligible resident families cashless hospitalization cover of up to ₹10 lakh per family per year at empanelled government and private hospitals.",
+    category: "Health",
+    beneficiaries: "Bona fide Punjab residents and their families, without a published income ceiling or age restriction, after successful registration, health-card creation and verification under the current State Health Agency process.",
+    officialUrl: "https://sha.punjab.gov.in/shapunjab/index.php",
+    department: "State Health Agency, Department of Health and Family Welfare, Government of Punjab",
+    fee: "No enrolment fee is stated in the government material reviewed for this guide. Registration and health-card assistance should be used only through the official State Health Agency portal, Sewa Kendras, Common Service Centres or another channel currently authorized by Punjab.",
+    documents: [
+      "Aadhaar card for identity and online verification",
+      "Punjab voter ID or another residence record accepted by the current registration system",
+      "Family-member identity and relationship details requested during enrolment",
+      "Active mobile number for authentication and status messages",
+      "Existing Ayushman or Punjab health card, if already issued",
+    ],
+    applicationMethods: [
+      "Open the official Punjab State Health Agency website and follow the current MMSY registration or beneficiary instructions",
+      "Alternatively, visit an authorized Punjab Sewa Kendra or Common Service Centre for assisted health-card registration",
+      "Provide Aadhaar, voter or other accepted Punjab-residence evidence and add eligible family members accurately",
+      "Complete the required identity authentication and retain the registration acknowledgement",
+      "After the health card is issued, confirm the hospital is empanelled and the planned treatment package is authorized before admission",
+    ],
+    importantNote: "The ₹10 lakh figure is an annual family cover ceiling, not an automatic cash payment and not a promise that every procedure will be approved. Cashless treatment depends on an active health card, an empanelled hospital, an eligible package and required pre-authorization. Ask the hospital's scheme desk to verify coverage before non-emergency admission.",
+    lastReviewed: "2026-08-19",
+  },
   {
     slug: "mukh-mantri-mawan-dheeyan-satkar-yojana",
     name: "Mukh Mantri Mawan Dheeyan Satkar Yojana",
