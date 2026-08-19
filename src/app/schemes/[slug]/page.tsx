@@ -3,6 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { SchemeCard } from "@/components/scheme-card";
+import { SocialShare } from "@/components/social-share";
 import { categoryConfig, categorySlugFor } from "@/lib/categories";
 import { getScheme, schemes } from "@/lib/schemes";
 import { schemeGuides } from "@/lib/scheme-guides";
@@ -118,6 +119,7 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
         <span>Reviewed by <Link href="/editorial-policy">PunjabSchemes Editorial Team</Link></span>
         <span>Last verified: <time dateTime={scheme.lastReviewed}>{scheme.lastReviewed}</time></span>
       </div>
+      <SocialShare title={`${scheme.name} | Punjab Schemes`} url={`${siteConfig.url}/schemes/${scheme.slug}`} />
       <section className="related-section"><h2>Related Punjab schemes</h2><p>Continue comparing verified guidance before deciding which programme matches your circumstances.</p><div className="scheme-grid">{relatedSchemes.map((related) => <SchemeCard key={related.slug} scheme={related} />)}</div><p><Link className="text-link" href={`/categories/${categorySlug}`}>View all {category.name.toLowerCase()} guides →</Link></p></section>
     </article>
   );

@@ -121,6 +121,18 @@ article.narrow p,article.narrow li { color:#314238; }
 .review-provenance { display:flex; flex-wrap:wrap; gap:.5rem 1.4rem; margin-top:1.5rem; padding:1rem 1.15rem; border:1px solid var(--line); border-radius:.55rem; background:#fbfcfb; color:var(--muted); font-size:.86rem; }
 .review-provenance a { color:var(--green); font-weight:800; }
 .review-provenance span+span { padding-left:1.4rem; border-left:1px solid var(--line); }
+.social-share { margin-top:2rem; padding:1.35rem; border:1px solid var(--line); border-radius:.75rem; background:var(--cream); }
+.social-share h2 { margin:.25rem 0 0; font-size:1.55rem; }
+.share-actions { display:flex; flex-wrap:wrap; gap:.65rem; margin-top:1.1rem; }
+.share-button { display:inline-flex; align-items:center; gap:.48rem; min-height:42px; padding:.55rem .8rem; border:1px solid #b8c5bb; border-radius:.45rem; color:var(--green-dark); background:var(--white); font:inherit; font-size:.82rem; font-weight:800; text-decoration:none; cursor:pointer; }
+.share-button:hover { border-color:var(--green); box-shadow:0 5px 15px rgba(11,60,37,.08); }
+.share-button:focus-visible { outline:3px solid rgba(23,102,58,.25); outline-offset:2px; }
+.share-button span { display:grid; place-items:center; min-width:20px; height:20px; font-size:.78rem; font-weight:900; }
+.share-button.whatsapp span { color:#087b38; }
+.share-button.facebook span { color:#1877f2; font-size:1rem; }
+.share-button.x span { color:#111; }
+.share-button.linkedin span { color:#0a66c2; }
+.share-privacy { margin:.85rem 0 0; color:var(--muted)!important; font-size:.75rem; }
 .home-faq { max-width:900px; }
 .home-faq-list { margin-top:1.8rem; }
 .home-faq details { margin:.8rem 0; padding:1rem 1.1rem; border:1px solid var(--line); border-radius:.5rem; background:#fbfcfb; }
