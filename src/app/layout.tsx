@@ -9,6 +9,11 @@ export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: { default: siteConfig.name, template: `%s | ${siteConfig.name}` },
   description: siteConfig.description,
+  verification: {
+  other: {
+    "msvalidate.01": "6D321C11DD86042A7ABBC4EA63387AC3",
+  },
+},
   icons: {
     icon: [{ url: "/icon.svg", type: "image/svg+xml" }, { url: "/brand/favicon-32.png", sizes: "32x32", type: "image/png" }],
     apple: [{ url: "/brand/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
