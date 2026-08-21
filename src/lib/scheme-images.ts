@@ -58,6 +58,11 @@ export const schemeImages: Record<string, SchemeImage> = {
     src: `${imageBase}/construction-worker-tools-kit-punjab.webp`,
     alt: "A trained construction worker arranging tools on a clean workbench",
   },
+  "punjab-5-marla-plot-scheme": {
+    src: `${imageBase}/punjab-5-marla-plot-scheme.webp`,
+    alt: "Punjab 5 Marla Plot Scheme residential land for eligible landless and houseless families in rural Punjab",
+  },
+
 };
 
 export function getSchemeImage(slug: string) {

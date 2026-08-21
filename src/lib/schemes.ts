@@ -344,6 +344,42 @@ export const schemes: Scheme[] = [
     importantNote: "The official Board material describes reimbursement up to ₹5,000 and says the benefit may be claimed again after three years. Confirm the current ceiling and qualifying interval with the Board before purchasing tools in reliance on the scheme.",
     lastReviewed: "2026-08-18",
   },
+  {
+    slug: "punjab-5-marla-plot-scheme",
+    name: "Punjab 5 Marla Plot Scheme",
+    summary:
+      "Punjab's rural 5 Marla residential plot framework allows eligible landless and houseless persons to be considered for free residential plots from available Shamlat Deh or Panchayat land, subject to Gram Sabha identification, verification, government approval and the applicable rules.",
+    category: "Children & Families",
+    beneficiaries:
+      "The historical Punjab policy primarily covers eligible landless and houseless rural residents, including specified Scheduled Caste and other poor families, subject to residence, housing or land ownership and other conditions verified through the Gram Sabha, Gram Panchayat and competent authorities.",
+    officialUrl:
+      "https://www.indiacode.nic.in/bitstream/123456789/6925/1/the_punjab_village_common_lands_regulation_act%2C_1961.pdf",
+    department:
+      "Department of Rural Development and Panchayats, Government of Punjab",
+    fee:
+      "Rule 13-A provides for eligible Shamlat Deh land to be given free of cost for construction of a residential house. No current statewide 2026 online application fee or application portal has been verified for this guide.",
+    documents: [
+      "Proof of residence in the concerned Gram Sabha area",
+      "Aadhaar card or another identity document accepted by the competent authority",
+      "Family or household record requested during beneficiary verification",
+      "Evidence or declaration showing that the applicant does not own a house or suitable residential land, where required",
+      "Scheduled Caste or other applicable category certificate, where the claim depends on category",
+      "Marriage or family-status evidence if required under the policy currently being applied",
+      "Any land, income, BPL or local-verification documents requested by the Gram Panchayat, BDPO, DDPO or district administration",
+    ],
+    applicationMethods: [
+      "First confirm with the concerned Gram Panchayat whether 5 Marla residential-plot identification or allotment is currently being undertaken in the village",
+      "Ask whether a Gram Sabha meeting, beneficiary survey or resolution has been scheduled or completed",
+      "Submit the identity, residence, landlessness, housing-status and category evidence requested by the competent local authority",
+      "Ensure the applicant's name is correctly recorded during Gram Sabha or Panchayat beneficiary identification",
+      "The proposed beneficiaries may undergo verification through Panchayat, Block, District and other competent authorities before final approval or possession",
+      "Keep copies of every application, resolution reference, acknowledgement and verification document",
+    ],
+    importantNote:
+      "Do not confuse this Indian Punjab rural Panchayat-land framework with similarly named housing programmes operating in Punjab, Pakistan. As of 21 August 2026, PunjabSchemes.com has not verified a fresh statewide Government of Punjab, India notification opening a new 2026 online 5 Marla Plot Scheme application portal. Treat claims that online registration is already open as unverified unless supported by an official Punjab Government notification.",
+    lastReviewed: "2026-08-21",
+  },
+
 ];
 
 export function getScheme(slug: string) {

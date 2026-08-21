@@ -92,4 +92,26 @@ export const schemeDeepDives: Record<string, { heading: string; paragraphs: stri
       "Because payment is reimbursement, preserve itemized bills showing the seller, date, description, quantity and price. Cash memos with no item description or buyer connection may create a verification problem. Upload or submit the complete bill together with training proof, registration details, contribution record and bank information. The Board material describes assistance up to ₹5,000 and a further benefit after three years, but both should be confirmed against current instructions. Keep the purchased tools and original bills available until the application is decided, and retain the acknowledgement so a subdivisional verification query can be linked to the correct claim rather than filed as a duplicate.",
     ],
   },
+
+  "punjab-5-marla-plot-scheme": {
+    heading: "How 5 Marla plot identification and allotment works in Punjab",
+    paragraphs: [
+      "The Punjab 5 Marla residential-plot process is fundamentally different from a normal development-authority plot draw. Under Rule 13-A, the starting point is village common land and an eligible landless worker residing in the Sabha area. The Panchayat cannot simply distribute land informally: the provision requires previous approval of the Government. The 17 April 2001 policy described in Punjab and Haryana High Court decisions added a beneficiary-identification structure in which the Gram Panchayat convenes a Gram Sabha meeting, identifies persons who satisfy the policy conditions and passes a resolution. Proposed beneficiaries then undergo verification at the prescribed administrative levels.",
+
+      "Availability of land is a separate issue from personal eligibility. A person may satisfy the landless and houseless conditions but still not receive a plot immediately if the village does not have suitable Shamlat Deh land available for residential allotment or if the land is affected by possession, title, reservation, litigation or another legal restriction. The existence of Panchayat land also does not permit a person to occupy it in anticipation that a future scheme will regularize possession.",
+
+      "Court proceedings illustrate why verification matters. In one Punjab case, a Panchayat resolution initially included 74 proposed beneficiaries, while later verification found 55 eligible. This demonstrates that inclusion in an initial Gram Sabha or Panchayat list does not necessarily mean final allotment. Eligibility can still be examined by Block, District and other competent authorities before possession or final allotment is given.",
+
+      "The beneficiary should also understand the restrictions attached to land allotted for residential welfare. Rule 13-A restricts sale, exchange and mortgage, except mortgage for raising a loan to construct the residential house. Court records concerning the historical policy also refer to construction and resumption conditions. The allotment letter must therefore be preserved and read carefully before any transfer, mortgage or change in use is considered.",
+
+      "For people searching Punjab 5 Marla Plot Scheme 2026, Punjab free plot scheme 2026, 5 Marla plot apply online Punjab or Punjab 5 Marla registration, the most important distinction is between an existing legal framework and a new government launch. The existence of Rule 13-A and the 2001 policy does not by itself prove that Punjab has opened a fresh statewide application window in 2026.",
+
+      "If a new Punjab 5 Marla Plot Scheme is announced, the official notification should settle the high-intent questions users are searching: who can apply, whether Scheduled Caste or other categories receive priority, whether there is an income ceiling, which districts and villages are included, where the land will come from, whether applications are online or Gram Sabha based, what documents are required, the last date, how beneficiary lists are published and how allotment status can be checked.",
+
+      "Applicants should be particularly cautious with websites, social-media posts and videos that display an Apply Online button before Punjab has announced an official portal. Aadhaar numbers, caste certificates, bank-account information and family records are sensitive. They should only be supplied through a verified Punjab Government service, an authorized Sewa Kendra or an authority identified by the official notification.",
+
+      "Search results also require care because Punjab is the name of a state in India and a province in Pakistan. Pakistan programmes involving small residential plots use Pakistani institutions, identity requirements and application systems. They have no connection with the Indian Punjab Panchayat-land framework described here. Indian residents should verify information through Government of Punjab, India, Rural Development and Panchayats, the concerned district administration or Gram Panchayat.",
+    ],
+  },
+
 };

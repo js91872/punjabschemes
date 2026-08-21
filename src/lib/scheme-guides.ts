@@ -296,4 +296,132 @@ export const schemeGuides: Record<string, SchemeGuide> = {
     practicalTips: ["Confirm eligibility before buying tools solely for a claim.", "Request itemized bills carrying the seller and purchase details.", "Keep the training certificate and contribution record ready.", "Ask the Board to confirm the current ceiling and three-year rule."],
     faqs: [{ question: "Is money provided before buying tools?", answer: "No. The official conditions describe reimbursement after purchase." }, { question: "Is training required?", answer: "Yes. The published scheme is for beneficiaries trained under Skill Upgradation or Recognition of Prior Learning." }, { question: "Can any household item be claimed?", answer: "No. Bills must relate to tools connected with the beneficiary's profession." }, { question: "Can the benefit be claimed again?", answer: "The official summary describes another benefit after three years, but applicants should confirm the current interval with the Board." }],
   },
+
+  "punjab-5-marla-plot-scheme": {
+    overview: [
+      "The Punjab 5 Marla Plot Scheme is the commonly used name for a rural housing-welfare framework under which eligible landless and houseless residents may be considered for residential plots from available village common or Shamlat Deh land. The legal foundation is Rule 13-A of the Punjab Village Common Lands (Regulation) Rules, 1964. It permits a Panchayat, with previous approval of the Government, to give Shamlat Deh land free of cost to a landless worker residing in the Sabha area for construction of a residential house.",
+
+      "Punjab later framed a policy dated 17 April 2001 for allotment of free 5 Marla plots to eligible Scheduled Caste families and other poor families for construction of houses. Punjab and Haryana High Court decisions have described how the policy operates: the concerned Gram Panchayat convenes a Gram Sabha meeting, eligible beneficiaries are identified, a resolution is passed and the claims are then verified by the prescribed authorities before allotment can be completed.",
+
+      "The Punjab 5 Marla Plot Scheme should therefore not be understood as an ordinary housing lottery in which every resident can submit an online form and automatically receive free land. Availability depends on the applicable government policy, beneficiary eligibility, village-level identification, availability and legal status of Panchayat or Shamlat Deh land, verification and approval by competent authorities.",
+
+      "Search interest for terms such as Punjab 5 Marla Plot Scheme 2026, Punjab free plot scheme, 5 Marla Plot Scheme Punjab apply online and Punjab 5 Marla Plot Scheme registration can rise rapidly whenever a new housing or land-allotment announcement is expected. Applicants should distinguish a genuine new government notification from the older legal and policy framework described on this page.",
+
+      "As of the last review of this guide on 21 August 2026, PunjabSchemes.com has not verified a fresh statewide Government of Punjab notification opening a general 2026 online application portal for free 5 Marla plots. This page will be updated if Punjab announces a new application window, beneficiary survey, district-wise programme, Gram Sabha identification exercise or official registration portal.",
+
+      "Until a fresh official announcement is available, residents should verify implementation with the concerned Gram Panchayat, Block Development and Panchayat Office, District Development and Panchayat Office or district administration. Avoid paying private agents who claim that they can guarantee a plot or add a name to a government beneficiary list.",
+    ],
+
+    benefitDetails: [
+      "Residential land of approximately 5 Marla under the applicable Punjab policy and local allotment process",
+      "Eligible Shamlat Deh or Panchayat land may be provided free of cost where the legal and administrative conditions are satisfied",
+      "The land is intended for construction of the beneficiary's own residential house",
+      "The framework targets eligible landless and houseless rural households rather than general property buyers or investors",
+      "Beneficiary identification involves Gram Sabha or Gram Panchayat processes followed by administrative verification",
+      "Final allotment depends on suitable land being legally available and government approval being obtained",
+      "Rule 13-A restricts sale, exchange or mortgage of land allotted under the provision, except mortgage for raising a loan to construct the house",
+    ],
+
+    eligibilityChecklist: [
+      "The applicant should be a resident of the concerned Gram Sabha area",
+      "The applicant should satisfy the landless or houseless condition under the policy currently being applied",
+      "Under the historical policy, the beneficiary should not already have a house or suitable residential land for construction of a house",
+      "The historical scheme included specified Scheduled Caste and other poor or houseless categories",
+      "Any category, income, family or marital-status conditions in a fresh notification must be checked from the current official rules",
+      "The applicant must pass the local and departmental verification process",
+      "The applicant's identity, residence, family and land records should be consistent",
+      "Actual allotment also depends on suitable Panchayat or Shamlat Deh land being legally available for residential use",
+    ],
+
+    practicalTips: [
+      "Ask the Gram Panchayat whether a beneficiary list, Gram Sabha meeting, survey or resolution relating to residential plots currently exists in your village.",
+      "If someone says a Punjab 5 Marla Plot Scheme 2026 application has opened, ask for the official Government notification number or a punjab.gov.in link before submitting documents.",
+      "Do not pay an agent for guaranteed inclusion in a beneficiary list. Selection and verification are administrative processes and cannot legitimately be guaranteed by a private intermediary.",
+      "Keep residence, caste, family and identity records consistent. Differences in names, father's or spouse's name, address or household records can delay verification.",
+      "If the family owns inherited, jointly held or disputed residential land, disclose it and ask the competent authority how it affects the landless or houseless eligibility test.",
+      "Keep copies or photographs of any Gram Sabha resolution, beneficiary-list entry, application acknowledgement or verification notice relating to the claim.",
+      "Do not occupy Panchayat land merely because a scheme is being discussed. Legal allotment and possession should follow the official approval process.",
+      "Do not purchase or privately transfer a plot represented as a government-allotted 5 Marla plot without checking the allotment conditions and land records.",
+      "Do not confuse Punjab, India with Punjab, Pakistan. Search results for 5 Marla schemes frequently surface Pakistan housing programmes that have completely different eligibility rules and application portals.",
+    ],
+
+    faqs: [
+      {
+        question: "What is the Punjab 5 Marla Plot Scheme?",
+        answer:
+          "It is the commonly used name for Punjab's rural welfare framework under which eligible landless and houseless persons may be considered for residential plots from available Shamlat Deh or Panchayat land. Rule 13-A provides the legal basis for giving qualifying land free of cost for construction of a residence.",
+      },
+      {
+        question: "Has the Punjab 5 Marla Plot Scheme 2026 been launched?",
+        answer:
+          "As of 21 August 2026, PunjabSchemes.com has not verified a fresh statewide Government of Punjab notification opening a new general 2026 online application process for free 5 Marla plots. The underlying legal provision and the older 17 April 2001 policy are genuine, but any fresh launch should be confirmed through an official Punjab Government notification.",
+      },
+      {
+        question: "Is Punjab 5 Marla Plot Scheme online registration open?",
+        answer:
+          "No current statewide 2026 online registration portal has been verified for this guide. Do not submit Aadhaar, bank, caste or family information to an unofficial website claiming that registration has opened unless the Punjab Government confirms the portal.",
+      },
+      {
+        question: "How can I apply for the Punjab 5 Marla Plot Scheme?",
+        answer:
+          "Historically, beneficiary identification has involved the Gram Sabha, Gram Panchayat and subsequent administrative verification. Residents should first ask the concerned Gram Panchayat whether beneficiary identification or allotment is currently underway and what documents or application procedure are being used.",
+      },
+      {
+        question: "Who may be eligible for a free 5 Marla plot in Punjab?",
+        answer:
+          "The historical policy concerned eligible landless and houseless rural residents and included specified Scheduled Caste and other poor families. Residence in the concerned Gram Sabha area and lack of a suitable house or house site have been important conditions. Any new notification may modify eligibility.",
+      },
+      {
+        question: "Is the Punjab 5 Marla plot completely free?",
+        answer:
+          "Rule 13-A permits qualifying Shamlat Deh land to be given free of cost for construction of a residential house. This does not mean every applicant is entitled to a plot. Land availability, beneficiary eligibility, verification and government approval still apply.",
+      },
+      {
+        question: "Where can I get the Punjab 5 Marla Plot Scheme application form?",
+        answer:
+          "No current statewide 2026 application form or official online registration portal has been verified. Check with the Gram Panchayat, Block Development and Panchayat Office, district administration or an official Punjab Government source before using any form found online.",
+      },
+      {
+        question: "What documents may be required for the Punjab 5 Marla Plot Scheme?",
+        answer:
+          "Typical verification can involve identity, Punjab residence, family record, landlessness or housing-status evidence and applicable caste or category documents. The exact document list must come from the authority handling the current allotment process.",
+      },
+      {
+        question: "How is the beneficiary list prepared?",
+        answer:
+          "Court records describing the historical policy show a process involving Gram Sabha identification, a Gram Panchayat resolution and subsequent verification by prescribed authorities. Inclusion in an initial list should not be treated as final approval until verification and allotment are completed.",
+      },
+      {
+        question: "Can I check Punjab 5 Marla Plot Scheme beneficiary status online?",
+        answer:
+          "No statewide 2026 online status-check portal has been verified. Where a local identification process exists, status may need to be checked through the Gram Panchayat or the competent block or district authority.",
+      },
+      {
+        question: "Can a beneficiary sell a government-allotted 5 Marla plot?",
+        answer:
+          "Rule 13-A restricts sale, exchange or mortgage of land allotted under the provision, except mortgage for raising a loan to construct the house. The beneficiary must also follow any additional conditions stated in the allotment letter.",
+      },
+      {
+        question: "Is the scheme only for Scheduled Caste families?",
+        answer:
+          "The historical 2001 policy included eligible Scheduled Caste families as well as other poor families. The exact categories covered by any fresh implementation or new 2026 scheme should be checked from its official notification.",
+      },
+      {
+        question: "Does every Punjab village have 5 Marla plots available?",
+        answer:
+          "No. Personal eligibility does not itself create land. Actual allotment depends on suitable Panchayat or Shamlat Deh land being legally available in the concerned area and approved for the purpose.",
+      },
+      {
+        question: "Is Punjab's 5 Marla scheme the same as Pakistan's housing schemes?",
+        answer:
+          "No. This guide concerns Punjab state in India. Programmes operating in Punjab province, Pakistan use different laws, identity systems, authorities and application portals.",
+      },
+      {
+        question: "What should I do if a new Punjab 5 Marla Plot Scheme is announced?",
+        answer:
+          "Check the official notification first. Confirm the launch date, eligible districts or villages, beneficiary categories, application dates, documents, selection process and official application or status channel before sharing personal information.",
+      },
+    ],
+  },
+
 };
