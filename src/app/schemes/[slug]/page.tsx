@@ -12,6 +12,7 @@ import { schemeDeepDives } from "@/lib/scheme-deep-dives";
 import { siteConfig } from "@/lib/site";
 import { schemeSeo } from "@/lib/scheme-seo";
 import { getSchemeImage } from "@/lib/scheme-images";
+import { hasPunjabiScheme } from "@/lib/punjabi-schemes";
 
 export function generateStaticParams() { return schemes.map(({ slug }) => ({ slug })); }
 
@@ -21,7 +22,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!scheme) return {};
   const seo = schemeSeo[slug];
   const image = getSchemeImage(slug);
-  return { title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, alternates: { canonical: `/schemes/${slug}` }, openGraph: { type: "article", title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, url: `/schemes/${slug}`, images: image ? [{ url: `${siteConfig.url}${image.src}`, width: 1200, height: 800, alt: image.alt }] : undefined } };
+  return { title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, alternates: {
+    canonical: `/schemes/${slug}`,
+    languages: hasPunjabiScheme(slug)
+      ? {
+          "en-IN": `/schemes/${slug}`,
+          "pa-IN": `/pa/schemes/${slug}`,
+          "x-default": `/schemes/${slug}`,
+        }
+      : undefined,
+  }, openGraph: { type: "article", title: seo?.title ?? scheme.name, description: seo?.description ?? scheme.summary, url: `/schemes/${slug}`, images: image ? [{ url: `${siteConfig.url}${image.src}`, width: 1200, height: 800, alt: image.alt }] : undefined } };
 }
 
 export default async function SchemePage({ params }: { params: Promise<{ slug: string }> }) {
@@ -70,6 +80,17 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
     <article className="container section narrow">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }} />
       <nav className="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Home</Link><span>›</span><Link href={`/categories/${categorySlug}`}>{category.name}</Link><span>›</span><span>{scheme.name}</span></nav>
+      {hasPunjabiScheme(scheme.slug) && (
+        <div style={{ marginBottom: "1rem" }}>
+          <Link
+            className="text-link"
+            href={`/pa/schemes/${scheme.slug}`}
+            lang="pa"
+          >
+            ਪੰਜਾਬੀ ਵਿੱਚ ਪੜ੍ਹੋ →
+          </Link>
+        </div>
+      )}
       <p className="eyebrow">{scheme.category}</p>
       <h1>{scheme.name}</h1>
       <p className="lead">{scheme.summary}</p>

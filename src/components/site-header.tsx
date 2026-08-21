@@ -16,6 +16,7 @@ export function SiteHeader() {
             <Link href="/categories/pensions">Pensions</Link>
             <Link href="/categories/construction-workers">Workers</Link>
             <Link href="/about">About</Link>
+            <Link href="/pa" lang="pa">ਪੰਜਾਬੀ</Link>
           </nav>
         </div>
       </header>
