@@ -67,7 +67,7 @@ export const schemes: Scheme[] = [
   {
     slug: "old-age-pension-punjab",
     name: "Old Age Pension Scheme - Punjab",
-    summary: "Punjab's social-security pension service for eligible older residents, administered by the Department of Social Security and Women & Child Development.",
+    summary: "Punjab's social-security pension service for eligible older residents, with official application routes and receipt-based guidance for checking an application or beneficiary status.",
     category: "Pensions",
     beneficiaries: "Older Punjab residents whose applications satisfy the department's current income, residence, age and property-verification rules.",
     officialUrl: "https://punjab.gov.in/wp-content/uploads/2025/09/Old-Age-Pension-Scheme.pdf",
@@ -83,8 +83,9 @@ export const schemes: Scheme[] = [
       "Apply online through the Punjab Connect Portal",
       "Visit a Punjab Sewa Kendra",
       "Call 1076 for doorstep service guidance",
+      "Keep the acknowledgement or application number and use it when asking Punjab Connect, a Sewa Kendra or the department for status",
     ],
-    importantNote: "The official service sheet does not state the pension amount or full eligibility thresholds. Confirm these with the department before relying on any third-party figure.",
+    importantNote: "The official service sheet does not state the pension amount, full eligibility thresholds or a separate public beneficiary-status lookup. Confirm these with the department and use your acknowledgement for status enquiries rather than trusting an unofficial pension-check website.",
     lastReviewed: "2026-08-18",
   },
   {

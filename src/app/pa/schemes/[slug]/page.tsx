@@ -141,7 +141,7 @@ export default async function PunjabiSchemePage({
 
       <div style={{ marginBottom: "1rem" }}>
         <Link className="text-link" href={`/schemes/${slug}`}>
-          Read in English →
+          ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ ਪੜ੍ਹੋ →
         </Link>
       </div>
 
@@ -169,7 +169,7 @@ export default async function PunjabiSchemePage({
 
       <div className="scheme-alert">
         <strong>ਸੁਤੰਤਰ ਜਾਣਕਾਰੀ:</strong> PunjabSchemes.com ਪੰਜਾਬ ਸਰਕਾਰ ਦੀ
-        ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਹੈ। ਅੰਤਿਮ ਨਿਯਮ ਸਰਕਾਰੀ ਸਰੋਤ ਤੋਂ verify ਕਰੋ।
+        ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ ਨਹੀਂ ਹੈ। ਅੰਤਿਮ ਨਿਯਮਾਂ ਦੀ ਪੁਸ਼ਟੀ ਸਰਕਾਰੀ ਸਰੋਤ ਤੋਂ ਕਰੋ।
       </div>
 
       <div className="scheme-note">
@@ -241,9 +241,9 @@ export default async function PunjabiSchemePage({
       <h2>ਅਧਿਕਾਰਤ ਸਰੋਤ</h2>
 
       <p>
-        Scheme rules, benefit amount, eligibility, deadlines ਅਤੇ application
-        channels ਸਮੇਂ ਨਾਲ ਬਦਲ ਸਕਦੇ ਹਨ। ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ official source ਤੋਂ
-        current information ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।
+        ਸਕੀਮ ਦੇ ਨਿਯਮ, ਲਾਭ ਦੀ ਰਕਮ, ਯੋਗਤਾ, ਆਖਰੀ ਮਿਤੀਆਂ ਅਤੇ ਅਰਜ਼ੀ ਦੇ ਤਰੀਕੇ
+        ਸਮੇਂ ਨਾਲ ਬਦਲ ਸਕਦੇ ਹਨ। ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਅਧਿਕਾਰਤ ਸਰੋਤ ਤੋਂ ਮੌਜੂਦਾ
+        ਜਾਣਕਾਰੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।
       </p>
 
       <p>

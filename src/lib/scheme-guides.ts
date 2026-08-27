@@ -79,15 +79,17 @@ export const schemeGuides: Record<string, SchemeGuide> = {
     overview: [
       "Punjab's Old Age Pension Scheme is a state social-security service for older residents who satisfy the department's age, residence, income and property checks. Applications are examined by the Department of Social Security and Women and Child Development rather than approved automatically on age alone.",
       "The current Punjab service sheet is most useful for confirming the application channels and core documents. It does not publish every financial threshold or the current monthly pension amount, so applicants should treat figures on unofficial websites cautiously and obtain current terms from the department or Sewa Kendra.",
+      "For a Punjab pension status enquiry, keep the acknowledgement or application number from Punjab Connect or the Sewa Kendra. The source reviewed does not prove that a separate public online beneficiary-status checker exists, so applicants should use Punjab Connect, the submitting Sewa Kendra, the department or 1076 and provide those receipt details.",
     ],
     benefitDetails: ["Recurring social-security pension after approval", "Payment through the bank account recorded in the application", "Online, Sewa Kendra and doorstep-guidance routes listed by Punjab"],
     eligibilityChecklist: ["Applicant meets the department's current minimum-age rule", "Applicant is a Punjab resident", "Income and property fall within the current permitted limits", "Identity, age, address and bank evidence can be verified"],
-    practicalTips: ["Use the same spelling of the applicant's name on identity and bank records.", "Take the bank passbook rather than relying only on a handwritten account number.", "Ask the Sewa Kendra to confirm the current income and property thresholds before submission.", "Keep the application receipt for status enquiries."],
+    practicalTips: ["Use the same spelling of the applicant's name on identity and bank records.", "Take the bank passbook rather than relying only on a handwritten account number.", "Ask the Sewa Kendra to confirm the current income and property thresholds before submission.", "Keep the application receipt and number for Punjab pension status enquiries.", "Do not enter Aadhaar or bank details on a third-party site claiming to provide an instant pension check."],
     faqs: [
       { question: "Does reaching old age guarantee approval?", answer: "No. Age is only one condition; residence, income, property and document verification also apply." },
       { question: "Can the application be made without visiting an office?", answer: "Punjab lists an online route through Punjab Connect and provides 1076 for doorstep-service guidance, subject to current service availability." },
       { question: "What pension amount should I expect?", answer: "The current service sheet reviewed by us does not state the amount. Confirm it directly with the department instead of relying on an undated third-party page." },
       { question: "Why might an application be delayed?", answer: "Common practical causes include mismatched personal details, unclear age evidence, incomplete bank information, or pending income and property verification." },
+      { question: "How can I check old age pension status in Punjab?", answer: "Use the acknowledgement or application number from Punjab Connect or the Sewa Kendra and ask through the same official channel, the department or 1076. The official source reviewed does not confirm a separate public beneficiary-status lookup, so avoid unofficial pension-check websites." },
     ],
   },
   "widow-destitute-pension-punjab": {

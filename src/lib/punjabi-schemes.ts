@@ -161,7 +161,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     department:
       "ਪੇਂਡੂ ਵਿਕਾਸ ਅਤੇ ਪੰਚਾਇਤ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
 
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
 
     image: "/images/schemes/punjab-5-marla-plot-scheme.webp",
 
@@ -180,7 +180,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       "ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਪੰਜਾਬ 2026 ਬਾਰੇ ₹1,000/₹1,500 ਮਹੀਨਾਵਾਰ ਸਹਾਇਤਾ, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਰਜਿਸਟ੍ਰੇਸ਼ਨ, DBT ਅਤੇ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
 
     summary:
-      "ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਪੰਜਾਬ ਸਰਕਾਰ ਦੀ ਮਹੀਨਾਵਾਰ ਵਿੱਤੀ ਸਹਾਇਤਾ ਸਕੀਮ ਹੈ। ਯੋਗ 18 ਸਾਲ ਜਾਂ ਇਸ ਤੋਂ ਵੱਧ ਉਮਰ ਦੀਆਂ ਮਹਿਲਾਵਾਂ ਨੂੰ ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ₹1,000 ਜਾਂ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ Direct Benefit Transfer ਰਾਹੀਂ ਆਧਾਰ ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।",
+      "ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਪੰਜਾਬ ਸਰਕਾਰ ਦੀ ਮਹੀਨਾਵਾਰ ਵਿੱਤੀ ਸਹਾਇਤਾ ਸਕੀਮ ਹੈ। ਯੋਗ 18 ਸਾਲ ਜਾਂ ਇਸ ਤੋਂ ਵੱਧ ਉਮਰ ਦੀਆਂ ਮਹਿਲਾਵਾਂ ਨੂੰ ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ₹1,000 ਜਾਂ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ Aadhaar ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।",
 
     category: "ਮਹਿਲਾਵਾਂ ਅਤੇ ਪਰਿਵਾਰ",
 
@@ -190,7 +190,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     benefitDetails: [
       "ਯੋਗ ਅਨੁਸੂਚਿਤ ਜਾਤੀ ਦੀ ਮਹਿਲਾ ਲਈ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ",
       "ਹੋਰ ਯੋਗ ਸ਼੍ਰੇਣੀਆਂ ਦੀ ਮਹਿਲਾ ਲਈ ₹1,000 ਪ੍ਰਤੀ ਮਹੀਨਾ",
-      "ਰਕਮ Direct Benefit Transfer ਰਾਹੀਂ ਆਧਾਰ ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ",
+      "ਰਕਮ ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ Aadhaar ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ",
       "ਇੱਕੋ ਪਰਿਵਾਰ ਦੀ ਇੱਕ ਤੋਂ ਵੱਧ ਯੋਗ ਮਹਿਲਾ ਲਾਭ ਲੈ ਸਕਦੀ ਹੈ",
       "ਪੰਜਾਬ ਦੀ ਮੌਜੂਦਾ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ ਲੈ ਰਹੀ ਯੋਗ ਮਹਿਲਾ ਵੀ ਇਸ ਸਕੀਮ ਦਾ ਪੂਰਾ ਲਾਭ ਲੈ ਸਕਦੀ ਹੈ",
       "ਨਿਰਧਾਰਤ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕੇਂਦਰ ਉੱਤੇ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਮੁਫ਼ਤ ਹੈ",
@@ -202,7 +202,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       "ਉਸ ਕੋਲ ਵੈਧ ਆਧਾਰ ਕਾਰਡ ਹੋਵੇ",
       "ਉਸ ਕੋਲ ਪੰਜਾਬ ਦਾ ਵੋਟਰ ਆਈਡੀ ਹੋਵੇ",
       "DBT ਲੈਣ ਲਈ ਬੈਂਕ ਖਾਤਾ ਆਧਾਰ ਨਾਲ ਸਹੀ ਤਰੀਕੇ ਨਾਲ ਜੁੜਿਆ ਹੋਵੇ",
-      "ਜੇ ₹1,500 ਵਾਲੀ SC ਸ਼੍ਰੇਣੀ ਦਾ ਲਾਭ ਲੈਣਾ ਹੈ ਤਾਂ ਵੈਧ Scheduled Caste ਸਰਟੀਫਿਕੇਟ ਹੋਵੇ",
+      "ਜੇ ₹1,500 ਵਾਲੀ SC ਸ਼੍ਰੇਣੀ ਦਾ ਲਾਭ ਲੈਣਾ ਹੈ ਤਾਂ ਵੈਧ ਅਨੁਸੂਚਿਤ ਜਾਤੀ ਸਰਟੀਫਿਕੇਟ ਹੋਵੇ",
       "ਅਰਜ਼ੀਕਾਰ ਸਰਕਾਰੀ ਨੋਟੀਫਿਕੇਸ਼ਨ ਵਿੱਚ ਦਿੱਤੀਆਂ ਕਰਮਚਾਰੀ, ਪੈਨਸ਼ਨਰ, ਆਮਦਨ ਕਰ ਜਾਂ ਚੁਣੇ ਹੋਏ ਪ੍ਰਤੀਨਿਧੀ ਨਾਲ ਸੰਬੰਧਤ ਅਯੋਗਤਾ ਸ਼੍ਰੇਣੀਆਂ ਵਿੱਚ ਨਾ ਆਵੇ",
     ],
 
@@ -210,51 +210,51 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       "ਆਧਾਰ ਕਾਰਡ",
       "ਪੰਜਾਬ ਵੋਟਰ ਆਈਡੀ",
       "ਆਧਾਰ ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਦੀ ਪਾਸਬੁੱਕ ਜਾਂ ਖਾਤਾ ਵੇਰਵਾ",
-      "Scheduled Caste ਸਰਟੀਫਿਕੇਟ, ਜੇ ₹1,500 ਵਾਲਾ SC ਲਾਭ ਲੈਣਾ ਹੋਵੇ",
+      "ਅਨੁਸੂਚਿਤ ਜਾਤੀ ਸਰਟੀਫਿਕੇਟ, ਜੇ ₹1,500 ਵਾਲਾ SC ਲਾਭ ਲੈਣਾ ਹੋਵੇ",
       "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕੇਂਦਰ ਵੱਲੋਂ ਮੰਗਿਆ ਹੋਰ ਅਧਿਕਾਰਤ ਦਸਤਾਵੇਜ਼",
     ],
 
     applicationMethods: [
       "ਨਿਰਧਾਰਤ ਆਂਗਣਵਾੜੀ ਕੇਂਦਰ ਜਾਂ ਪੰਜਾਬ ਸੇਵਾ ਕੇਂਦਰ ਉੱਤੇ ਜਾਓ",
       "ਆਧਾਰ, ਵੋਟਰ ਆਈਡੀ, ਬੈਂਕ ਅਤੇ ਲਾਗੂ SC ਦਸਤਾਵੇਜ਼ ਨਾਲ ਲੈ ਕੇ ਜਾਓ",
-      "ਆਧਾਰ Authentication ਅਤੇ assisted registration ਪ੍ਰਕਿਰਿਆ ਪੂਰੀ ਕਰੋ",
+      "Aadhaar ਪ੍ਰਮਾਣੀਕਰਨ ਅਤੇ ਸਹਾਇਤਾ ਨਾਲ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੀ ਪ੍ਰਕਿਰਿਆ ਪੂਰੀ ਕਰੋ",
       "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੌਰਾਨ ਨਾਮ, ਜਨਮ ਮਿਤੀ ਅਤੇ ਬੈਂਕ ਵੇਰਵਾ ਧਿਆਨ ਨਾਲ ਜਾਂਚੋ",
-      "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੀ ਰਸੀਦ ਜਾਂ acknowledgement ਸੰਭਾਲ ਕੇ ਰੱਖੋ",
-      "SMS, ਬੈਂਕ DBT ਜਾਂ ਸਰਕਾਰੀ ਅਪਡੇਟ ਰਾਹੀਂ ਅਗਲੀ ਸਥਿਤੀ ਚੈੱਕ ਕਰੋ",
+      "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੀ ਰਸੀਦ ਸੰਭਾਲ ਕੇ ਰੱਖੋ",
+      "SMS, ਬੈਂਕ ਵਿੱਚ DBT ਭੁਗਤਾਨ ਜਾਂ ਸਰਕਾਰੀ ਸੂਚਨਾ ਰਾਹੀਂ ਅਗਲੀ ਸਥਿਤੀ ਪਤਾ ਕਰੋ",
     ],
 
     practicalTips: [
       "ਆਧਾਰ, ਵੋਟਰ ਆਈਡੀ ਅਤੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਨਾਮ ਅਤੇ ਜਨਮ ਮਿਤੀ ਇੱਕੋ ਜਿਹੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
-      "ਬੈਂਕ ਤੋਂ ਇਹ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਆਧਾਰ seeding ਅਤੇ DBT mapping ਸਰਗਰਮ ਹੈ।",
+      "ਬੈਂਕ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ Aadhaar ਜੋੜ ਅਤੇ DBT ਲਈ ਖਾਤੇ ਦੀ ਦਰਜਾਬੰਦੀ ਸਰਗਰਮ ਹੈ।",
       "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਲਈ ਕਿਸੇ ਏਜੰਟ ਨੂੰ ਪੈਸੇ ਨਾ ਦਿਓ; ਅਧਿਕਾਰਤ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਮੁਫ਼ਤ ਹੈ।",
-      "OTP, ATM PIN, UPI PIN ਜਾਂ ਬੈਂਕ ਪਾਸਵਰਡ ਕਿਸੇ ਨੂੰ ਨਾ ਦਿਓ।",
+      "OTP, ATM PIN ਜਾਂ UPI PIN ਕਿਸੇ ਨੂੰ ਨਾ ਦਿਓ।",
       "SC ਸ਼੍ਰੇਣੀ ਵਾਲੀਆਂ ਮਹਿਲਾਵਾਂ ਆਪਣਾ ਜਾਤੀ ਸਰਟੀਫਿਕੇਟ ਸਪਸ਼ਟ ਅਤੇ ਵੈਧ ਰੱਖਣ।",
-      "ਜੇ ਭੁਗਤਾਨ ਨਹੀਂ ਆ ਰਿਹਾ ਤਾਂ ਪਹਿਲਾਂ ਬੈਂਕ DBT mapping, Aadhaar linkage ਅਤੇ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਰਿਕਾਰਡ ਜਾਂਚੋ।",
+      "ਜੇ ਭੁਗਤਾਨ ਨਹੀਂ ਆ ਰਿਹਾ ਤਾਂ ਪਹਿਲਾਂ DBT ਲਈ ਬੈਂਕ ਖਾਤੇ ਦੀ ਦਰਜਾਬੰਦੀ, Aadhaar ਜੋੜ ਅਤੇ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਰਿਕਾਰਡ ਜਾਂਚੋ।",
     ],
 
     currentStatus:
-      "ਇਹ ਸਕੀਮ 2026 ਵਿੱਚ ਪੰਜਾਬ ਸਰਕਾਰ ਵੱਲੋਂ ਨੋਟੀਫਾਈ ਕੀਤੀ ਗਈ ਹੈ। ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਤੇ ਭੁਗਤਾਨ ਨਾਲ ਸੰਬੰਧਤ ਤਾਜ਼ਾ ਤਾਰੀਖਾਂ, ਕੇਂਦਰ ਅਤੇ ਪ੍ਰਕਿਰਿਆ ਬਦਲ ਸਕਦੀ ਹੈ। ਅਰਜ਼ੀਕਾਰ ਨੂੰ Punjab Government ਜਾਂ Department of Social Security, Women and Child Development ਦੇ ਤਾਜ਼ਾ ਨਿਰਦੇਸ਼ਾਂ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
+      "ਇਹ ਸਕੀਮ 2026 ਵਿੱਚ ਪੰਜਾਬ ਸਰਕਾਰ ਵੱਲੋਂ ਨੋਟੀਫਾਈ ਕੀਤੀ ਗਈ ਹੈ। ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਤੇ ਭੁਗਤਾਨ ਨਾਲ ਸੰਬੰਧਤ ਤਾਰੀਖਾਂ, ਕੇਂਦਰ ਅਤੇ ਪ੍ਰਕਿਰਿਆ ਬਦਲ ਸਕਦੀ ਹੈ। ਅਰਜ਼ੀਕਾਰ ਨੂੰ ਪੰਜਾਬ ਸਰਕਾਰ ਦੇ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ ਦੇ ਤਾਜ਼ਾ ਨਿਰਦੇਸ਼ਾਂ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
 
     deepDiveHeading:
       "₹1,000 ਅਤੇ ₹1,500 ਦੀ ਰਕਮ, DBT ਅਤੇ ਅਯੋਗਤਾ ਦੇ ਨਿਯਮ ਸਮਝੋ",
 
     deepDive: [
-      "ਸਕੀਮ ਵਿੱਚ ਲਾਭ ਦੀ ਰਕਮ ਮਹਿਲਾ ਦੀ ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ਵੱਖ ਹੈ। ਯੋਗ Scheduled Caste ਮਹਿਲਾ ਲਈ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ ਅਤੇ ਹੋਰ ਯੋਗ ਸ਼੍ਰੇਣੀਆਂ ਲਈ ₹1,000 ਪ੍ਰਤੀ ਮਹੀਨਾ ਨਿਰਧਾਰਤ ਹੈ। ਇਹ ਰਕਮ ਨਕਦ ਹੱਥ ਵਿੱਚ ਨਹੀਂ ਦਿੱਤੀ ਜਾਂਦੀ; Direct Benefit Transfer ਰਾਹੀਂ ਆਧਾਰ ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਭੇਜੀ ਜਾਂਦੀ ਹੈ।",
+      "ਸਕੀਮ ਵਿੱਚ ਲਾਭ ਦੀ ਰਕਮ ਮਹਿਲਾ ਦੀ ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ਵੱਖ ਹੈ। ਯੋਗ ਅਨੁਸੂਚਿਤ ਜਾਤੀ ਦੀ ਮਹਿਲਾ ਲਈ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ ਅਤੇ ਹੋਰ ਯੋਗ ਸ਼੍ਰੇਣੀਆਂ ਲਈ ₹1,000 ਪ੍ਰਤੀ ਮਹੀਨਾ ਨਿਰਧਾਰਤ ਹੈ। ਇਹ ਰਕਮ ਹੱਥ ਵਿੱਚ ਨਕਦ ਨਹੀਂ ਦਿੱਤੀ ਜਾਂਦੀ; ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ Aadhaar ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਭੇਜੀ ਜਾਂਦੀ ਹੈ।",
 
       "ਸਕੀਮ ਦੀ ਇੱਕ ਮਹੱਤਵਪੂਰਨ ਵਿਸ਼ੇਸ਼ਤਾ ਇਹ ਹੈ ਕਿ ਯੋਗਤਾ ਸਿਰਫ਼ ਇੱਕ ਮਹਿਲਾ ਪ੍ਰਤੀ ਪਰਿਵਾਰ ਤੱਕ ਸੀਮਿਤ ਨਹੀਂ ਹੈ। ਜੇ ਇੱਕੋ ਪਰਿਵਾਰ ਵਿੱਚ ਕਈ ਮਹਿਲਾਵਾਂ ਵੱਖ-ਵੱਖ ਤੌਰ ਉੱਤੇ ਸਾਰੀਆਂ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਕਰਦੀਆਂ ਹਨ ਤਾਂ ਉਹ ਲਾਭ ਲੈ ਸਕਦੀਆਂ ਹਨ।",
 
-      "ਮੌਜੂਦਾ ਪੰਜਾਬ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ ਲੈ ਰਹੀ ਮਹਿਲਾ ਨੂੰ ਸਿਰਫ਼ ਇਸ ਕਾਰਨ Satkar Yojana ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ। ਪਰ ਉਸ ਨੂੰ ਇਸ ਸਕੀਮ ਦੀਆਂ ਹੋਰ ਸਾਰੀਆਂ ਯੋਗਤਾ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਕਰਨੀ ਲੋੜੀਂਦੀਆਂ ਹਨ।",
+      "ਮੌਜੂਦਾ ਪੰਜਾਬ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ ਲੈ ਰਹੀ ਮਹਿਲਾ ਨੂੰ ਸਿਰਫ਼ ਇਸ ਕਾਰਨ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ। ਪਰ ਉਸ ਨੂੰ ਇਸ ਸਕੀਮ ਦੀਆਂ ਹੋਰ ਸਾਰੀਆਂ ਯੋਗਤਾ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਕਰਨੀ ਲੋੜੀਂਦੀਆਂ ਹਨ।",
 
       "ਸਰਕਾਰੀ ਨੋਟੀਫਿਕੇਸ਼ਨ ਕੁਝ ਸ਼੍ਰੇਣੀਆਂ ਨੂੰ ਬਾਹਰ ਰੱਖਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਨਿਰਧਾਰਤ ਸਰਕਾਰੀ ਜਾਂ ਸਰਕਾਰੀ ਸੰਗਠਨਾਂ ਦੇ ਨਿਯਮਤ ਜਾਂ ਰਿਟਾਇਰਡ ਕਰਮਚਾਰੀ ਜਾਂ ਪੈਨਸ਼ਨਰ, ਪਿਛਲੇ ਵਿੱਤੀ ਸਾਲ ਵਿੱਚ ਆਮਦਨ ਕਰ ਭਰਨ ਵਾਲੀਆਂ ਮਹਿਲਾਵਾਂ ਅਤੇ ਕੁਝ ਮੌਜੂਦਾ ਜਾਂ ਸਾਬਕਾ ਮੰਤਰੀ, MP ਜਾਂ MLA ਸ਼ਾਮਲ ਹਨ। ਖਾਸ ਹਾਲਤ ਵਿੱਚ ਅਧਿਕਾਰਤ ਕੇਂਦਰ ਤੋਂ ਸਪਸ਼ਟੀਕਰਨ ਲੈਣਾ ਚਾਹੀਦਾ ਹੈ।",
 
-      "DBT ਵਿੱਚ ਬੈਂਕ ਰਿਕਾਰਡ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਹੈ। ਸਿਰਫ਼ ਬੈਂਕ ਨੂੰ ਆਧਾਰ ਦੀ ਕਾਪੀ ਦੇਣ ਨਾਲ ਇਹ ਯਕੀਨੀ ਨਹੀਂ ਹੁੰਦਾ ਕਿ ਖਾਤਾ ਸਰਕਾਰੀ DBT ਲਈ ਸਹੀ ਤਰੀਕੇ ਨਾਲ mapped ਹੈ। ਲੋੜ ਪੈਣ ਉੱਤੇ ਬੈਂਕ ਸ਼ਾਖਾ ਤੋਂ Aadhaar seeding ਅਤੇ DBT status ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "DBT ਲਈ ਬੈਂਕ ਰਿਕਾਰਡ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਹੈ। ਸਿਰਫ਼ ਬੈਂਕ ਨੂੰ Aadhaar ਦੀ ਕਾਪੀ ਦੇਣ ਨਾਲ ਇਹ ਯਕੀਨੀ ਨਹੀਂ ਹੁੰਦਾ ਕਿ ਸਰਕਾਰੀ DBT ਭੁਗਤਾਨ ਲਈ ਉਹੀ ਖਾਤਾ ਦਰਜ ਹੈ। ਲੋੜ ਪੈਣ ਉੱਤੇ ਬੈਂਕ ਸ਼ਾਖਾ ਤੋਂ Aadhaar ਜੋੜ ਅਤੇ DBT ਲਈ ਦਰਜ ਖਾਤੇ ਦੀ ਸਥਿਤੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
     ],
 
     faqs: [
       {
         question: "ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਵਿੱਚ ਕਿੰਨੇ ਪੈਸੇ ਮਿਲਦੇ ਹਨ?",
         answer:
-          "ਯੋਗ Scheduled Caste ਮਹਿਲਾ ਨੂੰ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ ਅਤੇ ਹੋਰ ਯੋਗ ਸ਼੍ਰੇਣੀਆਂ ਦੀ ਮਹਿਲਾ ਨੂੰ ₹1,000 ਪ੍ਰਤੀ ਮਹੀਨਾ ਮਿਲਦਾ ਹੈ।",
+          "ਯੋਗ ਅਨੁਸੂਚਿਤ ਜਾਤੀ ਦੀ ਮਹਿਲਾ ਨੂੰ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ ਅਤੇ ਹੋਰ ਯੋਗ ਸ਼੍ਰੇਣੀਆਂ ਦੀ ਮਹਿਲਾ ਨੂੰ ₹1,000 ਪ੍ਰਤੀ ਮਹੀਨਾ ਮਿਲਦਾ ਹੈ।",
       },
       {
         question: "ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਲਈ ਉਮਰ ਕਿੰਨੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ?",
@@ -269,7 +269,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       {
         question: "ਜੇ ਪਹਿਲਾਂ ਹੀ ਬੁਢਾਪਾ ਜਾਂ ਹੋਰ ਪੈਨਸ਼ਨ ਮਿਲਦੀ ਹੈ ਤਾਂ ਕੀ ਇਹ ਸਕੀਮ ਮਿਲੇਗੀ?",
         answer:
-          "ਹਾਂ, ਯੋਗ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ ਲਾਭਪਾਤਰੀ ਮਹਿਲਾ Satkar Yojana ਦਾ ਲਾਭ ਵੀ ਲੈ ਸਕਦੀ ਹੈ, ਬਸ਼ਰਤੇ ਉਹ ਹੋਰ ਯੋਗਤਾ ਨਿਯਮ ਪੂਰੇ ਕਰਦੀ ਹੋਵੇ।",
+          "ਹਾਂ, ਯੋਗ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ ਲਾਭਪਾਤਰੀ ਮਹਿਲਾ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਦਾ ਲਾਭ ਵੀ ਲੈ ਸਕਦੀ ਹੈ, ਬਸ਼ਰਤੇ ਉਹ ਹੋਰ ਯੋਗਤਾ ਨਿਯਮ ਪੂਰੇ ਕਰਦੀ ਹੋਵੇ।",
       },
       {
         question: "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਿੱਥੇ ਹੁੰਦੀ ਹੈ?",
@@ -289,17 +289,17 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       {
         question: "ਪੈਸੇ ਬੈਂਕ ਵਿੱਚ ਕਿਵੇਂ ਆਉਂਦੇ ਹਨ?",
         answer:
-          "ਸਹਾਇਤਾ Direct Benefit Transfer ਰਾਹੀਂ ਆਧਾਰ ਨਾਲ ਜੁੜੇ ਯੋਗ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਭੇਜੀ ਜਾਂਦੀ ਹੈ।",
+          "ਸਹਾਇਤਾ ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ Aadhaar ਨਾਲ ਜੁੜੇ ਯੋਗ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਭੇਜੀ ਜਾਂਦੀ ਹੈ।",
       },
       {
         question: "ਭੁਗਤਾਨ ਨਾ ਆਵੇ ਤਾਂ ਕੀ ਕਰੀਏ?",
         answer:
-          "ਰਜਿਸਟ੍ਰੇਸ਼ਨ acknowledgement, Aadhaar-bank linkage, DBT mapping ਅਤੇ ਬੈਂਕ ਖਾਤੇ ਦੀ ਸਥਿਤੀ ਪਹਿਲਾਂ ਜਾਂਚੋ। ਲੋੜ ਪੈਣ ਉੱਤੇ ਅਧਿਕਾਰਤ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਸਟੇਟਸ ਪੁੱਛੋ।",
+          "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੀ ਰਸੀਦ, Aadhaar ਨਾਲ ਬੈਂਕ ਖਾਤੇ ਦਾ ਜੋੜ, DBT ਲਈ ਦਰਜ ਖਾਤਾ ਅਤੇ ਖਾਤੇ ਦੀ ਸਰਗਰਮੀ ਪਹਿਲਾਂ ਜਾਂਚੋ। ਲੋੜ ਪੈਣ ਉੱਤੇ ਅਧਿਕਾਰਤ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਭੁਗਤਾਨ ਦੀ ਸਥਿਤੀ ਪੁੱਛੋ।",
       },
       {
         question: "ਕੀ ਆਮਦਨ ਦੀ ਕੋਈ ਹੱਦ ਹੈ?",
         answer:
-          "ਨੋਟੀਫਿਕੇਸ਼ਨ ਆਮ household income ceiling ਦੀ ਥਾਂ income-tax exclusion ਵਰਤਦਾ ਹੈ। ਪਿਛਲੇ ਵਿੱਤੀ ਸਾਲ ਵਿੱਚ ਆਮਦਨ ਕਰ ਭਰਨ ਵਾਲੀ ਮਹਿਲਾ ਅਯੋਗ ਹੋ ਸਕਦੀ ਹੈ।",
+          "ਨੋਟੀਫਿਕੇਸ਼ਨ ਆਮ ਘਰੇਲੂ ਆਮਦਨ ਹੱਦ ਦੇਣ ਦੀ ਥਾਂ ਆਮਦਨ ਕਰ ਭਰਨ ਵਾਲੀ ਮਹਿਲਾ ਨੂੰ ਬਾਹਰ ਰੱਖਦਾ ਹੈ। ਪਿਛਲੇ ਵਿੱਤੀ ਸਾਲ ਵਿੱਚ ਆਮਦਨ ਕਰ ਭਰਨ ਵਾਲੀ ਮਹਿਲਾ ਅਯੋਗ ਹੋ ਸਕਦੀ ਹੈ।",
       },
     ],
 
@@ -309,7 +309,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     department:
       "ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
 
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
 
     image:
       "/images/schemes/mukh-mantri-mawan-dheeyan-satkar-yojana.webp",
@@ -327,90 +327,90 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     description:
       "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ 2026 ਹੇਠ ₹10 ਲੱਖ ਤੱਕ ਕੈਸ਼ਲੈੱਸ ਹਸਪਤਾਲ ਇਲਾਜ, ਸਿਹਤ ਕਾਰਡ, ਰਜਿਸਟ੍ਰੇਸ਼ਨ, ਯੋਗਤਾ ਅਤੇ ਹਸਪਤਾਲ ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
     summary:
-      "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ ਦੇ ਯੋਗ ਵਸਨੀਕ ਪਰਿਵਾਰਾਂ ਲਈ ਸਾਲਾਨਾ ਪ੍ਰਤੀ ਪਰਿਵਾਰ ₹10 ਲੱਖ ਤੱਕ ਕੈਸ਼ਲੈੱਸ ਹਸਪਤਾਲ ਇਲਾਜ ਕਵਰ ਪ੍ਰਦਾਨ ਕਰਨ ਵਾਲੀ ਸਿਹਤ ਯੋਜਨਾ ਹੈ। ਇਲਾਜ ਸਿਰਫ਼ ਯੋਗ ਪੈਕੇਜ ਅਤੇ empanelled ਸਰਕਾਰੀ ਜਾਂ ਨਿੱਜੀ ਹਸਪਤਾਲ ਰਾਹੀਂ ਸਕੀਮ ਦੇ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਹੁੰਦਾ ਹੈ।",
+      "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ ਦੇ ਯੋਗ ਵਸਨੀਕ ਪਰਿਵਾਰਾਂ ਨੂੰ ਪ੍ਰਤੀ ਸਾਲ ₹10 ਲੱਖ ਤੱਕ ਨਕਦ-ਰਹਿਤ ਹਸਪਤਾਲ ਇਲਾਜ ਦਾ ਕਵਰ ਦਿੰਦੀ ਹੈ। ਇਲਾਜ ਸਿਰਫ਼ ਯੋਗ ਪੈਕੇਜ ਅਤੇ ਸਕੀਮ ਨਾਲ ਸੂਚੀਬੱਧ ਸਰਕਾਰੀ ਜਾਂ ਨਿੱਜੀ ਹਸਪਤਾਲ ਵਿੱਚ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਹੁੰਦਾ ਹੈ।",
     category: "ਸਿਹਤ",
     beneficiaries:
-      "ਪੰਜਾਬ ਦੇ bona fide ਵਸਨੀਕ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਪਰਿਵਾਰ, ਜਿਨ੍ਹਾਂ ਦੀ ਪਛਾਣ, ਰਹਾਇਸ਼ ਅਤੇ ਪਰਿਵਾਰਕ ਵੇਰਵੇ ਮੌਜੂਦਾ State Health Agency ਪ੍ਰਕਿਰਿਆ ਅਨੁਸਾਰ ਸਹੀ ਤਰੀਕੇ ਨਾਲ verify ਹੋ ਜਾਂਦੇ ਹਨ।",
+      "ਪੰਜਾਬ ਦੇ ਅਸਲ ਵਸਨੀਕ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਪਰਿਵਾਰ, ਜਿਨ੍ਹਾਂ ਦੀ ਪਛਾਣ, ਰਹਾਇਸ਼ ਅਤੇ ਪਰਿਵਾਰਕ ਵੇਰਵੇ ਮੌਜੂਦਾ State Health Agency ਪ੍ਰਕਿਰਿਆ ਅਨੁਸਾਰ ਸਹੀ ਪਾਏ ਜਾਂਦੇ ਹਨ।",
     benefitDetails: [
       "ਯੋਗ ਪਰਿਵਾਰ ਲਈ ਪ੍ਰਤੀ ਸਾਲ ₹10 ਲੱਖ ਤੱਕ ਕੈਸ਼ਲੈੱਸ ਹਸਪਤਾਲ ਇਲਾਜ ਕਵਰ",
-      "Empanelled ਸਰਕਾਰੀ ਅਤੇ ਭਾਗੀਦਾਰ ਨਿੱਜੀ ਹਸਪਤਾਲਾਂ ਵਿੱਚ ਯੋਗ ਪੈਕੇਜਾਂ ਲਈ ਇਲਾਜ",
-      "ਸਰਕਾਰੀ ਵੇਰਵਿਆਂ ਅਨੁਸਾਰ ਪੰਜਾਬ ਵਸਨੀਕ ਪਰਿਵਾਰਾਂ ਲਈ ਆਮ household income ceiling ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ",
-      "Health card ਜਾਂ beneficiary record ਰਾਹੀਂ ਹਸਪਤਾਲ ਵਿੱਚ ਸਕੀਮ verification",
-      "Planned treatment ਲਈ package ਅਤੇ pre-authorization ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ",
+      "ਸੂਚੀਬੱਧ ਸਰਕਾਰੀ ਅਤੇ ਭਾਗੀਦਾਰ ਨਿੱਜੀ ਹਸਪਤਾਲਾਂ ਵਿੱਚ ਯੋਗ ਪੈਕੇਜਾਂ ਲਈ ਇਲਾਜ",
+      "ਸਰਕਾਰੀ ਵੇਰਵਿਆਂ ਵਿੱਚ ਪੰਜਾਬ ਵਸਨੀਕ ਪਰਿਵਾਰਾਂ ਲਈ ਆਮ ਘਰੇਲੂ ਆਮਦਨ ਹੱਦ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ",
+      "ਸਿਹਤ ਕਾਰਡ ਜਾਂ ਲਾਭਪਾਤਰੀ ਰਿਕਾਰਡ ਰਾਹੀਂ ਹਸਪਤਾਲ ਵਿੱਚ ਸਕੀਮ ਦੀ ਜਾਂਚ",
+      "ਪਹਿਲਾਂ ਤੋਂ ਤੈਅ ਇਲਾਜ ਲਈ ਪੈਕੇਜ ਅਤੇ ਪੂਰਵ-ਮਨਜ਼ੂਰੀ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ",
     ],
     eligibilityChecklist: [
       "ਪਰਿਵਾਰ ਪੰਜਾਬ ਦਾ ਵਸਨੀਕ ਹੋਣ ਦਾ ਮੌਜੂਦਾ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਸਬੂਤ ਦੇ ਸਕੇ",
-      "ਆਧਾਰ, voter ID ਜਾਂ ਮੌਜੂਦਾ ਮਨਜ਼ੂਰ ਤਰੀਕੇ ਨਾਲ identity verification ਹੋ ਸਕੇ",
+      "Aadhaar, ਵੋਟਰ ਪਛਾਣ ਪੱਤਰ ਜਾਂ ਮੌਜੂਦਾ ਮਨਜ਼ੂਰ ਤਰੀਕੇ ਨਾਲ ਪਛਾਣ ਦੀ ਜਾਂਚ ਹੋ ਸਕੇ",
       "ਪਰਿਵਾਰਕ ਮੈਂਬਰਾਂ ਦੇ ਵੇਰਵੇ ਸਹੀ ਤਰੀਕੇ ਨਾਲ ਰਜਿਸਟਰ ਹੋਣ",
-      "Cashless planned treatment ਤੋਂ ਪਹਿਲਾਂ beneficiary record ਜਾਂ health card active ਹੋਵੇ",
-      "ਚੁਣਿਆ ਹਸਪਤਾਲ scheme ਲਈ empanelled ਹੋਵੇ",
-      "ਇਲਾਜ scheme ਦੇ ਮੌਜੂਦਾ eligible package ਵਿੱਚ ਆਵੇ",
+      "ਪਹਿਲਾਂ ਤੋਂ ਤੈਅ ਨਕਦ-ਰਹਿਤ ਇਲਾਜ ਤੋਂ ਪਹਿਲਾਂ ਲਾਭਪਾਤਰੀ ਰਿਕਾਰਡ ਜਾਂ ਸਿਹਤ ਕਾਰਡ ਸਰਗਰਮ ਹੋਵੇ",
+      "ਚੁਣਿਆ ਹਸਪਤਾਲ ਸਕੀਮ ਨਾਲ ਸੂਚੀਬੱਧ ਹੋਵੇ",
+      "ਇਲਾਜ ਸਕੀਮ ਦੇ ਮੌਜੂਦਾ ਯੋਗ ਪੈਕੇਜ ਵਿੱਚ ਆਵੇ",
     ],
     documents: [
       "ਆਧਾਰ ਕਾਰਡ",
-      "ਪੰਜਾਬ voter ID ਜਾਂ ਮੌਜੂਦਾ ਮਨਜ਼ੂਰਸ਼ੁਦਾ residence proof",
-      "ਪਰਿਵਾਰਕ ਮੈਂਬਰਾਂ ਦੀ identity ਅਤੇ relationship information",
-      "ਚਾਲੂ mobile number",
-      "ਪੁਰਾਣਾ Ayushman ਜਾਂ Punjab health card, ਜੇ ਪਹਿਲਾਂ ਜਾਰੀ ਹੋਇਆ ਹੋਵੇ",
+      "ਪੰਜਾਬ ਵੋਟਰ ਪਛਾਣ ਪੱਤਰ ਜਾਂ ਮੌਜੂਦਾ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਰਹਾਇਸ਼ ਸਬੂਤ",
+      "ਪਰਿਵਾਰਕ ਮੈਂਬਰਾਂ ਦੀ ਪਛਾਣ ਅਤੇ ਆਪਸੀ ਰਿਸ਼ਤੇ ਦੀ ਜਾਣਕਾਰੀ",
+      "ਚਾਲੂ ਮੋਬਾਈਲ ਨੰਬਰ",
+      "ਪੁਰਾਣਾ Ayushman ਜਾਂ ਪੰਜਾਬ ਸਿਹਤ ਕਾਰਡ, ਜੇ ਪਹਿਲਾਂ ਜਾਰੀ ਹੋਇਆ ਹੋਵੇ",
     ],
     applicationMethods: [
-      "Punjab State Health Agency ਦੀ ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਮੌਜੂਦਾ registration instructions ਵੇਖੋ",
-      "ਲੋੜ ਪੈਣ ਉੱਤੇ authorized Sewa Kendra ਜਾਂ Common Service Centre ਤੋਂ assisted registration ਕਰੋ",
-      "Identity, residence ਅਤੇ family-member details ਸਹੀ ਦਰਜ ਕਰੋ",
-      "Required authentication ਪੂਰੀ ਕਰਕੇ acknowledgement ਸੰਭਾਲੋ",
-      "ਇਲਾਜ ਤੋਂ ਪਹਿਲਾਂ hospital empanelment ਅਤੇ package eligibility verify ਕਰੋ",
+      "Punjab State Health Agency ਦੀ ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ ਉੱਤੇ ਮੌਜੂਦਾ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਹਦਾਇਤਾਂ ਵੇਖੋ",
+      "ਲੋੜ ਪੈਣ ਉੱਤੇ ਅਧਿਕਾਰਤ ਸੇਵਾ ਕੇਂਦਰ ਜਾਂ Common Service Centre ਤੋਂ ਸਹਾਇਤਾ ਨਾਲ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਰੋ",
+      "ਪਛਾਣ, ਰਹਾਇਸ਼ ਅਤੇ ਪਰਿਵਾਰਕ ਮੈਂਬਰਾਂ ਦੇ ਵੇਰਵੇ ਸਹੀ ਦਰਜ ਕਰੋ",
+      "ਲੋੜੀਂਦਾ ਪ੍ਰਮਾਣੀਕਰਨ ਪੂਰਾ ਕਰਕੇ ਰਸੀਦ ਸੰਭਾਲੋ",
+      "ਇਲਾਜ ਤੋਂ ਪਹਿਲਾਂ ਹਸਪਤਾਲ ਦੀ ਸੂਚੀਬੱਧਤਾ ਅਤੇ ਪੈਕੇਜ ਯੋਗਤਾ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
     ],
     practicalTips: [
-      "Planned admission ਤੋਂ ਪਹਿਲਾਂ health card ਅਤੇ family record verify ਕਰਵਾ ਲਵੋ।",
-      "ਹਸਪਤਾਲ ਦਾ ਨਾਮ ਪੁਰਾਣੀ list ਤੋਂ ਨਹੀਂ, ਮੌਜੂਦਾ official empanelled-hospital list ਤੋਂ ਚੈੱਕ ਕਰੋ।",
-      "Non-emergency admission ਤੋਂ ਪਹਿਲਾਂ scheme desk ਤੋਂ package ਅਤੇ pre-authorization ਬਾਰੇ ਪੁੱਛੋ।",
-      "₹10 ਲੱਖ ਨੂੰ cash payment ਨਾ ਸਮਝੋ; ਇਹ eligible hospitalization cover ਦੀ ceiling ਹੈ।",
-      "Scheme card ਜਾਂ Aadhaar ਕਿਸੇ ਅਣਪਛਾਤੇ agent ਨੂੰ ਨਾ ਦਿਓ।",
+      "ਪਹਿਲਾਂ ਤੋਂ ਤੈਅ ਦਾਖ਼ਲੇ ਤੋਂ ਪਹਿਲਾਂ ਸਿਹਤ ਕਾਰਡ ਅਤੇ ਪਰਿਵਾਰਕ ਰਿਕਾਰਡ ਦੀ ਜਾਂਚ ਕਰਵਾ ਲਵੋ।",
+      "ਹਸਪਤਾਲ ਦਾ ਨਾਮ ਪੁਰਾਣੀ ਸੂਚੀ ਤੋਂ ਨਹੀਂ, ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਸੂਚੀਬੱਧ ਹਸਪਤਾਲਾਂ ਦੀ ਸੂਚੀ ਤੋਂ ਜਾਂਚੋ।",
+      "ਗੈਰ-ਐਮਰਜੈਂਸੀ ਦਾਖ਼ਲੇ ਤੋਂ ਪਹਿਲਾਂ ਸਕੀਮ ਸਹਾਇਤਾ ਡੈਸਕ ਤੋਂ ਪੈਕੇਜ ਅਤੇ ਪੂਰਵ-ਮਨਜ਼ੂਰੀ ਬਾਰੇ ਪੁੱਛੋ।",
+      "₹10 ਲੱਖ ਨੂੰ ਨਕਦ ਭੁਗਤਾਨ ਨਾ ਸਮਝੋ; ਇਹ ਯੋਗ ਹਸਪਤਾਲੀ ਇਲਾਜ ਦੇ ਕਵਰ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਹੱਦ ਹੈ।",
+      "ਸਕੀਮ ਕਾਰਡ ਜਾਂ Aadhaar ਕਿਸੇ ਅਣਪਛਾਤੇ ਏਜੰਟ ਨੂੰ ਨਾ ਦਿਓ।",
     ],
     currentStatus:
-      "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ 2026 ਵਿੱਚ ਪੰਜਾਬ ਵਿੱਚ ਲਾਗੂ ਹੈ। Hospital empanelment, packages ਅਤੇ registration channels ਬਦਲ ਸਕਦੇ ਹਨ, ਇਸ ਲਈ treatment ਤੋਂ ਪਹਿਲਾਂ State Health Agency ਤੋਂ ਮੌਜੂਦਾ ਜਾਣਕਾਰੀ verify ਕਰੋ।",
+      "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ 2026 ਵਿੱਚ ਪੰਜਾਬ ਵਿੱਚ ਲਾਗੂ ਹੈ। ਸੂਚੀਬੱਧ ਹਸਪਤਾਲ, ਇਲਾਜ ਪੈਕੇਜ ਅਤੇ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਦੇ ਰਸਤੇ ਬਦਲ ਸਕਦੇ ਹਨ, ਇਸ ਲਈ ਇਲਾਜ ਤੋਂ ਪਹਿਲਾਂ State Health Agency ਤੋਂ ਮੌਜੂਦਾ ਜਾਣਕਾਰੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
     deepDiveHeading:
       "₹10 ਲੱਖ ਕੈਸ਼ਲੈੱਸ ਕਵਰ ਅਸਲ ਵਿੱਚ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ?",
     deepDive: [
-      "₹10 ਲੱਖ ਹਰ ਪਰਿਵਾਰ ਨੂੰ cash ਵਿੱਚ ਨਹੀਂ ਮਿਲਦਾ। ਇਹ ਇੱਕ annual family treatment-cover ceiling ਹੈ ਜਿਸ ਦੇ ਅੰਦਰ scheme ਦੇ eligible hospitalization packages ਲਈ approved cashless treatment ਹੋ ਸਕਦਾ ਹੈ।",
-      "Health card ਹੋਣਾ ਆਪਣੇ ਆਪ ਵਿੱਚ ਹਰ test, medicine ਜਾਂ operation ਦੀ payment guarantee ਨਹੀਂ ਹੈ। Hospital scheme desk diagnosis ਨੂੰ eligible package ਨਾਲ match ਕਰਦਾ ਹੈ ਅਤੇ ਜਿੱਥੇ ਲੋੜ ਹੋਵੇ pre-authorization ਲੈਂਦਾ ਹੈ।",
-      "ਇਲਾਜ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੋ ਕਿ hospital empanelled ਹੈ ਜਾਂ ਨਹੀਂ, package ਦਾ ਨਾਮ ਕੀ ਹੈ, package ਵਿੱਚ ਕੀ ਸ਼ਾਮਲ ਹੈ ਅਤੇ authorization approved ਹੈ ਜਾਂ pending।",
-      "ਜੇ hospital scheme ਦੇ ਨਾਮ ਉੱਤੇ ਵਾਧੂ payment ਮੰਗਦਾ ਹੈ ਤਾਂ itemized explanation ਅਤੇ receipts ਸੰਭਾਲੋ ਅਤੇ State Health Agency ਤੋਂ clarification ਲਵੋ।",
+      "₹10 ਲੱਖ ਹਰ ਪਰਿਵਾਰ ਨੂੰ ਨਕਦ ਨਹੀਂ ਮਿਲਦਾ। ਇਹ ਪ੍ਰਤੀ ਪਰਿਵਾਰ ਸਾਲਾਨਾ ਇਲਾਜ ਕਵਰ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਹੱਦ ਹੈ, ਜਿਸ ਅੰਦਰ ਸਕੀਮ ਦੇ ਯੋਗ ਹਸਪਤਾਲੀ ਪੈਕੇਜਾਂ ਲਈ ਮਨਜ਼ੂਰ ਨਕਦ-ਰਹਿਤ ਇਲਾਜ ਹੋ ਸਕਦਾ ਹੈ।",
+      "ਸਿਹਤ ਕਾਰਡ ਹੋਣ ਨਾਲ ਹਰ ਜਾਂਚ, ਦਵਾਈ ਜਾਂ ਆਪ੍ਰੇਸ਼ਨ ਦਾ ਖਰਚ ਆਪਣੇ ਆਪ ਮਨਜ਼ੂਰ ਨਹੀਂ ਹੁੰਦਾ। ਹਸਪਤਾਲ ਦਾ ਸਕੀਮ ਸਹਾਇਤਾ ਡੈਸਕ ਮਰੀਜ਼ ਦੀ ਬਿਮਾਰੀ ਨੂੰ ਯੋਗ ਪੈਕੇਜ ਨਾਲ ਮਿਲਾਉਂਦਾ ਹੈ ਅਤੇ ਜਿੱਥੇ ਲੋੜ ਹੋਵੇ, ਪਹਿਲਾਂ ਮਨਜ਼ੂਰੀ ਲੈਂਦਾ ਹੈ।",
+      "ਇਲਾਜ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੋ ਕਿ ਹਸਪਤਾਲ ਸਕੀਮ ਨਾਲ ਸੂਚੀਬੱਧ ਹੈ ਜਾਂ ਨਹੀਂ, ਪੈਕੇਜ ਦਾ ਨਾਮ ਕੀ ਹੈ, ਉਸ ਵਿੱਚ ਕੀ ਸ਼ਾਮਲ ਹੈ ਅਤੇ ਮਨਜ਼ੂਰੀ ਮਿਲੀ ਹੈ ਜਾਂ ਅਜੇ ਬਾਕੀ ਹੈ।",
+      "ਜੇ ਹਸਪਤਾਲ ਸਕੀਮ ਦੇ ਨਾਮ ਉੱਤੇ ਵਾਧੂ ਭੁਗਤਾਨ ਮੰਗਦਾ ਹੈ ਤਾਂ ਖਰਚਿਆਂ ਦਾ ਲਿਖਤੀ ਵੇਰਵਾ ਅਤੇ ਰਸੀਦਾਂ ਸੰਭਾਲੋ ਅਤੇ State Health Agency ਤੋਂ ਸਪਸ਼ਟੀਕਰਨ ਲਵੋ।",
     ],
     faqs: [
       {
         question: "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਵਿੱਚ ਕਿੰਨਾ ਕਵਰ ਮਿਲਦਾ ਹੈ?",
         answer:
-          "Punjab scheme eligible family ਲਈ ਪ੍ਰਤੀ ਸਾਲ ₹10 ਲੱਖ ਤੱਕ cashless hospitalization cover ਦੱਸਦੀ ਹੈ। ਇਹ ਸਿੱਧਾ cash payment ਨਹੀਂ ਹੈ।",
+          "ਪੰਜਾਬ ਦੀ ਇਹ ਸਕੀਮ ਯੋਗ ਪਰਿਵਾਰ ਲਈ ਪ੍ਰਤੀ ਸਾਲ ₹10 ਲੱਖ ਤੱਕ ਨਕਦ-ਰਹਿਤ ਹਸਪਤਾਲੀ ਇਲਾਜ ਦਾ ਕਵਰ ਦੱਸਦੀ ਹੈ। ਇਹ ਸਿੱਧਾ ਨਕਦ ਭੁਗਤਾਨ ਨਹੀਂ ਹੈ।",
       },
       {
-        question: "ਕੀ ਕੋਈ income limit ਹੈ?",
+        question: "ਕੀ ਆਮਦਨ ਦੀ ਕੋਈ ਹੱਦ ਹੈ?",
         answer:
-          "ਮੌਜੂਦਾ scheme ਨੂੰ Punjab residents ਲਈ universal ਦੱਸਿਆ ਗਿਆ ਹੈ ਅਤੇ ਆਮ household income ceiling ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ। Residence ਅਤੇ identity verification ਫਿਰ ਵੀ ਲਾਜ਼ਮੀ ਹੈ।",
+          "ਮੌਜੂਦਾ ਸਕੀਮ ਨੂੰ ਪੰਜਾਬ ਦੇ ਵਸਨੀਕਾਂ ਲਈ ਸਰਬ-ਵਿਆਪੀ ਦੱਸਿਆ ਗਿਆ ਹੈ ਅਤੇ ਆਮ ਘਰੇਲੂ ਆਮਦਨ ਹੱਦ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤੀ ਗਈ। ਰਹਾਇਸ਼ ਅਤੇ ਪਛਾਣ ਦੀ ਜਾਂਚ ਫਿਰ ਵੀ ਲਾਜ਼ਮੀ ਹੈ।",
       },
       {
-        question: "ਕੀ ਕਿਸੇ ਵੀ private hospital ਵਿੱਚ ਇਲਾਜ ਹੋ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਕਿਸੇ ਵੀ ਨਿੱਜੀ ਹਸਪਤਾਲ ਵਿੱਚ ਇਲਾਜ ਹੋ ਸਕਦਾ ਹੈ?",
         answer:
-          "ਨਹੀਂ। Hospital scheme ਲਈ empanelled ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ treatment eligible package ਵਿੱਚ ਆਉਣਾ ਚਾਹੀਦਾ ਹੈ।",
+          "ਨਹੀਂ। ਹਸਪਤਾਲ ਸਕੀਮ ਨਾਲ ਸੂਚੀਬੱਧ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਅਤੇ ਇਲਾਜ ਮੌਜੂਦਾ ਯੋਗ ਪੈਕੇਜ ਵਿੱਚ ਆਉਣਾ ਚਾਹੀਦਾ ਹੈ।",
       },
       {
-        question: "Registration ਕਿੱਥੇ ਹੋ ਸਕਦੀ ਹੈ?",
+        question: "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਿੱਥੇ ਹੋ ਸਕਦੀ ਹੈ?",
         answer:
-          "State Health Agency ਦੀ official website ਅਤੇ authorized Sewa Kendra ਜਾਂ Common Service Centre ਵਰਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਮੌਜੂਦਾ channel official source ਤੋਂ verify ਕਰੋ।",
+          "State Health Agency ਦੀ ਅਧਿਕਾਰਤ ਵੈੱਬਸਾਈਟ ਅਤੇ ਅਧਿਕਾਰਤ Sewa Kendra ਜਾਂ Common Service Centre ਵਰਤੇ ਜਾ ਸਕਦੇ ਹਨ। ਮੌਜੂਦਾ ਰਸਤੇ ਦੀ ਅਧਿਕਾਰਤ ਸਰੋਤ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
       },
       {
-        question: "ਕੀ Ayushman card ਇਸ scheme ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ Ayushman ਕਾਰਡ ਇਸ ਸਕੀਮ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ?",
         answer:
-          "ਪੁਰਾਣਾ beneficiary ਜਾਂ Ayushman record system ਨੂੰ ਪਰਿਵਾਰ ਪਛਾਣਣ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ, ਪਰ current MMSY activation ਅਤੇ cover hospital ਜਾਂ State Health Agency ਤੋਂ verify ਕਰੋ।",
+          "ਪੁਰਾਣਾ ਲਾਭਪਾਤਰੀ ਜਾਂ Ayushman ਰਿਕਾਰਡ ਪ੍ਰਣਾਲੀ ਨੂੰ ਪਰਿਵਾਰ ਪਛਾਣਣ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ, ਪਰ MMSY ਅਧੀਨ ਮੌਜੂਦਾ ਸਰਗਰਮੀ ਅਤੇ ਕਵਰ ਦੀ ਹਸਪਤਾਲ ਜਾਂ State Health Agency ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
       },
     ],
     officialUrl: "https://sha.punjab.gov.in/shapunjab/index.php",
     department:
       "State Health Agency, ਸਿਹਤ ਅਤੇ ਪਰਿਵਾਰ ਭਲਾਈ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image: "/images/schemes/mukh-mantri-sehat-yojana-punjab.webp",
     imageAlt:
-      "ਪੰਜਾਬ ਦਾ ਪਰਿਵਾਰ ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਦੇ health card ਬਾਰੇ ਹਸਪਤਾਲ help desk ਉੱਤੇ ਜਾਣਕਾਰੀ ਲੈਂਦਾ ਹੋਇਆ",
+      "ਪੰਜਾਬ ਦਾ ਪਰਿਵਾਰ ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਦੇ ਸਿਹਤ ਕਾਰਡ ਬਾਰੇ ਹਸਪਤਾਲ ਦੇ ਸਹਾਇਤਾ ਡੈਸਕ ਉੱਤੇ ਜਾਣਕਾਰੀ ਲੈਂਦਾ ਹੋਇਆ",
   },
 
   "old-age-pension-punjab": {
@@ -419,85 +419,86 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     seoTitle:
       "ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਅਰਜ਼ੀ ਅਤੇ ਸਟੇਟਸ",
     description:
-      "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਸਕੀਮ 2026 ਬਾਰੇ ਯੋਗਤਾ, ਉਮਰ, ਦਸਤਾਵੇਜ਼, ਬੈਂਕ ਵੇਰਵਾ, ਅਰਜ਼ੀ, Sewa Kendra ਅਤੇ pension status ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ 2026 ਲਈ ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਅਰਜ਼ੀ ਜਾਂ ਲਾਭਪਾਤਰੀ ਦੀ ਸਥਿਤੀ ਅਧਿਕਾਰਤ ਤਰੀਕੇ ਨਾਲ ਪਤਾ ਕਰਨ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
       "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਇੱਕ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਸੇਵਾ ਹੈ ਜਿਸ ਅਧੀਨ ਯੋਗ ਵੱਡੀ ਉਮਰ ਦੇ ਪੰਜਾਬ ਵਸਨੀਕਾਂ ਦੀ ਉਮਰ, ਰਹਾਇਸ਼, ਆਮਦਨ, ਸੰਪਤੀ ਅਤੇ ਹੋਰ ਮੌਜੂਦਾ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਜਾਂਚ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।",
     category: "ਪੈਨਸ਼ਨ",
     beneficiaries:
-      "ਪੰਜਾਬ ਦੇ ਵੱਡੀ ਉਮਰ ਦੇ ਉਹ ਵਸਨੀਕ ਜੋ ਵਿਭਾਗ ਦੇ ਮੌਜੂਦਾ ਉਮਰ, ਰਹਾਇਸ਼, ਆਮਦਨ ਅਤੇ property verification ਨਿਯਮ ਪੂਰੇ ਕਰਦੇ ਹਨ।",
+      "ਪੰਜਾਬ ਦੇ ਵੱਡੀ ਉਮਰ ਦੇ ਉਹ ਵਸਨੀਕ ਜਿਨ੍ਹਾਂ ਦੀ ਅਰਜ਼ੀ ਵਿਭਾਗ ਦੇ ਮੌਜੂਦਾ ਉਮਰ, ਰਹਾਇਸ਼, ਆਮਦਨ ਅਤੇ ਜਾਇਦਾਦ ਜਾਂਚ ਦੇ ਨਿਯਮ ਪੂਰੇ ਕਰਦੀ ਹੈ।",
     benefitDetails: [
       "ਯੋਗ ਸੀਨੀਅਰ ਨਾਗਰਿਕ ਲਈ ਪੰਜਾਬ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ",
       "ਬੈਂਕ ਖਾਤੇ ਰਾਹੀਂ ਸਰਕਾਰੀ ਭੁਗਤਾਨ ਦੀ ਵਿਵਸਥਾ",
-      "Punjab Connect, Sewa Kendra ਅਤੇ 1076 ਰਾਹੀਂ service guidance",
-      "ਮੌਜੂਦਾ official service sheet ਵਿੱਚ ਪੂਰੀ pension amount ਅਤੇ ਸਾਰੀਆਂ eligibility thresholds ਨਹੀਂ ਦਿੱਤੀਆਂ ਗਈਆਂ",
+      "Punjab Connect, ਸੇਵਾ ਕੇਂਦਰ ਅਤੇ 1076 ਰਾਹੀਂ ਅਰਜ਼ੀ ਸੰਬੰਧੀ ਮਦਦ",
+      "ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਸੇਵਾ-ਪੱਤਰ ਵਿੱਚ ਪੈਨਸ਼ਨ ਦੀ ਪੂਰੀ ਰਕਮ ਅਤੇ ਯੋਗਤਾ ਦੀਆਂ ਸਾਰੀਆਂ ਹੱਦਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਗਈਆਂ",
     ],
     eligibilityChecklist: [
-      "ਅਰਜ਼ੀਕਾਰ ਮੌਜੂਦਾ prescribed age condition ਪੂਰੀ ਕਰਦਾ ਹੋਵੇ",
-      "Punjab residence ਦਾ accepted proof ਹੋਵੇ",
-      "ਮੌਜੂਦਾ income condition ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
-      "Property ਜਾਂ land ownership rules ਪੂਰੇ ਹੁੰਦੇ ਹੋਣ",
-      "Bank account ਅਤੇ identity details verify ਹੋ ਸਕਣ",
+      "ਅਰਜ਼ੀਕਾਰ ਵਿਭਾਗ ਦੀ ਮੌਜੂਦਾ ਘੱਟੋ-ਘੱਟ ਉਮਰ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਕਰਦਾ ਹੋਵੇ",
+      "ਪੰਜਾਬ ਦੀ ਰਹਾਇਸ਼ ਦਾ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਸਬੂਤ ਹੋਵੇ",
+      "ਮੌਜੂਦਾ ਆਮਦਨ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
+      "ਜਾਇਦਾਦ ਜਾਂ ਜ਼ਮੀਨ ਦੀ ਮਾਲਕੀ ਸੰਬੰਧੀ ਨਿਯਮ ਪੂਰੇ ਹੁੰਦੇ ਹੋਣ",
+      "ਬੈਂਕ ਖਾਤੇ ਅਤੇ ਪਛਾਣ ਦੇ ਵੇਰਵਿਆਂ ਦੀ ਜਾਂਚ ਹੋ ਸਕੇ",
     ],
     documents: [
-      "ਮਨਜ਼ੂਰਸ਼ੁਦਾ identity proof",
-      "ਮਨਜ਼ੂਰਸ਼ੁਦਾ address proof",
-      "ਉਮਰ ਜਾਂ date of birth proof",
+      "ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਪਛਾਣ ਸਬੂਤ",
+      "ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਪਤੇ ਦਾ ਸਬੂਤ",
+      "ਉਮਰ ਜਾਂ ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ",
       "ਬੈਂਕ ਪਾਸਬੁੱਕ",
-      "ਮੌਜੂਦਾ service process ਵੱਲੋਂ ਮੰਗਿਆ ਹੋਰ ਦਸਤਾਵੇਜ਼",
+      "ਮੌਜੂਦਾ ਸੇਵਾ ਪ੍ਰਕਿਰਿਆ ਵਿੱਚ ਮੰਗਿਆ ਕੋਈ ਹੋਰ ਦਸਤਾਵੇਜ਼",
     ],
     applicationMethods: [
-      "Punjab Connect Portal ਉੱਤੇ ਮੌਜੂਦਾ service ਵੇਖੋ",
-      "Punjab Sewa Kendra ਰਾਹੀਂ assisted application ਕਰੋ",
-      "1076 ਉੱਤੇ doorstep-service guidance ਬਾਰੇ ਪੁੱਛੋ",
-      "Application acknowledgement ਸੰਭਾਲ ਕੇ ਰੱਖੋ",
+      "Punjab Connect Portal ਉੱਤੇ ਮੌਜੂਦਾ ਸੇਵਾ ਖੋਲ੍ਹ ਕੇ ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਦਾ ਤਰੀਕਾ ਵੇਖੋ",
+      "ਪੰਜਾਬ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਸਹਾਇਤਾ ਲੈ ਕੇ ਅਰਜ਼ੀ ਦਿਓ",
+      "1076 ਉੱਤੇ ਘਰ-ਦੁਆਰ ਸੇਵਾ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ",
+      "ਅਰਜ਼ੀ ਦੀ ਰਸੀਦ ਅਤੇ ਅਰਜ਼ੀ ਨੰਬਰ ਸੰਭਾਲ ਕੇ ਰੱਖੋ ਅਤੇ ਸਥਿਤੀ ਪੁੱਛਣ ਵੇਲੇ ਇਹੀ ਵੇਰਵੇ ਦਿਓ",
     ],
     practicalTips: [
-      "ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ current age, income ਅਤੇ property criteria Sewa Kendra ਤੋਂ ਪੁੱਛੋ।",
-      "ਪੁਰਾਣੀ news report ਤੋਂ pension amount assume ਨਾ ਕਰੋ।",
-      "Joint ਜਾਂ inherited property ਹੋਵੇ ਤਾਂ ਸਹੀ ਵੇਰਵਾ disclose ਕਰੋ।",
-      "Name ਅਤੇ date of birth identity, age proof ਅਤੇ bank record ਵਿੱਚ match ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
+      "ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਉਮਰ, ਆਮਦਨ ਅਤੇ ਜਾਇਦਾਦ ਦੀਆਂ ਸ਼ਰਤਾਂ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਪੁੱਛੋ।",
+      "ਕਿਸੇ ਪੁਰਾਣੀ ਖ਼ਬਰ ਦੇ ਆਧਾਰ ਉੱਤੇ ਪੈਨਸ਼ਨ ਦੀ ਮੌਜੂਦਾ ਰਕਮ ਨਾ ਮੰਨੋ।",
+      "ਸਾਂਝੀ ਜਾਂ ਵਿਰਾਸਤੀ ਜਾਇਦਾਦ ਹੋਵੇ ਤਾਂ ਉਸਦਾ ਸਹੀ ਵੇਰਵਾ ਦਿਓ।",
+      "ਪਛਾਣ ਪੱਤਰ, ਉਮਰ ਦੇ ਸਬੂਤ ਅਤੇ ਬੈਂਕ ਰਿਕਾਰਡ ਵਿੱਚ ਨਾਮ ਅਤੇ ਜਨਮ ਮਿਤੀ ਇੱਕੋ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
+      "ਤੁਰੰਤ ਪੈਨਸ਼ਨ ਜਾਂਚ ਦਾ ਦਾਅਵਾ ਕਰਨ ਵਾਲੀ ਗੈਰ-ਸਰਕਾਰੀ ਵੈੱਬਸਾਈਟ ਉੱਤੇ Aadhaar ਜਾਂ ਬੈਂਕ ਵੇਰਵੇ ਨਾ ਭਰੋ।",
     ],
     currentStatus:
-      "Punjab ਦੀ official service sheet pension service ਨੂੰ list ਕਰਦੀ ਹੈ, ਪਰ ਇਸ ਵਿੱਚ ਪੂਰੀ ਮੌਜੂਦਾ pension amount ਅਤੇ ਸਾਰੀਆਂ thresholds ਨਹੀਂ ਦਿੱਤੀਆਂ। Apply ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ department ਜਾਂ Sewa Kendra ਤੋਂ current rules verify ਕਰੋ।",
+      "ਪੰਜਾਬ ਦਾ ਅਧਿਕਾਰਤ ਸੇਵਾ-ਪੱਤਰ ਪੈਨਸ਼ਨ ਸੇਵਾ ਅਤੇ ਅਰਜ਼ੀ ਦੇ ਰਸਤੇ ਦੱਸਦਾ ਹੈ, ਪਰ ਪੈਨਸ਼ਨ ਦੀ ਮੌਜੂਦਾ ਰਕਮ, ਸਾਰੀਆਂ ਯੋਗਤਾ ਹੱਦਾਂ ਜਾਂ ਵੱਖਰਾ ਜਨਤਕ ਲਾਭਪਾਤਰੀ-ਸਥਿਤੀ ਪੋਰਟਲ ਨਹੀਂ ਦੱਸਦਾ। ਅਰਜ਼ੀ ਜਾਂ ਪੈਨਸ਼ਨ ਦੀ ਸਥਿਤੀ ਲਈ ਰਸੀਦ ਨਾਲ Punjab Connect, ਸੇਵਾ ਕੇਂਦਰ, ਵਿਭਾਗ ਜਾਂ 1076 ਨਾਲ ਸੰਪਰਕ ਕਰੋ।",
     deepDiveHeading:
-      "ਉਮਰ, ਆਮਦਨ ਅਤੇ property verification ਕਿਵੇਂ ਸਮਝੀਏ?",
+      "ਉਮਰ, ਆਮਦਨ, ਰਹਾਇਸ਼ ਅਤੇ ਜਾਇਦਾਦ ਦੀ ਜਾਂਚ ਕਿਵੇਂ ਸਮਝੀਏ?",
     deepDive: [
-      "Age proof, Punjab residence, income ਅਤੇ property verification ਵੱਖ-ਵੱਖ eligibility checks ਹਨ। Aadhaar ਜਾਂ voter record identity ਅਤੇ address ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ ਪਰ ਹਰ ਹਾਲਤ ਵਿੱਚ age proof ਦਾ ਬਦਲ ਨਹੀਂ ਹੁੰਦਾ।",
-      "ਜੇ birth record ਸਪਸ਼ਟ ਨਹੀਂ ਹੈ ਤਾਂ application ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੋ ਕਿ department ਕਿਹੜੇ alternative age documents accept ਕਰਦਾ ਹੈ।",
-      "Joint, inherited ਜਾਂ disputed property ਨੂੰ ਛੁਪਾਉਣ ਦੀ ਬਜਾਏ verification authority ਨੂੰ ਸਹੀ ਜਾਣਕਾਰੀ ਦਿਓ।",
+      "ਉਮਰ ਦਾ ਸਬੂਤ, ਪੰਜਾਬ ਦੀ ਰਹਾਇਸ਼, ਆਮਦਨ ਅਤੇ ਜਾਇਦਾਦ ਦੀ ਜਾਂਚ ਯੋਗਤਾ ਦੇ ਵੱਖ-ਵੱਖ ਪੱਖ ਹਨ। Aadhaar ਜਾਂ ਵੋਟਰ ਰਿਕਾਰਡ ਪਛਾਣ ਅਤੇ ਪਤਾ ਸਾਬਤ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰ ਸਕਦਾ ਹੈ, ਪਰ ਹਰ ਮਾਮਲੇ ਵਿੱਚ ਇਹ ਉਮਰ ਦੇ ਸਬੂਤ ਦਾ ਬਦਲ ਨਹੀਂ ਹੁੰਦਾ।",
+      "ਜੇ ਜਨਮ ਦਾ ਰਿਕਾਰਡ ਸਪਸ਼ਟ ਨਹੀਂ ਹੈ ਤਾਂ ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਪੁੱਛੋ ਕਿ ਵਿਭਾਗ ਉਮਰ ਲਈ ਕਿਹੜੇ ਬਦਲਵੇਂ ਦਸਤਾਵੇਜ਼ ਮੰਨਦਾ ਹੈ। ਸਾਂਝੀ, ਵਿਰਾਸਤੀ ਜਾਂ ਵਿਵਾਦਿਤ ਜਾਇਦਾਦ ਨੂੰ ਛੁਪਾਉਣ ਦੀ ਬਜਾਏ ਜਾਂਚ ਕਰਨ ਵਾਲੇ ਅਧਿਕਾਰੀ ਨੂੰ ਪੂਰੀ ਜਾਣਕਾਰੀ ਦਿਓ।",
+      "ਪੰਜਾਬ ਪੈਨਸ਼ਨ ਦੀ ਸਥਿਤੀ ਪਤਾ ਕਰਨ ਲਈ ਪਹਿਲਾਂ ਰਸੀਦ, ਅਰਜ਼ੀ ਨੰਬਰ ਅਤੇ ਅਰਜ਼ੀ ਵਿੱਚ ਦਿੱਤੇ ਬੈਂਕ ਖਾਤੇ ਦੇ ਵੇਰਵੇ ਤਿਆਰ ਰੱਖੋ। Punjab Connect ਜਾਂ ਅਰਜ਼ੀ ਲੈਣ ਵਾਲੇ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਪੁੱਛੋ ਕਿ ਮਾਮਲਾ ਦਸਤਾਵੇਜ਼ ਜਾਂਚ, ਸਥਾਨਕ ਤਸਦੀਕ, ਮਨਜ਼ੂਰੀ ਜਾਂ ਭੁਗਤਾਨ ਵਿੱਚੋਂ ਕਿਹੜੇ ਪੜਾਅ ਉੱਤੇ ਹੈ। ਬੈਂਕ ਵਿੱਚ ਰਕਮ ਨਾ ਆਉਣਾ ਆਪਣੇ ਆਪ ਇਹ ਨਹੀਂ ਦੱਸਦਾ ਕਿ ਅਰਜ਼ੀ ਲੰਬਿਤ ਹੈ ਜਾਂ ਰੱਦ।",
     ],
     faqs: [
       {
-        question: "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਲਈ ਕੌਣ apply ਕਰ ਸਕਦਾ ਹੈ?",
+        question: "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਲਈ ਕੌਣ ਅਰਜ਼ੀ ਦੇ ਸਕਦਾ ਹੈ?",
         answer:
-          "ਉਹ ਵੱਡੀ ਉਮਰ ਦੇ Punjab residents ਜੋ ਮੌਜੂਦਾ age, income, residence ਅਤੇ property conditions ਪੂਰੇ ਕਰਦੇ ਹਨ।",
+          "ਪੰਜਾਬ ਦੇ ਉਹ ਵੱਡੀ ਉਮਰ ਦੇ ਵਸਨੀਕ ਜੋ ਵਿਭਾਗ ਦੀਆਂ ਮੌਜੂਦਾ ਉਮਰ, ਆਮਦਨ, ਰਹਾਇਸ਼ ਅਤੇ ਜਾਇਦਾਦ ਸੰਬੰਧੀ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਕਰਦੇ ਹਨ।",
       },
       {
-        question: "ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਲਈ ਕਿਹੜੇ documents ਚਾਹੀਦੇ ਹਨ?",
+        question: "ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਲਈ ਕਿਹੜੇ ਦਸਤਾਵੇਜ਼ ਚਾਹੀਦੇ ਹਨ?",
         answer:
-          "Identity proof, address proof, age proof ਅਤੇ bank passbook ਮੁੱਖ documents ਹਨ। Current service additional evidence ਮੰਗ ਸਕਦੀ ਹੈ।",
+          "ਪਛਾਣ, ਪਤੇ ਅਤੇ ਉਮਰ ਦਾ ਸਬੂਤ ਅਤੇ ਬੈਂਕ ਪਾਸਬੁੱਕ ਮੁੱਖ ਦਸਤਾਵੇਜ਼ ਹਨ। ਮੌਜੂਦਾ ਸੇਵਾ ਪ੍ਰਕਿਰਿਆ ਵਾਧੂ ਸਬੂਤ ਵੀ ਮੰਗ ਸਕਦੀ ਹੈ।",
       },
       {
-        question: "ਕੀ online apply ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਦਿੱਤੀ ਜਾ ਸਕਦੀ ਹੈ?",
         answer:
-          "Official service sheet Punjab Connect Portal, Sewa Kendra ਅਤੇ 1076 guidance ਦਾ ਜ਼ਿਕਰ ਕਰਦੀ ਹੈ।",
+          "ਅਧਿਕਾਰਤ ਸੇਵਾ-ਪੱਤਰ Punjab Connect Portal, ਪੰਜਾਬ ਸੇਵਾ ਕੇਂਦਰ ਅਤੇ 1076 ਰਾਹੀਂ ਮਦਦ ਦਾ ਜ਼ਿਕਰ ਕਰਦਾ ਹੈ।",
       },
       {
-        question: "ਪੈਨਸ਼ਨ ਦੀ ਮੌਜੂਦਾ amount ਕਿੰਨੀ ਹੈ?",
+        question: "ਪੈਨਸ਼ਨ ਦੀ ਮੌਜੂਦਾ ਰਕਮ ਕਿੰਨੀ ਹੈ?",
         answer:
-          "ਅਸੀਂ ਵਰਤੀ current official service sheet ਵਿੱਚ amount ਨਹੀਂ ਦਿੱਤੀ ਹੋਈ, ਇਸ ਲਈ current figure department ਤੋਂ verify ਕਰੋ।",
+          "ਸਮੀਖਿਆ ਕੀਤੇ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਸੇਵਾ-ਪੱਤਰ ਵਿੱਚ ਰਕਮ ਨਹੀਂ ਦਿੱਤੀ ਗਈ, ਇਸ ਲਈ ਵਿਭਾਗ ਤੋਂ ਤਾਜ਼ਾ ਰਕਮ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
       },
       {
-        question: "Application status ਕਿੱਥੇ ਪੁੱਛੀਏ?",
+        question: "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਦੀ ਅਰਜ਼ੀ ਜਾਂ ਲਾਭਪਾਤਰੀ ਸਥਿਤੀ ਕਿਵੇਂ ਪਤਾ ਕਰੀਏ?",
         answer:
-          "Punjab Connect ਜਾਂ Sewa Kendra ਤੋਂ acknowledgement/application details ਨਾਲ current status ਬਾਰੇ ਪੁੱਛਿਆ ਜਾ ਸਕਦਾ ਹੈ।",
+          "ਰਸੀਦ ਜਾਂ ਅਰਜ਼ੀ ਨੰਬਰ ਨਾਲ Punjab Connect, ਅਰਜ਼ੀ ਲੈਣ ਵਾਲੇ ਸੇਵਾ ਕੇਂਦਰ, ਸੰਬੰਧਤ ਵਿਭਾਗ ਜਾਂ 1076 ਤੋਂ ਪੁੱਛੋ। ਸਮੀਖਿਆ ਕੀਤੇ ਅਧਿਕਾਰਤ ਸਰੋਤ ਵਿੱਚ ਵੱਖਰਾ ਜਨਤਕ ਆਨਲਾਈਨ ਲਾਭਪਾਤਰੀ-ਸਥਿਤੀ ਜਾਂਚ ਪੋਰਟਲ ਪੁਸ਼ਟੀਤ ਨਹੀਂ ਹੈ।",
       },
     ],
     officialUrl:
       "https://punjab.gov.in/wp-content/uploads/2025/09/Old-Age-Pension-Scheme.pdf",
     department:
       "ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image: "/images/schemes/old-age-pension-punjab.webp",
     imageAlt:
       "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਲਈ ਦਸਤਾਵੇਜ਼ ਵੇਖਦਾ ਇੱਕ ਬਜ਼ੁਰਗ ਪੰਜਾਬੀ ਜੋੜਾ",
@@ -509,81 +510,81 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     seoTitle:
       "ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਅਰਜ਼ੀ ਅਤੇ ਸਟੇਟਸ",
     description:
-      "ਪੰਜਾਬ ਵਿਧਵਾ ਅਤੇ ਬੇਸਹਾਰਾ ਮਹਿਲਾ ਪੈਨਸ਼ਨ 2026 ਲਈ ਯੋਗਤਾ, death certificate, divorce ਜਾਂ missing spouse evidence, documents ਅਤੇ application ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਵਿਧਵਾ ਅਤੇ ਬੇਸਹਾਰਾ ਮਹਿਲਾ ਪੈਨਸ਼ਨ 2026 ਲਈ ਯੋਗਤਾ, ਮੌਤ ਸਰਟੀਫਿਕੇਟ, ਤਲਾਕ ਜਾਂ ਲਾਪਤਾ ਪਤੀ ਦੇ ਸਬੂਤ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "ਪੰਜਾਬ ਦੀ ਇਹ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ eligible ਵਿਧਵਾ, ਤਲਾਕਸ਼ੁਦਾ ਜਾਂ ਹੋਰ ਮੰਨੀ ਗਈ ਬੇਸਹਾਰਾ ਮਹਿਲਾਵਾਂ ਲਈ ਹੈ। Applicant ਦੀ situation ਅਨੁਸਾਰ required evidence ਵੱਖ ਹੋ ਸਕਦਾ ਹੈ।",
+      "ਪੰਜਾਬ ਦੀ ਇਹ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ ਯੋਗ ਵਿਧਵਾ, ਤਲਾਕਸ਼ੁਦਾ ਜਾਂ ਵਿਭਾਗ ਵੱਲੋਂ ਮੰਨੀ ਹੋਰ ਬੇਸਹਾਰਾ ਮਹਿਲਾਵਾਂ ਲਈ ਹੈ। ਅਰਜ਼ੀਕਾਰ ਦੀ ਅਸਲ ਹਾਲਤ ਅਨੁਸਾਰ ਲੋੜੀਂਦਾ ਸਬੂਤ ਵੱਖ ਹੋ ਸਕਦਾ ਹੈ।",
     category: "ਪੈਨਸ਼ਨ",
     beneficiaries:
-      "ਵਿਧਵਾ, ਤਲਾਕਸ਼ੁਦਾ ਜਾਂ official service ਵਿੱਚ ਮੰਨੀ ਗਈ ਹੋਰ destitute category ਦੀਆਂ ਮਹਿਲਾਵਾਂ, subject to current departmental verification.",
+      "ਵਿਧਵਾ, ਤਲਾਕਸ਼ੁਦਾ ਜਾਂ ਅਧਿਕਾਰਤ ਸੇਵਾ ਵਿੱਚ ਮੰਨੀ ਹੋਰ ਬੇਸਹਾਰਾ ਸ਼੍ਰੇਣੀ ਦੀਆਂ ਮਹਿਲਾਵਾਂ, ਜਿਨ੍ਹਾਂ ਦੀ ਯੋਗਤਾ ਮੌਜੂਦਾ ਵਿਭਾਗੀ ਜਾਂਚ ਵਿੱਚ ਸਹੀ ਪਾਈ ਜਾਵੇ।",
     benefitDetails: [
-      "ਯੋਗ ਮਹਿਲਾਵਾਂ ਲਈ Punjab social-security pension",
-      "ਵਿਧਵਾ, divorce, missing spouse ਅਤੇ ਕੁਝ disability-related circumstances ਲਈ ਵੱਖ evidence route",
-      "Punjab Connect, Sewa Kendra ਅਤੇ 1076 guidance",
+      "ਯੋਗ ਮਹਿਲਾਵਾਂ ਲਈ ਪੰਜਾਬ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪੈਨਸ਼ਨ",
+      "ਵਿਧਵਾ, ਤਲਾਕ, ਲਾਪਤਾ ਪਤੀ ਅਤੇ ਕੁਝ ਦਿਵਿਆਂਗਤਾ-ਸੰਬੰਧੀ ਹਾਲਤਾਂ ਲਈ ਵੱਖਰੇ ਸਬੂਤ",
+      "Punjab Connect, ਪੰਜਾਬ ਸੇਵਾ ਕੇਂਦਰ ਅਤੇ 1076 ਰਾਹੀਂ ਮਦਦ",
     ],
     eligibilityChecklist: [
-      "Applicant Punjab ਦੀ resident ਹੋਵੇ",
-      "ਉਸਦੀ actual situation service ਦੀ covered category ਨਾਲ match ਕਰਦੀ ਹੋਵੇ",
-      "Widow case ਵਿੱਚ husband's registered death certificate available ਹੋਵੇ",
-      "Divorce case ਵਿੱਚ accepted legal divorce evidence ਹੋਵੇ",
-      "Missing spouse ਜਾਂ disability case ਵਿੱਚ prescribed competent-authority evidence ਹੋਵੇ",
+      "ਅਰਜ਼ੀਕਾਰ ਪੰਜਾਬ ਦੀ ਵਸਨੀਕ ਹੋਵੇ",
+      "ਉਸਦੀ ਅਸਲ ਹਾਲਤ ਸੇਵਾ ਵਿੱਚ ਸ਼ਾਮਲ ਸ਼੍ਰੇਣੀ ਨਾਲ ਮੇਲ ਖਾਂਦੀ ਹੋਵੇ",
+      "ਵਿਧਵਾ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਪਤੀ ਦਾ ਰਜਿਸਟਰਡ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਹੋਵੇ",
+      "ਤਲਾਕ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਕਾਨੂੰਨੀ ਤਲਾਕ ਸਬੂਤ ਹੋਵੇ",
+      "ਲਾਪਤਾ ਜਾਂ ਦਿਵਿਆਂਗ ਪਤੀ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਸਮਰੱਥ ਅਧਿਕਾਰੀ ਦਾ ਨਿਰਧਾਰਤ ਸਬੂਤ ਹੋਵੇ",
     ],
     documents: [
-      "Identity proof",
-      "Address proof",
-      "Date of birth proof",
-      "Bank passbook",
-      "Husband death certificate, divorce order, missing-person FIR ਜਾਂ applicable disability proof",
+      "ਪਛਾਣ ਸਬੂਤ",
+      "ਪਤੇ ਦਾ ਸਬੂਤ",
+      "ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ",
+      "ਬੈਂਕ ਪਾਸਬੁੱਕ",
+      "ਹਾਲਤ ਅਨੁਸਾਰ ਪਤੀ ਦਾ ਮੌਤ ਸਰਟੀਫਿਕੇਟ, ਤਲਾਕ ਹੁਕਮ, ਲਾਪਤਾ ਵਿਅਕਤੀ ਦੀ FIR ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਸਬੂਤ",
     ],
     applicationMethods: [
-      "Punjab Connect Portal ਰਾਹੀਂ current service apply ਕਰੋ",
-      "Punjab Sewa Kendra ਉੱਤੇ assisted application ਕਰੋ",
-      "1076 ਰਾਹੀਂ doorstep guidance ਬਾਰੇ ਪੁੱਛੋ",
-      "Acknowledgement ਅਤੇ submitted document copies ਸੰਭਾਲੋ",
+      "Punjab Connect Portal ਰਾਹੀਂ ਮੌਜੂਦਾ ਸੇਵਾ ਲਈ ਅਰਜ਼ੀ ਦਿਓ",
+      "ਪੰਜਾਬ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਸਹਾਇਤਾ ਨਾਲ ਅਰਜ਼ੀ ਦਿਓ",
+      "1076 ਰਾਹੀਂ ਘਰ-ਦੁਆਰ ਸੇਵਾ ਬਾਰੇ ਪੁੱਛੋ",
+      "ਰਸੀਦ ਅਤੇ ਜਮ੍ਹਾਂ ਦਸਤਾਵੇਜ਼ਾਂ ਦੀਆਂ ਕਾਪੀਆਂ ਸੰਭਾਲੋ",
     ],
     practicalTips: [
-      "ਆਪਣੀ actual situation ਲਈ ਸਹੀ category select ਕਰੋ।",
-      "Death certificate ਜਾਂ court order ਵਿੱਚ names applicant documents ਨਾਲ match ਕਰੋ।",
-      "Missing spouse case ਵਿੱਚ required police record ਬਾਰੇ ਪਹਿਲਾਂ ਪੁੱਛੋ।",
-      "Submitted application ਦੀ complete copy ਸੰਭਾਲ ਕੇ ਰੱਖੋ।",
+      "ਆਪਣੀ ਅਸਲ ਹਾਲਤ ਲਈ ਸਹੀ ਸ਼੍ਰੇਣੀ ਚੁਣੋ।",
+      "ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਜਾਂ ਅਦਾਲਤੀ ਹੁਕਮ ਵਿੱਚ ਨਾਮ ਅਰਜ਼ੀਕਾਰ ਦੇ ਦਸਤਾਵੇਜ਼ਾਂ ਨਾਲ ਮਿਲਾਓ।",
+      "ਪਤੀ ਦੇ ਲਾਪਤਾ ਹੋਣ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਲੋੜੀਂਦੇ ਪੁਲਿਸ ਰਿਕਾਰਡ ਬਾਰੇ ਪਹਿਲਾਂ ਪੁੱਛੋ।",
+      "ਜਮ੍ਹਾਂ ਕੀਤੀ ਪੂਰੀ ਅਰਜ਼ੀ ਦੀ ਕਾਪੀ ਸੰਭਾਲ ਕੇ ਰੱਖੋ।",
     ],
     currentStatus:
-      "Punjab ਦੀ current official service sheet ਇਸ pension service ਨੂੰ list ਕਰਦੀ ਹੈ। Exact benefit amount ਅਤੇ ਕੁਝ eligibility thresholds ਲਈ current department confirmation ਲੈਣਾ ਸੁਰੱਖਿਅਤ ਹੈ।",
+      "ਪੰਜਾਬ ਦਾ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਸੇਵਾ-ਪੱਤਰ ਇਸ ਪੈਨਸ਼ਨ ਸੇਵਾ ਨੂੰ ਦਰਜ ਕਰਦਾ ਹੈ। ਲਾਭ ਦੀ ਸਹੀ ਰਕਮ ਅਤੇ ਯੋਗਤਾ ਦੀਆਂ ਕੁਝ ਹੱਦਾਂ ਲਈ ਵਿਭਾਗ ਤੋਂ ਮੌਜੂਦਾ ਪੁਸ਼ਟੀ ਲਵੋ।",
     deepDiveHeading:
-      "Widow, divorce ਅਤੇ missing-spouse cases ਵਿੱਚ ਸਹੀ evidence ਕਿਵੇਂ ਚੁਣੀਏ?",
+      "ਵਿਧਵਾ, ਤਲਾਕ ਅਤੇ ਲਾਪਤਾ ਪਤੀ ਦੇ ਮਾਮਲਿਆਂ ਵਿੱਚ ਸਹੀ ਸਬੂਤ ਕਿਵੇਂ ਚੁਣੀਏ?",
     deepDive: [
-      "Widowhood, divorce, missing spouse ਅਤੇ disabled spouse situations ਲਈ evidence interchangeable ਨਹੀਂ ਹੁੰਦਾ। Applicant ਨੂੰ ਆਪਣੀ actual situation ਅਨੁਸਾਰ prescribed record ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ।",
-      "Spelling, old address ਜਾਂ relationship mismatch ਹੋਣ ਉੱਤੇ application ਤੋਂ ਪਹਿਲਾਂ competent authority ਤੋਂ correction ਜਾਂ acceptable supporting evidence ਬਾਰੇ ਪੁੱਛੋ।",
+      "ਵਿਧਵਾ, ਤਲਾਕ, ਲਾਪਤਾ ਪਤੀ ਅਤੇ ਦਿਵਿਆਂਗ ਪਤੀ ਦੀਆਂ ਹਾਲਤਾਂ ਲਈ ਸਬੂਤ ਇੱਕ-ਦੂਜੇ ਦੀ ਥਾਂ ਨਹੀਂ ਵਰਤੇ ਜਾ ਸਕਦੇ। ਅਰਜ਼ੀਕਾਰ ਨੂੰ ਆਪਣੀ ਅਸਲ ਹਾਲਤ ਅਨੁਸਾਰ ਨਿਰਧਾਰਤ ਰਿਕਾਰਡ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ।",
+      "ਨਾਮ ਦੀ ਲਿਖਤ, ਪੁਰਾਣੇ ਪਤੇ ਜਾਂ ਰਿਸ਼ਤੇ ਵਿੱਚ ਅੰਤਰ ਹੋਵੇ ਤਾਂ ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਸਮਰੱਥ ਅਧਿਕਾਰੀ ਤੋਂ ਸੋਧ ਜਾਂ ਮਨਜ਼ੂਰ ਵਾਧੂ ਸਬੂਤ ਬਾਰੇ ਪੁੱਛੋ।",
     ],
     faqs: [
       {
-        question: "ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਲਈ ਮੁੱਖ document ਕੀ ਹੈ?",
+        question: "ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਲਈ ਮੁੱਖ ਦਸਤਾਵੇਜ਼ ਕੀ ਹੈ?",
         answer:
-          "Widow case ਵਿੱਚ husband's registered death certificate ਮੁੱਖ situation-specific evidence ਹੈ।",
+          "ਵਿਧਵਾ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਪਤੀ ਦਾ ਰਜਿਸਟਰਡ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਮੁੱਖ ਹਾਲਤ-ਵਿਸ਼ੇਸ਼ ਸਬੂਤ ਹੈ।",
       },
       {
-        question: "ਤਲਾਕਸ਼ੁਦਾ ਮਹਿਲਾ apply ਕਰ ਸਕਦੀ ਹੈ?",
+        question: "ਕੀ ਤਲਾਕਸ਼ੁਦਾ ਮਹਿਲਾ ਅਰਜ਼ੀ ਦੇ ਸਕਦੀ ਹੈ?",
         answer:
-          "Service covered category ਅਨੁਸਾਰ eligible divorced applicant accepted legal divorce evidence ਨਾਲ apply ਕਰ ਸਕਦੀ ਹੈ।",
+          "ਸੇਵਾ ਦੀ ਮੰਨੀ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਆਉਂਦੀ ਯੋਗ ਤਲਾਕਸ਼ੁਦਾ ਮਹਿਲਾ ਮਨਜ਼ੂਰ ਕਾਨੂੰਨੀ ਤਲਾਕ ਸਬੂਤ ਨਾਲ ਅਰਜ਼ੀ ਦੇ ਸਕਦੀ ਹੈ।",
       },
       {
-        question: "ਜੇ husband missing ਹੈ ਤਾਂ ਕੀ ਚਾਹੀਦਾ ਹੈ?",
+        question: "ਜੇ ਪਤੀ ਲਾਪਤਾ ਹੈ ਤਾਂ ਕੀ ਚਾਹੀਦਾ ਹੈ?",
         answer:
-          "Department ਵੱਲੋਂ prescribed police/FIR evidence ਲੋੜੀਂਦਾ ਹੋ ਸਕਦਾ ਹੈ। Exact requirement Sewa Kendra ਤੋਂ verify ਕਰੋ।",
+          "ਵਿਭਾਗ ਵੱਲੋਂ ਨਿਰਧਾਰਤ ਪੁਲਿਸ ਰਿਕਾਰਡ ਜਾਂ FIR ਲੋੜੀਂਦੀ ਹੋ ਸਕਦੀ ਹੈ। ਸਹੀ ਲੋੜ ਦੀ ਪੁਸ਼ਟੀ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਕਰੋ।",
       },
       {
-        question: "Apply ਕਿੱਥੇ ਕਰੀਏ?",
+        question: "ਅਰਜ਼ੀ ਕਿੱਥੇ ਦਈਏ?",
         answer:
-          "Punjab Connect Portal ਜਾਂ Punjab Sewa Kendra ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ; 1076 ਤੋਂ guidance ਵੀ ਲਈ ਜਾ ਸਕਦੀ ਹੈ।",
+          "Punjab Connect Portal ਜਾਂ ਪੰਜਾਬ ਸੇਵਾ ਕੇਂਦਰ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ; 1076 ਤੋਂ ਵੀ ਜਾਣਕਾਰੀ ਲਈ ਜਾ ਸਕਦੀ ਹੈ।",
       },
     ],
     officialUrl:
       "https://punjab.gov.in/wp-content/uploads/2025/09/Widow-Destitute-pension-scheme.pdf",
     department:
       "ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image: "/images/schemes/widow-destitute-pension-punjab.webp",
     imageAlt:
-      "ਪੰਜਾਬ ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਅਰਜ਼ੀ ਲਈ community service desk ਉੱਤੇ ਦਸਤਾਵੇਜ਼ ਲੈ ਕੇ ਬੈਠੀ ਮਹਿਲਾ",
+      "ਪੰਜਾਬ ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਅਰਜ਼ੀ ਲਈ ਸਾਂਝੇ ਸੇਵਾ ਕੇਂਦਰ ਦੇ ਸਹਾਇਤਾ ਡੈਸਕ ਉੱਤੇ ਦਸਤਾਵੇਜ਼ ਲੈ ਕੇ ਬੈਠੀ ਮਹਿਲਾ",
   },
 
   "dependent-children-pension-punjab": {
@@ -592,329 +593,329 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     seoTitle:
       "ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਦੀ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ",
     description:
-      "Punjab Dependent Children Pension 2026 ਲਈ guardian, mother ਜਾਂ father application, birth proof, parental death/disability documents ਅਤੇ application process ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਦੀ ਪੈਨਸ਼ਨ 2026 ਲਈ ਸਰਪ੍ਰਸਤ, ਮਾਂ ਜਾਂ ਪਿਤਾ ਵੱਲੋਂ ਅਰਜ਼ੀ, ਜਨਮ ਸਬੂਤ ਅਤੇ ਮਾਪਿਆਂ ਦੀ ਮੌਤ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਦੇ ਦਸਤਾਵੇਜ਼ਾਂ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "ਇਹ ਪੰਜਾਬ ਸਮਾਜਿਕ ਸਹਾਇਤਾ service eligible dependent children ਲਈ ਹੈ ਜਿੱਥੇ ਮਾਤਾ-ਪਿਤਾ ਦੀ ਮੌਤ ਜਾਂ disability ਨਾਲ ਸੰਬੰਧਤ prescribed conditions ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ।",
+      "ਇਹ ਪੰਜਾਬ ਸਮਾਜਿਕ ਸਹਾਇਤਾ ਸੇਵਾ ਉਨ੍ਹਾਂ ਯੋਗ ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਲਈ ਹੈ ਜਿਨ੍ਹਾਂ ਦੇ ਮਾਤਾ-ਪਿਤਾ ਦੀ ਮੌਤ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਨਾਲ ਸੰਬੰਧਤ ਨਿਰਧਾਰਤ ਸ਼ਰਤਾਂ ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ।",
     category: "ਬੱਚੇ ਅਤੇ ਪਰਿਵਾਰ",
     beneficiaries:
-      "Eligible dependent children ਜਿਨ੍ਹਾਂ ਲਈ mother, father ਜਾਂ guardian current departmental rules ਅਨੁਸਾਰ application ਕਰਦਾ ਹੈ।",
+      "ਯੋਗ ਆਸ਼ਰਿਤ ਬੱਚੇ, ਜਿਨ੍ਹਾਂ ਲਈ ਮਾਂ, ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਮੌਜੂਦਾ ਵਿਭਾਗੀ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਅਰਜ਼ੀ ਦਿੰਦਾ ਹੈ।",
     benefitDetails: [
-      "Eligible dependent children ਲਈ Punjab social-assistance pension",
-      "Mother, father ਜਾਂ guardian ਰਾਹੀਂ case-specific application",
-      "Parental death ਜਾਂ disability circumstances ਅਨੁਸਾਰ verification",
+      "ਯੋਗ ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਲਈ ਪੰਜਾਬ ਸਮਾਜਿਕ ਸਹਾਇਤਾ ਪੈਨਸ਼ਨ",
+      "ਮਾਂ, ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਰਾਹੀਂ ਹਾਲਤ ਅਨੁਸਾਰ ਅਰਜ਼ੀ",
+      "ਮਾਪਿਆਂ ਦੀ ਮੌਤ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਦੀ ਹਾਲਤ ਅਨੁਸਾਰ ਜਾਂਚ",
     ],
     eligibilityChecklist: [
-      "Child ਦੀ age/date-of-birth evidence available ਹੋਵੇ",
-      "Applying adult ਦੀ child ਨਾਲ relationship establish ਹੋਵੇ",
-      "Applicable parental death ਜਾਂ disability condition prove ਹੋ ਸਕੇ",
-      "Punjab residence ਅਤੇ current departmental conditions ਪੂਰੇ ਹੋਣ",
+      "ਬੱਚੇ ਦੀ ਉਮਰ ਜਾਂ ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ ਮੌਜੂਦ ਹੋਵੇ",
+      "ਅਰਜ਼ੀ ਦੇਣ ਵਾਲੇ ਬਾਲਗ ਦਾ ਬੱਚੇ ਨਾਲ ਰਿਸ਼ਤਾ ਸਾਬਤ ਹੋਵੇ",
+      "ਲਾਗੂ ਮਾਪੇ ਦੀ ਮੌਤ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਦੀ ਹਾਲਤ ਸਾਬਤ ਹੋ ਸਕੇ",
+      "ਪੰਜਾਬ ਦੀ ਰਹਾਇਸ਼ ਅਤੇ ਮੌਜੂਦਾ ਵਿਭਾਗੀ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਹੋਣ",
     ],
     documents: [
-      "Applicant identity ਅਤੇ address proof",
-      "Applicant date-of-birth proof",
-      "ਹਰ dependent child ਦਾ date-of-birth proof",
-      "Bank passbook",
-      "Applicable parent death certificate ਜਾਂ disability certificate",
+      "ਅਰਜ਼ੀਕਾਰ ਦੀ ਪਛਾਣ ਅਤੇ ਪਤੇ ਦਾ ਸਬੂਤ",
+      "ਅਰਜ਼ੀਕਾਰ ਦੀ ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ",
+      "ਹਰ ਆਸ਼ਰਿਤ ਬੱਚੇ ਦੀ ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ",
+      "ਬੈਂਕ ਪਾਸਬੁੱਕ",
+      "ਹਾਲਤ ਅਨੁਸਾਰ ਮਾਪੇ ਦਾ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ",
     ],
     applicationMethods: [
-      "Punjab Connect Portal ਰਾਹੀਂ apply ਕਰੋ",
-      "Punjab Sewa Kendra ਉੱਤੇ assisted application ਕਰੋ",
-      "1076 ਤੋਂ doorstep guidance ਲਵੋ",
-      "ਹਰ child ਦੇ documents ਅਤੇ acknowledgement copies ਸੰਭਾਲੋ",
+      "Punjab Connect Portal ਰਾਹੀਂ ਅਰਜ਼ੀ ਦਿਓ",
+      "ਪੰਜਾਬ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਸਹਾਇਤਾ ਨਾਲ ਅਰਜ਼ੀ ਦਿਓ",
+      "1076 ਤੋਂ ਘਰ-ਦੁਆਰ ਸੇਵਾ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਵੋ",
+      "ਹਰ ਬੱਚੇ ਦੇ ਦਸਤਾਵੇਜ਼ ਅਤੇ ਰਸੀਦ ਦੀਆਂ ਕਾਪੀਆਂ ਸੰਭਾਲੋ",
     ],
     practicalTips: [
-      "ਹਰ child ਲਈ separate age document ਤਿਆਰ ਰੱਖੋ।",
-      "Guardian application ਵਿੱਚ relationship evidence ਪਹਿਲਾਂ verify ਕਰੋ।",
-      "Minor beneficiary ਲਈ bank account title/process current service ਤੋਂ ਪੁੱਛੋ।",
-      "Death/disability certificates competent authority ਦੇ ਹੋਣ।",
+      "ਹਰ ਬੱਚੇ ਲਈ ਵੱਖਰਾ ਉਮਰ ਸਬੂਤ ਤਿਆਰ ਰੱਖੋ।",
+      "ਸਰਪ੍ਰਸਤ ਵੱਲੋਂ ਅਰਜ਼ੀ ਵਿੱਚ ਰਿਸ਼ਤੇ ਦੇ ਸਬੂਤ ਦੀ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "ਨਾਬਾਲਗ ਲਾਭਪਾਤਰੀ ਲਈ ਬੈਂਕ ਖਾਤਾ ਕਿਸ ਨਾਮ ਅਤੇ ਤਰੀਕੇ ਨਾਲ ਹੋਵੇ, ਇਹ ਮੌਜੂਦਾ ਸੇਵਾ ਤੋਂ ਪੁੱਛੋ।",
+      "ਮੌਤ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਸਮਰੱਥ ਅਧਿਕਾਰੀ ਵੱਲੋਂ ਜਾਰੀ ਹੋਣ।",
     ],
     currentStatus:
-      "Service Punjab ਦੇ social-security system ਵਿੱਚ listed ਹੈ। Child ਅਤੇ applying adult ਦੀ exact situation ਅਨੁਸਾਰ evidence requirements ਵੱਖ ਹੋ ਸਕਦੀਆਂ ਹਨ।",
+      "ਇਹ ਸੇਵਾ ਪੰਜਾਬ ਦੀ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਪ੍ਰਣਾਲੀ ਵਿੱਚ ਦਰਜ ਹੈ। ਬੱਚੇ ਅਤੇ ਉਸ ਵੱਲੋਂ ਅਰਜ਼ੀ ਦੇਣ ਵਾਲੇ ਬਾਲਗ ਦੀ ਅਸਲ ਹਾਲਤ ਅਨੁਸਾਰ ਸਬੂਤਾਂ ਦੀ ਲੋੜ ਵੱਖ ਹੋ ਸਕਦੀ ਹੈ।",
     deepDiveHeading:
-      "Parent ਜਾਂ guardian ਬੱਚੇ ਦਾ case ਕਿਵੇਂ ਤਿਆਰ ਕਰੇ?",
+      "ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਬੱਚੇ ਦਾ ਮਾਮਲਾ ਕਿਵੇਂ ਤਿਆਰ ਕਰੇ?",
     deepDive: [
-      "ਪਹਿਲਾਂ ਹਰ child ਦਾ exact name ਅਤੇ date of birth official record ਅਨੁਸਾਰ note ਕਰੋ ਅਤੇ identify ਕਰੋ ਕਿ application mother, father ਜਾਂ guardian ਵਿੱਚੋਂ ਕੌਣ ਕਰ ਰਿਹਾ ਹੈ।",
-      "Parental death ਜਾਂ disability certificate ਵਿੱਚ relevant parent ਦੀ identity child ਅਤੇ applicant records ਨਾਲ connect ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
-      "Informal ਜਾਂ disputed guardianship ਹੋਵੇ ਤਾਂ application ਤੋਂ ਪਹਿਲਾਂ official guidance ਲਵੋ।",
+      "ਪਹਿਲਾਂ ਹਰ ਬੱਚੇ ਦਾ ਪੂਰਾ ਨਾਮ ਅਤੇ ਜਨਮ ਮਿਤੀ ਅਧਿਕਾਰਤ ਰਿਕਾਰਡ ਅਨੁਸਾਰ ਲਿਖੋ ਅਤੇ ਸਪਸ਼ਟ ਕਰੋ ਕਿ ਅਰਜ਼ੀ ਮਾਂ, ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਵਿੱਚੋਂ ਕੌਣ ਦੇ ਰਿਹਾ ਹੈ।",
+      "ਮਾਪੇ ਦੀ ਮੌਤ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਸੰਬੰਧਤ ਮਾਪੇ ਦੀ ਪਛਾਣ ਬੱਚੇ ਅਤੇ ਅਰਜ਼ੀਕਾਰ ਦੇ ਰਿਕਾਰਡ ਨਾਲ ਜੁੜਨੀ ਚਾਹੀਦੀ ਹੈ।",
+      "ਸਰਪ੍ਰਸਤੀ ਗੈਰ-ਰਸਮੀ ਜਾਂ ਵਿਵਾਦਿਤ ਹੋਵੇ ਤਾਂ ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਅਧਿਕਾਰਤ ਸਲਾਹ ਲਵੋ।",
     ],
     faqs: [
       {
-        question: "ਕੀ guardian child ਲਈ apply ਕਰ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਸਰਪ੍ਰਸਤ ਬੱਚੇ ਲਈ ਅਰਜ਼ੀ ਦੇ ਸਕਦਾ ਹੈ?",
         answer:
-          "ਹਾਂ, prescribed conditions ਵਿੱਚ guardian apply ਕਰ ਸਕਦਾ ਹੈ, ਪਰ relationship ਅਤੇ case-specific evidence ਲੋੜੀਂਦਾ ਹੋਵੇਗਾ।",
+          "ਹਾਂ, ਨਿਰਧਾਰਤ ਹਾਲਤਾਂ ਵਿੱਚ ਸਰਪ੍ਰਸਤ ਅਰਜ਼ੀ ਦੇ ਸਕਦਾ ਹੈ, ਪਰ ਰਿਸ਼ਤੇ ਅਤੇ ਮਾਮਲੇ ਨਾਲ ਸੰਬੰਧਤ ਸਬੂਤ ਲੋੜੀਂਦੇ ਹੋਣਗੇ।",
       },
       {
-        question: "ਹਰ child ਲਈ birth proof ਚਾਹੀਦਾ ਹੈ?",
+        question: "ਕੀ ਹਰ ਬੱਚੇ ਲਈ ਜਨਮ ਸਬੂਤ ਚਾਹੀਦਾ ਹੈ?",
         answer:
-          "Official service evidence ਦੇ ਅਨੁਸਾਰ dependent children ਦੇ age/date-of-birth records ਤਿਆਰ ਰੱਖਣੇ ਚਾਹੀਦੇ ਹਨ।",
+          "ਅਧਿਕਾਰਤ ਸੇਵਾ-ਪੱਤਰ ਅਨੁਸਾਰ ਹਰ ਆਸ਼ਰਿਤ ਬੱਚੇ ਦੀ ਉਮਰ ਜਾਂ ਜਨਮ ਮਿਤੀ ਦਾ ਰਿਕਾਰਡ ਤਿਆਰ ਰੱਖਣਾ ਚਾਹੀਦਾ ਹੈ।",
       },
       {
-        question: "ਕਿਹੜਾ parent-related document ਚਾਹੀਦਾ ਹੈ?",
+        question: "ਮਾਪੇ ਨਾਲ ਸੰਬੰਧਤ ਕਿਹੜਾ ਦਸਤਾਵੇਜ਼ ਚਾਹੀਦਾ ਹੈ?",
         answer:
-          "Case ਅਨੁਸਾਰ parental death certificate ਜਾਂ disability certificate ਲੋੜੀਂਦਾ ਹੋ ਸਕਦਾ ਹੈ।",
+          "ਮਾਮਲੇ ਅਨੁਸਾਰ ਮਾਪੇ ਦਾ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਲੋੜੀਂਦਾ ਹੋ ਸਕਦਾ ਹੈ।",
       },
     ],
     officialUrl:
       "https://punjab.gov.in/wp-content/uploads/2025/09/Dependent-children-pension-scheme.pdf",
     department:
       "ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image: "/images/schemes/dependent-children-pension-punjab.webp",
     imageAlt:
-      "ਪੰਜਾਬ ਵਿੱਚ guardian ਦੇ ਨਾਲ ਸਕੂਲ ਜਾਂਦੇ ਬੱਚੇ",
+      "ਪੰਜਾਬ ਵਿੱਚ ਸਰਪ੍ਰਸਤ ਦੇ ਨਾਲ ਸਕੂਲ ਜਾਂਦੇ ਬੱਚੇ",
   },
 
   "disabled-person-pension-punjab": {
     slug: "disabled-person-pension-punjab",
     name: "ਪੰਜਾਬ ਦਿਵਿਆਂਗ ਵਿਅਕਤੀ ਪੈਨਸ਼ਨ ਸਕੀਮ",
     seoTitle:
-      "ਦਿਵਿਆਂਗ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, Disability Certificate, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ",
+      "ਦਿਵਿਆਂਗ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ",
     description:
-      "Punjab Disabled Person Pension 2026 ਲਈ disability certificate, parent/guardian application, income/property conditions, documents ਅਤੇ application process ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਦਿਵਿਆਂਗ ਵਿਅਕਤੀ ਪੈਨਸ਼ਨ 2026 ਲਈ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ, ਮਾਪੇ ਜਾਂ ਸਰਪ੍ਰਸਤ ਵੱਲੋਂ ਅਰਜ਼ੀ, ਆਮਦਨ ਤੇ ਜਾਇਦਾਦ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਦਸਤਾਵੇਜ਼ਾਂ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "ਪੰਜਾਬ ਦੀ ਇਹ ਵਿੱਤੀ ਸਹਾਇਤਾ service eligible persons with disabilities ਲਈ ਹੈ। Minor ਜਾਂ independently apply ਨਾ ਕਰ ਸਕਣ ਵਾਲੇ beneficiary ਲਈ parent ਜਾਂ guardian application ਕਰ ਸਕਦਾ ਹੈ।",
+      "ਪੰਜਾਬ ਦੀ ਇਹ ਵਿੱਤੀ ਸਹਾਇਤਾ ਸੇਵਾ ਯੋਗ ਦਿਵਿਆਂਗ ਵਿਅਕਤੀਆਂ ਲਈ ਹੈ। ਨਾਬਾਲਗ ਜਾਂ ਆਪਣੇ ਤੌਰ ਉੱਤੇ ਅਰਜ਼ੀ ਨਾ ਦੇ ਸਕਣ ਵਾਲੇ ਲਾਭਪਾਤਰੀ ਲਈ ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਅਰਜ਼ੀ ਦੇ ਸਕਦਾ ਹੈ।",
     category: "ਦਿਵਿਆਂਗ ਭਲਾਈ",
     beneficiaries:
-      "Punjab residents with disability ਜੋ competent authority ਦਾ accepted disability proof ਰੱਖਦੇ ਹਨ ਅਤੇ current disability, income, employment, property ਅਤੇ residence conditions ਪੂਰੇ ਕਰਦੇ ਹਨ।",
+      "ਪੰਜਾਬ ਦੇ ਦਿਵਿਆਂਗ ਵਸਨੀਕ ਜਿਨ੍ਹਾਂ ਕੋਲ ਸਮਰੱਥ ਅਧਿਕਾਰੀ ਦਾ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਦਿਵਿਆਂਗਤਾ ਸਬੂਤ ਹੈ ਅਤੇ ਜੋ ਮੌਜੂਦਾ ਦਿਵਿਆਂਗਤਾ, ਆਮਦਨ, ਰੁਜ਼ਗਾਰ, ਜਾਇਦਾਦ ਅਤੇ ਰਹਾਇਸ਼ ਦੀਆਂ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਕਰਦੇ ਹਨ।",
     benefitDetails: [
-      "Eligible person with disability ਲਈ Punjab financial-assistance pension",
-      "Minor ਜਾਂ applicable case ਵਿੱਚ parent/guardian application",
-      "Official form ਵਿੱਚ government ਅਤੇ facilitation fee ₹0 ਦਰਜ ਹੈ",
+      "ਯੋਗ ਦਿਵਿਆਂਗ ਵਿਅਕਤੀ ਲਈ ਪੰਜਾਬ ਵਿੱਤੀ ਸਹਾਇਤਾ ਪੈਨਸ਼ਨ",
+      "ਨਾਬਾਲਗ ਜਾਂ ਲਾਗੂ ਮਾਮਲੇ ਵਿੱਚ ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਵੱਲੋਂ ਅਰਜ਼ੀ",
+      "ਅਧਿਕਾਰਤ ਫਾਰਮ ਵਿੱਚ ਸਰਕਾਰੀ ਅਤੇ ਸਹੂਲਤ ਫੀਸ ₹0 ਦਰਜ ਹੈ",
     ],
     eligibilityChecklist: [
-      "Competent authority ਵੱਲੋਂ disability proof available ਹੋਵੇ",
-      "Punjab residence condition ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
-      "Current disability threshold ਅਤੇ category satisfy ਹੁੰਦੀ ਹੋਵੇ",
-      "Income, employment ਅਤੇ property conditions current rules ਅਨੁਸਾਰ ਪੂਰੀਆਂ ਹੁੰਦੀਆਂ ਹੋਣ",
-      "Representative application ਹੋਵੇ ਤਾਂ relationship establish ਹੋਵੇ",
+      "ਸਮਰੱਥ ਅਧਿਕਾਰੀ ਵੱਲੋਂ ਜਾਰੀ ਦਿਵਿਆਂਗਤਾ ਸਬੂਤ ਮੌਜੂਦ ਹੋਵੇ",
+      "ਪੰਜਾਬ ਦੀ ਰਹਾਇਸ਼ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
+      "ਮੌਜੂਦਾ ਦਿਵਿਆਂਗਤਾ ਪ੍ਰਤੀਸ਼ਤ ਅਤੇ ਸ਼੍ਰੇਣੀ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
+      "ਆਮਦਨ, ਰੁਜ਼ਗਾਰ ਅਤੇ ਜਾਇਦਾਦ ਦੀਆਂ ਸ਼ਰਤਾਂ ਮੌਜੂਦਾ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਪੂਰੀਆਂ ਹੁੰਦੀਆਂ ਹੋਣ",
+      "ਨੁਮਾਇੰਦੇ ਵੱਲੋਂ ਅਰਜ਼ੀ ਹੋਵੇ ਤਾਂ ਰਿਸ਼ਤਾ ਸਾਬਤ ਹੋਵੇ",
     ],
     documents: [
-      "Beneficiary date-of-birth proof",
-      "Competent-authority disability certificate",
-      "Parent/guardian identity ਅਤੇ residence proof, ਜਿੱਥੇ applicable",
-      "Self-declaration",
-      "Beneficiary bank passbook first-page copy",
-      "Photograph, ਜਿੱਥੇ current application mode ਵਿੱਚ required ਹੋਵੇ",
+      "ਲਾਭਪਾਤਰੀ ਦੀ ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ",
+      "ਸਮਰੱਥ ਅਧਿਕਾਰੀ ਦਾ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ",
+      "ਜਿੱਥੇ ਲਾਗੂ ਹੋਵੇ, ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਦੀ ਪਛਾਣ ਅਤੇ ਰਹਾਇਸ਼ ਦਾ ਸਬੂਤ",
+      "ਸਵੈ-ਘੋਸ਼ਣਾ",
+      "ਲਾਭਪਾਤਰੀ ਦੀ ਬੈਂਕ ਪਾਸਬੁੱਕ ਦੇ ਪਹਿਲੇ ਸਫ਼ੇ ਦੀ ਕਾਪੀ",
+      "ਜਿੱਥੇ ਮੌਜੂਦਾ ਅਰਜ਼ੀ ਤਰੀਕੇ ਵਿੱਚ ਮੰਗੀ ਜਾਵੇ, ਫੋਟੋ",
     ],
     applicationMethods: [
-      "Valid disability certificate ਤਿਆਰ ਕਰੋ",
-      "Age, residence, declaration ਅਤੇ bank documents ਤਿਆਰ ਕਰੋ",
-      "Punjab Connect, Sewa Kendra ਜਾਂ current authorized channel ਰਾਹੀਂ apply ਕਰੋ",
-      "Minor beneficiary ਲਈ parent/guardian prescribed declaration complete ਕਰੇ",
-      "Acknowledgement ਅਤੇ complete file ਸੰਭਾਲੋ",
+      "ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਤਿਆਰ ਕਰੋ",
+      "ਉਮਰ, ਰਹਾਇਸ਼, ਘੋਸ਼ਣਾ ਅਤੇ ਬੈਂਕ ਦੇ ਦਸਤਾਵੇਜ਼ ਤਿਆਰ ਕਰੋ",
+      "Punjab Connect, ਸੇਵਾ ਕੇਂਦਰ ਜਾਂ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਰਸਤੇ ਰਾਹੀਂ ਅਰਜ਼ੀ ਦਿਓ",
+      "ਨਾਬਾਲਗ ਲਾਭਪਾਤਰੀ ਲਈ ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਨਿਰਧਾਰਤ ਘੋਸ਼ਣਾ ਪੂਰੀ ਕਰੇ",
+      "ਰਸੀਦ ਅਤੇ ਪੂਰੀ ਫਾਈਲ ਸੰਭਾਲੋ",
     ],
     practicalTips: [
-      "Medical treatment paper ਨੂੰ automatically disability certificate ਨਾ ਮੰਨੋ।",
-      "Disability percentage ਅਤੇ category accepted format ਵਿੱਚ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
-      "2019 form ਵਿੱਚ ਦਿੱਤੀਆਂ income/property thresholds ਨੂੰ current department ਤੋਂ verify ਕਰੋ।",
-      "Representative ਅਤੇ beneficiary details ਵੱਖ-ਵੱਖ ਸਹੀ ਭਰੋ।",
+      "ਇਲਾਜ ਦੀ ਪਰਚੀ ਨੂੰ ਆਪਣੇ ਆਪ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਨਾ ਮੰਨੋ।",
+      "ਦਿਵਿਆਂਗਤਾ ਪ੍ਰਤੀਸ਼ਤ ਅਤੇ ਸ਼੍ਰੇਣੀ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਰੂਪ ਵਿੱਚ ਦਰਜ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
+      "2019 ਦੇ ਫਾਰਮ ਵਿੱਚ ਦਿੱਤੀਆਂ ਆਮਦਨ ਅਤੇ ਜਾਇਦਾਦ ਹੱਦਾਂ ਦੀ ਮੌਜੂਦਾ ਵਿਭਾਗ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "ਨੁਮਾਇੰਦੇ ਅਤੇ ਲਾਭਪਾਤਰੀ ਦੇ ਵੇਰਵੇ ਵੱਖ-ਵੱਖ ਸਹੀ ਭਰੋ।",
     ],
     currentStatus:
-      "Available official form 2019 revision ਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਕੁਝ income ਅਤੇ property thresholds ਦਿੱਤੀਆਂ ਹਨ, ਪਰ current application ਤੋਂ ਪਹਿਲਾਂ department ਤੋਂ confirm ਕਰੋ ਕਿ ਉਹ ਅਜੇ ਵੀ operative ਹਨ।",
+      "ਉਪਲਬਧ ਅਧਿਕਾਰਤ ਫਾਰਮ ਫਰਵਰੀ 2019 ਵਿੱਚ ਸੋਧਿਆ ਗਿਆ ਸੀ। ਇਸ ਵਿੱਚ ਕੁਝ ਆਮਦਨ ਅਤੇ ਜਾਇਦਾਦ ਹੱਦਾਂ ਦਿੱਤੀਆਂ ਹਨ, ਪਰ ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਵਿਭਾਗ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਉਹ ਅਜੇ ਵੀ ਲਾਗੂ ਹਨ।",
     deepDiveHeading:
-      "Disability certification ਅਤੇ representative application ਨੂੰ ਸਮਝੋ",
+      "ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨੁਮਾਇੰਦੇ ਵੱਲੋਂ ਅਰਜ਼ੀ ਨੂੰ ਸਮਝੋ",
     deepDive: [
-      "Disability certificate claim ਦਾ ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ medical/legal record ਹੈ। ਇਸ ਵਿੱਚ beneficiary ਦੀ identity, disability nature ਅਤੇ applicable percentage ਸਹੀ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
-      "Parent ਜਾਂ guardian application ਵਿੱਚ applicant ਅਤੇ beneficiary roles ਵੱਖ ਹਨ। Form ਵਿੱਚ beneficiary ਦੇ personal, Aadhaar, disability ਅਤੇ bank details separate ਰਹਿੰਦੇ ਹਨ।",
-      "Self-declaration ਵਿੱਚ employment, land, income ਅਤੇ property ਨਾਲ ਸੰਬੰਧਤ statements truthful ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
+      "ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਦਾਅਵੇ ਦਾ ਸਭ ਤੋਂ ਮਹੱਤਵਪੂਰਨ ਡਾਕਟਰੀ ਅਤੇ ਕਾਨੂੰਨੀ ਰਿਕਾਰਡ ਹੈ। ਇਸ ਵਿੱਚ ਲਾਭਪਾਤਰੀ ਦੀ ਪਛਾਣ, ਦਿਵਿਆਂਗਤਾ ਦੀ ਕਿਸਮ ਅਤੇ ਲਾਗੂ ਪ੍ਰਤੀਸ਼ਤ ਸਹੀ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+      "ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਵੱਲੋਂ ਅਰਜ਼ੀ ਵਿੱਚ ਅਰਜ਼ੀਕਾਰ ਅਤੇ ਲਾਭਪਾਤਰੀ ਦੀ ਭੂਮਿਕਾ ਵੱਖ ਹੈ। ਫਾਰਮ ਵਿੱਚ ਲਾਭਪਾਤਰੀ ਦੇ ਨਿੱਜੀ, Aadhaar, ਦਿਵਿਆਂਗਤਾ ਅਤੇ ਬੈਂਕ ਵੇਰਵੇ ਵੱਖ ਭਰੇ ਜਾਂਦੇ ਹਨ।",
+      "ਸਵੈ-ਘੋਸ਼ਣਾ ਵਿੱਚ ਰੁਜ਼ਗਾਰ, ਜ਼ਮੀਨ, ਆਮਦਨ ਅਤੇ ਜਾਇਦਾਦ ਨਾਲ ਸੰਬੰਧਤ ਬਿਆਨ ਸੱਚੇ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਪੁਰਾਣੇ ਫਾਰਮ ਦੀਆਂ ਹੱਦਾਂ ਨੂੰ ਮੌਜੂਦਾ ਮੰਨਣ ਤੋਂ ਪਹਿਲਾਂ ਵਿਭਾਗ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
     ],
     faqs: [
       {
-        question: "ਦਿਵਿਆਂਗ ਪੈਨਸ਼ਨ ਲਈ disability certificate ਲਾਜ਼ਮੀ ਹੈ?",
+        question: "ਕੀ ਦਿਵਿਆਂਗ ਪੈਨਸ਼ਨ ਲਈ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ ਲਾਜ਼ਮੀ ਹੈ?",
         answer:
-          "Competent authority ਦਾ accepted disability proof claim ਦਾ ਮੁੱਖ eligibility document ਹੈ।",
+          "ਸਮਰੱਥ ਅਧਿਕਾਰੀ ਦਾ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਦਿਵਿਆਂਗਤਾ ਸਬੂਤ ਦਾਅਵੇ ਦਾ ਮੁੱਖ ਯੋਗਤਾ ਦਸਤਾਵੇਜ਼ ਹੈ।",
       },
       {
-        question: "ਕੀ parent child ਲਈ apply ਕਰ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਮਾਤਾ-ਪਿਤਾ ਬੱਚੇ ਲਈ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹਨ?",
         answer:
-          "Minor ਜਾਂ applicable representative case ਵਿੱਚ parent ਜਾਂ guardian apply ਕਰ ਸਕਦਾ ਹੈ।",
+          "ਨਾਬਾਲਗ ਜਾਂ ਲਾਗੂ ਨੁਮਾਇੰਦਾ ਮਾਮਲੇ ਵਿੱਚ ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹਨ।",
       },
       {
-        question: "Application fee ਕਿੰਨੀ ਹੈ?",
+        question: "ਅਰਜ਼ੀ ਦੀ ਫੀਸ ਕਿੰਨੀ ਹੈ?",
         answer:
-          "Available official form government fee ਅਤੇ facilitation charge ₹0 ਦਰਜ ਕਰਦਾ ਹੈ।",
+          "ਉਪਲਬਧ ਅਧਿਕਾਰਤ ਫਾਰਮ ਸਰਕਾਰੀ ਫੀਸ ਅਤੇ ਸਹੂਲਤ ਖਰਚਾ ਦੋਵੇਂ ₹0 ਦਰਜ ਕਰਦਾ ਹੈ।",
       },
     ],
     officialUrl:
       "https://punjab.gov.in/wp-content/uploads/2021/10/Disabled-Person-Pension.pdf",
     department:
       "ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image: "/images/schemes/disabled-person-pension-punjab.webp",
     imageAlt:
-      "ਪੰਜਾਬ ਦਿਵਿਆਂਗ ਪੈਨਸ਼ਨ service centre ਉੱਤੇ wheelchair ਵਰਤਦਾ beneficiary",
+      "ਪੰਜਾਬ ਦਿਵਿਆਂਗ ਪੈਨਸ਼ਨ ਸੇਵਾ ਕੇਂਦਰ ਉੱਤੇ ਵ੍ਹੀਲਚੇਅਰ ਵਰਤਦਾ ਲਾਭਪਾਤਰੀ",
   },
 
   "national-family-benefit-scheme-punjab": {
     slug: "national-family-benefit-scheme-punjab",
-    name: "ਨੈਸ਼ਨਲ ਫੈਮਿਲੀ ਬੇਨੇਫਿਟ ਸਕੀਮ ਪੰਜਾਬ",
+    name: "ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰਕ ਲਾਭ ਸਕੀਮ ਪੰਜਾਬ",
     seoTitle:
-      "National Family Benefit Scheme Punjab 2026: ਯੋਗਤਾ, BPL, Death Certificate ਅਤੇ ਅਰਜ਼ੀ",
+      "ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰਕ ਲਾਭ ਸਕੀਮ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, BPL, ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਅਰਜ਼ੀ",
     description:
-      "Punjab National Family Benefit Scheme ਲਈ primary earning member ਦੀ ਮੌਤ, BPL family eligibility, death certificate, documents ਅਤੇ application process ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰਕ ਲਾਭ ਸਕੀਮ ਲਈ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦੀ ਮੌਤ, BPL ਪਰਿਵਾਰ ਦੀ ਯੋਗਤਾ, ਮੌਤ ਸਰਟੀਫਿਕੇਟ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "ਇਹ one-time family assistance service eligible Punjab BPL family ਲਈ ਹੈ ਜਦੋਂ ਪਰਿਵਾਰ ਦੇ primary earning member ਦੀ ਮੌਤ ਹੋ ਜਾਂਦੀ ਹੈ ਅਤੇ ਮੌਜੂਦਾ departmental conditions ਪੂਰੀਆਂ ਹੁੰਦੀਆਂ ਹਨ।",
+      "ਇਹ ਇਕ-ਵਾਰ ਮਿਲਣ ਵਾਲੀ ਪਰਿਵਾਰਕ ਸਹਾਇਤਾ ਸੇਵਾ ਯੋਗ ਪੰਜਾਬ BPL ਪਰਿਵਾਰ ਲਈ ਹੈ, ਜਦੋਂ ਪਰਿਵਾਰ ਦੇ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦੀ ਮੌਤ ਹੋ ਜਾਂਦੀ ਹੈ ਅਤੇ ਮੌਜੂਦਾ ਵਿਭਾਗੀ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਹੁੰਦੀਆਂ ਹਨ।",
     category: "ਪਰਿਵਾਰਕ ਸਹਾਇਤਾ",
     beneficiaries:
-      "Eligible Punjab BPL household ਦਾ beneficiary, primary earning member ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ, subject to current age, BPL ਅਤੇ verification rules.",
+      "ਯੋਗ ਪੰਜਾਬ BPL ਪਰਿਵਾਰ ਦਾ ਲਾਭਪਾਤਰੀ, ਪਰਿਵਾਰ ਦੇ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ, ਮੌਜੂਦਾ ਉਮਰ, BPL ਅਤੇ ਜਾਂਚ ਨਿਯਮਾਂ ਦੇ ਅਧੀਨ।",
     benefitDetails: [
-      "Eligible BPL family ਲਈ primary earner ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ one-time assistance",
-      "Official form District Social Security Officer office ਤੋਂ free supply ਹੋਣ ਦੀ ਗੱਲ ਕਰਦਾ ਹੈ",
-      "Available Punjab facilitation-charge record service charge nil ਦਰਸਾਉਂਦਾ ਹੈ",
+      "ਯੋਗ BPL ਪਰਿਵਾਰ ਨੂੰ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ ਇਕ-ਵਾਰ ਸਹਾਇਤਾ",
+      "ਅਧਿਕਾਰਤ ਫਾਰਮ ਜ਼ਿਲ੍ਹਾ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਅਫ਼ਸਰ ਦੇ ਦਫ਼ਤਰ ਤੋਂ ਮੁਫ਼ਤ ਮਿਲਣ ਦੀ ਗੱਲ ਕਰਦਾ ਹੈ",
+      "ਉਪਲਬਧ ਪੰਜਾਬ ਸਹੂਲਤ-ਖਰਚਾ ਰਿਕਾਰਡ ਵਿੱਚ ਸੇਵਾ ਖਰਚਾ ਸਿਫ਼ਰ ਹੈ",
     ],
     eligibilityChecklist: [
-      "Family current rules ਅਨੁਸਾਰ BPL status establish ਕਰ ਸਕੇ",
-      "Deceased person primary earning member condition satisfy ਕਰਦਾ ਹੋਵੇ",
-      "Available older form ਅਨੁਸਾਰ age-at-death condition 18 ਤੋਂ 64 ਸਾਲ ਦਰਜ ਹੈ",
-      "Registered death certificate available ਹੋਵੇ",
-      "Beneficiary relationship ਅਤੇ family record verify ਹੋ ਸਕਣ",
+      "ਪਰਿਵਾਰ ਮੌਜੂਦਾ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਆਪਣਾ BPL ਦਰਜਾ ਸਾਬਤ ਕਰ ਸਕੇ",
+      "ਮ੍ਰਿਤਕ ਵਿਅਕਤੀ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਕਰਦਾ ਹੋਵੇ",
+      "ਉਪਲਬਧ ਪੁਰਾਣੇ ਫਾਰਮ ਅਨੁਸਾਰ ਮੌਤ ਵੇਲੇ ਉਮਰ 18 ਤੋਂ 64 ਸਾਲ ਦਰਜ ਹੈ",
+      "ਰਜਿਸਟਰਡ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਮੌਜੂਦ ਹੋਵੇ",
+      "ਲਾਭਪਾਤਰੀ ਦਾ ਰਿਸ਼ਤਾ ਅਤੇ ਪਰਿਵਾਰਕ ਰਿਕਾਰਡ ਜਾਂਚਿਆ ਜਾ ਸਕੇ",
     ],
     documents: [
-      "Primary earning member ਦਾ registered death certificate",
-      "Self-declaration",
-      "BPL card ਜਾਂ current BPL-family evidence",
-      "Beneficiary identity, address ਅਤੇ relationship details",
-      "Aadhaar ਜਾਂ enrolment information",
-      "Current process ਅਨੁਸਾਰ bank-account evidence",
+      "ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦਾ ਰਜਿਸਟਰਡ ਮੌਤ ਸਰਟੀਫਿਕੇਟ",
+      "ਸਵੈ-ਘੋਸ਼ਣਾ",
+      "BPL ਕਾਰਡ ਜਾਂ ਮੌਜੂਦਾ BPL ਪਰਿਵਾਰ ਦਾ ਸਬੂਤ",
+      "ਲਾਭਪਾਤਰੀ ਦੀ ਪਛਾਣ, ਪਤਾ ਅਤੇ ਰਿਸ਼ਤੇ ਦੇ ਵੇਰਵੇ",
+      "Aadhaar ਜਾਂ ਨਾਮਾਂਕਣ ਜਾਣਕਾਰੀ",
+      "ਮੌਜੂਦਾ ਪ੍ਰਕਿਰਿਆ ਅਨੁਸਾਰ ਬੈਂਕ ਖਾਤੇ ਦਾ ਸਬੂਤ",
     ],
     applicationMethods: [
-      "Primary-earner ਅਤੇ BPL conditions ਪਹਿਲਾਂ verify ਕਰੋ",
-      "Registered death certificate ਅਤੇ family/BPL record ਤਿਆਰ ਕਰੋ",
-      "District Social Security Officer ਜਾਂ current authorized channel ਤੋਂ form/process ਲਵੋ",
-      "Beneficiary ਅਤੇ deceased-person details ਸਹੀ ਭਰੋ",
-      "Acknowledgement ਸੰਭਾਲ ਕੇ ਰੱਖੋ",
+      "ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਅਤੇ BPL ਦੀਆਂ ਸ਼ਰਤਾਂ ਦੀ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰੋ",
+      "ਰਜਿਸਟਰਡ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਪਰਿਵਾਰ ਜਾਂ BPL ਰਿਕਾਰਡ ਤਿਆਰ ਕਰੋ",
+      "ਜ਼ਿਲ੍ਹਾ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਅਫ਼ਸਰ ਜਾਂ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਰਸਤੇ ਤੋਂ ਫਾਰਮ ਅਤੇ ਪ੍ਰਕਿਰਿਆ ਲਵੋ",
+      "ਲਾਭਪਾਤਰੀ ਅਤੇ ਮ੍ਰਿਤਕ ਵਿਅਕਤੀ ਦੇ ਵੇਰਵੇ ਸਹੀ ਭਰੋ",
+      "ਰਸੀਦ ਸੰਭਾਲ ਕੇ ਰੱਖੋ",
     ],
     practicalTips: [
-      "Death certificate primary-earner status ਆਪਣੇ ਆਪ prove ਨਹੀਂ ਕਰਦਾ।",
-      "Family composition ਅਤੇ deceased ਦੀ earning role ਬਾਰੇ truthful details ਦਿਓ।",
-      "Old BPL card ਅਤੇ current electronic record ਵਿੱਚ mismatch ਹੋਵੇ ਤਾਂ ਪਹਿਲਾਂ correction/guidance ਲਵੋ।",
-      "Current grant amount ਅਤੇ application deadline department ਤੋਂ verify ਕਰੋ।",
+      "ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਆਪਣੇ ਆਪ ਇਹ ਸਾਬਤ ਨਹੀਂ ਕਰਦਾ ਕਿ ਮ੍ਰਿਤਕ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਸੀ।",
+      "ਪਰਿਵਾਰ ਦੀ ਬਣਤਰ ਅਤੇ ਮ੍ਰਿਤਕ ਦੀ ਕਮਾਈ ਵਾਲੀ ਭੂਮਿਕਾ ਬਾਰੇ ਸੱਚੇ ਵੇਰਵੇ ਦਿਓ।",
+      "ਪੁਰਾਣੇ BPL ਕਾਰਡ ਅਤੇ ਮੌਜੂਦਾ ਇਲੈਕਟ੍ਰਾਨਿਕ ਰਿਕਾਰਡ ਵਿੱਚ ਅੰਤਰ ਹੋਵੇ ਤਾਂ ਪਹਿਲਾਂ ਸੋਧ ਜਾਂ ਸਲਾਹ ਲਵੋ।",
+      "ਮੌਜੂਦਾ ਸਹਾਇਤਾ ਰਕਮ ਅਤੇ ਅਰਜ਼ੀ ਦੀ ਆਖਰੀ ਮਿਤੀ ਵਿਭਾਗ ਤੋਂ ਪੁੱਛੋ।",
     ],
     currentStatus:
-      "Punjab form available ਹੈ ਪਰ ਇਹ August 2017 revision ਦਾ ਹੈ ਅਤੇ assistance amount ਨਹੀਂ ਦੱਸਦਾ। Current grant amount, age rule, BPL verification ਅਤੇ deadline current authority ਤੋਂ confirm ਕਰੋ।",
+      "ਪੰਜਾਬ ਦਾ ਉਪਲਬਧ ਫਾਰਮ ਅਗਸਤ 2017 ਵਿੱਚ ਸੋਧਿਆ ਗਿਆ ਸੀ ਅਤੇ ਸਹਾਇਤਾ ਰਕਮ ਨਹੀਂ ਦੱਸਦਾ। ਮੌਜੂਦਾ ਰਕਮ, ਉਮਰ ਦਾ ਨਿਯਮ, BPL ਜਾਂਚ ਅਤੇ ਆਖਰੀ ਮਿਤੀ ਦੀ ਮੌਜੂਦਾ ਅਧਿਕਾਰੀ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
     deepDiveHeading:
-      "Primary earning member ਅਤੇ BPL condition ਕਿਵੇਂ prove ਹੁੰਦੀ ਹੈ?",
+      "ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਅਤੇ BPL ਦੀ ਸ਼ਰਤ ਕਿਵੇਂ ਸਾਬਤ ਹੁੰਦੀ ਹੈ?",
     deepDive: [
-      "Death certificate ਮੌਤ ਅਤੇ date prove ਕਰਦਾ ਹੈ, ਪਰ deceased primary earning member ਸੀ ਜਾਂ ਨਹੀਂ ਇਹ separate eligibility question ਹੈ।",
-      "Family ਨੂੰ household earning situation ਅਤੇ beneficiary relationship ਬਾਰੇ ਸਹੀ record ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ।",
-      "BPL evidence relevant family ਨੂੰ identify ਕਰੇ; ਸਿਰਫ਼ ਕਿਸੇ relative ਦਾ ਪੁਰਾਣਾ card ਕਾਫ਼ੀ ਨਹੀਂ ਹੋ ਸਕਦਾ।",
+      "ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਮੌਤ ਅਤੇ ਉਸਦੀ ਮਿਤੀ ਸਾਬਤ ਕਰਦਾ ਹੈ, ਪਰ ਮ੍ਰਿਤਕ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਸੀ ਜਾਂ ਨਹੀਂ, ਇਹ ਯੋਗਤਾ ਦਾ ਵੱਖਰਾ ਸਵਾਲ ਹੈ।",
+      "ਪਰਿਵਾਰ ਨੂੰ ਘਰ ਦੀ ਕਮਾਈ ਦੀ ਹਾਲਤ ਅਤੇ ਲਾਭਪਾਤਰੀ ਦੇ ਰਿਸ਼ਤੇ ਬਾਰੇ ਸਹੀ ਰਿਕਾਰਡ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ।",
+      "BPL ਸਬੂਤ ਸੰਬੰਧਤ ਪਰਿਵਾਰ ਦੀ ਪਛਾਣ ਕਰੇ; ਸਿਰਫ਼ ਕਿਸੇ ਰਿਸ਼ਤੇਦਾਰ ਦਾ ਪੁਰਾਣਾ ਕਾਰਡ ਕਾਫ਼ੀ ਨਹੀਂ ਹੋ ਸਕਦਾ।",
     ],
     faqs: [
       {
-        question: "ਇਹ scheme ਕਿਸ situation ਵਿੱਚ ਮਿਲਦੀ ਹੈ?",
+        question: "ਇਹ ਸਕੀਮ ਕਿਹੜੀ ਹਾਲਤ ਵਿੱਚ ਮਿਲਦੀ ਹੈ?",
         answer:
-          "Eligible BPL family ਵਿੱਚ primary earning member ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ current conditions satisfy ਹੋਣ ਉੱਤੇ assistance ਲਈ claim ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
+          "ਯੋਗ BPL ਪਰਿਵਾਰ ਵਿੱਚ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦੀ ਮੌਤ ਤੋਂ ਬਾਅਦ ਮੌਜੂਦਾ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਹੋਣ ਉੱਤੇ ਸਹਾਇਤਾ ਲਈ ਦਾਅਵਾ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
       },
       {
-        question: "Death certificate ਲੋੜੀਂਦਾ ਹੈ?",
+        question: "ਕੀ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਲੋੜੀਂਦਾ ਹੈ?",
         answer:
-          "Registered death certificate mandatory supporting evidence ਵਿੱਚੋਂ ਇੱਕ ਹੈ।",
+          "ਰਜਿਸਟਰਡ ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਲਾਜ਼ਮੀ ਸਹਾਇਕ ਸਬੂਤਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹੈ।",
       },
       {
-        question: "Current benefit amount ਕਿੰਨੀ ਹੈ?",
+        question: "ਮੌਜੂਦਾ ਲਾਭ ਦੀ ਰਕਮ ਕਿੰਨੀ ਹੈ?",
         answer:
-          "Reviewed Punjab form amount ਨਹੀਂ ਦੱਸਦਾ, ਇਸ ਲਈ current grant department ਤੋਂ verify ਕਰੋ।",
+          "ਸਮੀਖਿਆ ਕੀਤਾ ਪੰਜਾਬ ਫਾਰਮ ਰਕਮ ਨਹੀਂ ਦੱਸਦਾ, ਇਸ ਲਈ ਮੌਜੂਦਾ ਸਹਾਇਤਾ ਦੀ ਵਿਭਾਗ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
       },
     ],
     officialUrl:
       "https://punjab.gov.in/wp-content/uploads/2020/05/NationalFamilyBenefitScheme.pdf",
     department:
       "ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image: "/images/schemes/national-family-benefit-scheme-punjab.webp",
     imageAlt:
-      "Punjab National Family Benefit Scheme ਲਈ ਦਸਤਾਵੇਜ਼ ਵੇਖਦਾ ਪਰਿਵਾਰ",
+      "ਪੰਜਾਬ ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰਕ ਲਾਭ ਸਕੀਮ ਲਈ ਦਸਤਾਵੇਜ਼ ਵੇਖਦਾ ਪਰਿਵਾਰ",
   },
 
   "aashirwad-scheme-punjab": {
     slug: "aashirwad-scheme-punjab",
     name: "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ",
     seoTitle:
-      "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ 2026: ₹51,000, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, Apply Online ਅਤੇ Status",
+      "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ 2026: ₹51,000, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਸਥਿਤੀ",
     description:
-      "Punjab Aashirwad Scheme 2026 ਹੇਠ ₹51,000 marriage assistance, bride eligibility, income/category documents, online application ਅਤੇ status ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ 2026 ਹੇਠ ₹51,000 ਵਿਆਹ ਸਹਾਇਤਾ, ਦੁਲਹਨ ਦੀ ਯੋਗਤਾ, ਆਮਦਨ ਤੇ ਸ਼੍ਰੇਣੀ ਦੇ ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਸਥਿਤੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ ਵਿੱਚ eligible low-income families ਦੀਆਂ covered-category ਮਹਿਲਾਵਾਂ ਲਈ ਵਿਆਹ ਸਹਾਇਤਾ ਹੈ। ਮੌਜੂਦਾ ਸਰਕਾਰੀ ਜਾਣਕਾਰੀ ਅਨੁਸਾਰ eligible beneficiary ਨੂੰ ₹51,000 Direct Benefit Transfer ਰਾਹੀਂ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ।",
+      "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ ਦੇ ਘੱਟ ਆਮਦਨ ਵਾਲੇ ਪਰਿਵਾਰਾਂ ਦੀਆਂ ਮੰਨੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਦੀਆਂ ਯੋਗ ਮਹਿਲਾਵਾਂ ਲਈ ਵਿਆਹ ਸਹਾਇਤਾ ਹੈ। ਮੌਜੂਦਾ ਸਰਕਾਰੀ ਜਾਣਕਾਰੀ ਅਨੁਸਾਰ ਯੋਗ ਲਾਭਪਾਤਰੀ ਨੂੰ ₹51,000 ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ।",
     category: "ਮਹਿਲਾਵਾਂ ਅਤੇ ਵਿਆਹ ਸਹਾਇਤਾ",
     beneficiaries:
-      "18 ਸਾਲ ਜਾਂ ਇਸ ਤੋਂ ਵੱਧ ਉਮਰ ਦੀ eligible bride ਜੋ Punjab resident covered category ਅਤੇ current family-income conditions ਪੂਰੀ ਕਰਦੀ ਹੈ। Covered groups ਵਿੱਚ SC, Christian, BC ਅਤੇ economically weaker-section categories ਸਮੇਤ ਕੁਝ ਹੋਰ prescribed cases ਸ਼ਾਮਲ ਹਨ।",
+      "18 ਸਾਲ ਜਾਂ ਇਸ ਤੋਂ ਵੱਧ ਉਮਰ ਦੀ ਯੋਗ ਦੁਲਹਨ ਜੋ ਪੰਜਾਬ ਦੀ ਵਸਨੀਕ ਹੋਵੇ ਅਤੇ ਮੰਨੀ ਸ਼੍ਰੇਣੀ ਤੇ ਮੌਜੂਦਾ ਪਰਿਵਾਰਕ ਆਮਦਨ ਦੀਆਂ ਸ਼ਰਤਾਂ ਪੂਰੀ ਕਰਦੀ ਹੋਵੇ। ਮੰਨੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਵਿੱਚ SC, ਈਸਾਈ, BC ਅਤੇ ਆਰਥਿਕ ਤੌਰ ਉੱਤੇ ਕਮਜ਼ੋਰ ਵਰਗ ਸਮੇਤ ਕੁਝ ਹੋਰ ਨਿਰਧਾਰਤ ਮਾਮਲੇ ਸ਼ਾਮਲ ਹਨ।",
     benefitDetails: [
-      "Eligible beneficiary ਲਈ ₹51,000 marriage assistance",
-      "Payment Direct Benefit Transfer ਰਾਹੀਂ beneficiary bank account ਵਿੱਚ",
-      "Official Ashirwad portal ਰਾਹੀਂ online processing",
-      "Approved Punjab facilitation-charge notification service fee nil ਦਰਸਾਉਂਦੀ ਹੈ",
+      "ਯੋਗ ਲਾਭਪਾਤਰੀ ਲਈ ₹51,000 ਵਿਆਹ ਸਹਾਇਤਾ",
+      "ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ ਲਾਭਪਾਤਰੀ ਦੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਭੁਗਤਾਨ",
+      "ਅਧਿਕਾਰਤ Ashirwad ਪੋਰਟਲ ਰਾਹੀਂ ਆਨਲਾਈਨ ਕਾਰਵਾਈ",
+      "ਪੰਜਾਬ ਦੀ ਮਨਜ਼ੂਰ ਸਹੂਲਤ-ਖਰਚਾ ਸੂਚਨਾ ਵਿੱਚ ਸੇਵਾ ਫੀਸ ਸਿਫ਼ਰ ਹੈ",
     ],
     eligibilityChecklist: [
-      "Bride ਦੀ ਉਮਰ ਘੱਟੋ-ਘੱਟ 18 ਸਾਲ ਹੋਵੇ",
-      "Punjab residence proof ਹੋਵੇ",
-      "Applicant covered category ਵਿੱਚ ਆਉਂਦੀ ਹੋਵੇ",
-      "Current family-income condition ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
-      "Marriage ਅਤੇ beneficiary bank details current portal requirements ਨਾਲ match ਕਰਨ",
+      "ਦੁਲਹਨ ਦੀ ਉਮਰ ਘੱਟੋ-ਘੱਟ 18 ਸਾਲ ਹੋਵੇ",
+      "ਪੰਜਾਬ ਦੀ ਰਹਾਇਸ਼ ਦਾ ਸਬੂਤ ਹੋਵੇ",
+      "ਅਰਜ਼ੀਕਾਰ ਸਕੀਮ ਵਿੱਚ ਮੰਨੀ ਗਈ ਸ਼੍ਰੇਣੀ ਵਿੱਚ ਆਉਂਦੀ ਹੋਵੇ",
+      "ਮੌਜੂਦਾ ਪਰਿਵਾਰਕ ਆਮਦਨ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
+      "ਵਿਆਹ ਅਤੇ ਲਾਭਪਾਤਰੀ ਦੇ ਬੈਂਕ ਵੇਰਵੇ ਮੌਜੂਦਾ ਪੋਰਟਲ ਦੀਆਂ ਲੋੜਾਂ ਨਾਲ ਮੇਲ ਖਾਂਦੇ ਹੋਣ",
     ],
     documents: [
-      "Punjab residence proof",
-      "Bride date-of-birth proof",
-      "Applicable caste/category evidence",
-      "Annual family-income declaration ਜਾਂ income certificate",
-      "BPL card ਜਿੱਥੇ applicable",
-      "Marriage details ਅਤੇ current portal documents",
-      "Beneficiary bank-account information",
+      "ਪੰਜਾਬ ਦੀ ਰਹਾਇਸ਼ ਦਾ ਸਬੂਤ",
+      "ਦੁਲਹਨ ਦੀ ਜਨਮ ਮਿਤੀ ਦਾ ਸਬੂਤ",
+      "ਲਾਗੂ ਜਾਤੀ ਜਾਂ ਸ਼੍ਰੇਣੀ ਦਾ ਸਬੂਤ",
+      "ਸਾਲਾਨਾ ਪਰਿਵਾਰਕ ਆਮਦਨ ਦੀ ਘੋਸ਼ਣਾ ਜਾਂ ਆਮਦਨ ਸਰਟੀਫਿਕੇਟ",
+      "ਜਿੱਥੇ ਲਾਗੂ ਹੋਵੇ, BPL ਕਾਰਡ",
+      "ਵਿਆਹ ਦੇ ਵੇਰਵੇ ਅਤੇ ਮੌਜੂਦਾ ਪੋਰਟਲ ਵੱਲੋਂ ਮੰਗੇ ਦਸਤਾਵੇਜ਼",
+      "ਲਾਭਪਾਤਰੀ ਦੇ ਬੈਂਕ ਖਾਤੇ ਦੀ ਜਾਣਕਾਰੀ",
     ],
     applicationMethods: [
-      "Official Punjab Ashirwad portal ਖੋਲ੍ਹੋ",
-      "Bride category, age, income ਅਤੇ Punjab residence eligibility verify ਕਰੋ",
-      "Bride, marriage, family ਅਤੇ bank details ਭਰੋ",
-      "Required documents upload ਕਰੋ",
-      "Current permitted application period ਦੇ ਅੰਦਰ submit ਕਰੋ",
-      "Acknowledgement status tracking ਲਈ ਸੰਭਾਲੋ",
+      "ਪੰਜਾਬ ਦਾ ਅਧਿਕਾਰਤ Ashirwad ਪੋਰਟਲ ਖੋਲ੍ਹੋ",
+      "ਦੁਲਹਨ ਦੀ ਸ਼੍ਰੇਣੀ, ਉਮਰ, ਆਮਦਨ ਅਤੇ ਪੰਜਾਬ ਰਹਾਇਸ਼ ਸੰਬੰਧੀ ਯੋਗਤਾ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+      "ਦੁਲਹਨ, ਵਿਆਹ, ਪਰਿਵਾਰ ਅਤੇ ਬੈਂਕ ਦੇ ਵੇਰਵੇ ਭਰੋ",
+      "ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼ ਅਪਲੋਡ ਕਰੋ",
+      "ਮੌਜੂਦਾ ਮਨਜ਼ੂਰ ਅਰਜ਼ੀ ਮਿਆਦ ਦੇ ਅੰਦਰ ਅਰਜ਼ੀ ਜਮ੍ਹਾਂ ਕਰੋ",
+      "ਅਰਜ਼ੀ ਦੀ ਸਥਿਤੀ ਪਤਾ ਕਰਨ ਲਈ ਰਸੀਦ ਸੰਭਾਲੋ",
     ],
     practicalTips: [
-      "Old downloadable form ਵਿੱਚ ਪੁਰਾਣੀ ₹15,000 wording ਤੋਂ confuse ਨਾ ਹੋਵੋ।",
-      "Current government material ₹51,000 benefit ਦੱਸਦਾ ਹੈ।",
-      "Marriage date ਅਤੇ application timing current portal ਤੋਂ verify ਕਰੋ।",
-      "Unofficial agent ਨੂੰ fee ਨਾ ਦਿਓ।",
-      "Bank ਅਤੇ identity records ਵਿੱਚ bride ਦਾ ਨਾਮ match ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+      "ਪੁਰਾਣੇ ਡਾਊਨਲੋਡ ਫਾਰਮ ਵਿੱਚ ਲਿਖੀ ₹15,000 ਦੀ ਪੁਰਾਣੀ ਰਕਮ ਨਾਲ ਭੁਲੇਖਾ ਨਾ ਖਾਓ।",
+      "ਮੌਜੂਦਾ ਸਰਕਾਰੀ ਸਮੱਗਰੀ ₹51,000 ਲਾਭ ਦੱਸਦੀ ਹੈ।",
+      "ਵਿਆਹ ਦੀ ਮਿਤੀ ਅਤੇ ਅਰਜ਼ੀ ਦੇ ਸਮੇਂ ਦੀ ਮੌਜੂਦਾ ਪੋਰਟਲ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "ਗੈਰ-ਅਧਿਕਾਰਤ ਏਜੰਟ ਨੂੰ ਫੀਸ ਨਾ ਦਿਓ।",
+      "ਬੈਂਕ ਅਤੇ ਪਛਾਣ ਰਿਕਾਰਡ ਵਿੱਚ ਦੁਲਹਨ ਦਾ ਨਾਮ ਇੱਕੋ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
     ],
     currentStatus:
-      "Current Punjab government material ₹51,000 assistance ਅਤੇ Ashirwad portal processing ਦੱਸਦਾ ਹੈ। Older downloadable form ਵਿੱਚ ਪੁਰਾਣੀ amount ਹੈ, ਇਸ ਲਈ current portal rules ਨੂੰ priority ਦਿਓ।",
+      "ਮੌਜੂਦਾ ਪੰਜਾਬ ਸਰਕਾਰ ਦੀ ਸਮੱਗਰੀ ₹51,000 ਸਹਾਇਤਾ ਅਤੇ Ashirwad ਪੋਰਟਲ ਰਾਹੀਂ ਕਾਰਵਾਈ ਦੱਸਦੀ ਹੈ। ਡਾਊਨਲੋਡਯੋਗ ਪੁਰਾਣੇ ਫਾਰਮ ਵਿੱਚ ਪੁਰਾਣੀ ਰਕਮ ਹੈ, ਇਸ ਲਈ ਮੌਜੂਦਾ ਪੋਰਟਲ ਦੇ ਨਿਯਮਾਂ ਨੂੰ ਪਹਿਲ ਦਿਓ।",
     deepDiveHeading:
-      "Category, income ਅਤੇ marriage timing ਕਿਉਂ ਮਹੱਤਵਪੂਰਨ ਹਨ?",
+      "ਸ਼੍ਰੇਣੀ, ਆਮਦਨ ਅਤੇ ਵਿਆਹ ਦਾ ਸਮਾਂ ਕਿਉਂ ਮਹੱਤਵਪੂਰਨ ਹਨ?",
     deepDive: [
-      "Scheme ਹਰ marriage ਲਈ automatic payment ਨਹੀਂ ਹੈ। Bride ਦੀ covered category, age, Punjab residence ਅਤੇ current family-income conditions verify ਹੁੰਦੀਆਂ ਹਨ।",
-      "Application marriage date ਦੇ prescribed period ਨਾਲ linked ਹੋ ਸਕਦੀ ਹੈ, ਇਸ ਲਈ delay ਕਰਨ ਦੀ ਬਜਾਏ current portal deadline check ਕਰੋ।",
-      "Old forms ਅਤੇ current benefit ਵਿੱਚ difference ਹੋ ਸਕਦਾ ਹੈ; current official notification/portal ਨੂੰ latest source ਮੰਨੋ।",
+      "ਇਹ ਸਕੀਮ ਹਰ ਵਿਆਹ ਲਈ ਆਪਣੇ ਆਪ ਭੁਗਤਾਨ ਨਹੀਂ ਕਰਦੀ। ਦੁਲਹਨ ਦੀ ਮੰਨੀ ਸ਼੍ਰੇਣੀ, ਉਮਰ, ਪੰਜਾਬ ਰਹਾਇਸ਼ ਅਤੇ ਮੌਜੂਦਾ ਪਰਿਵਾਰਕ ਆਮਦਨ ਦੀ ਜਾਂਚ ਹੁੰਦੀ ਹੈ।",
+      "ਅਰਜ਼ੀ ਵਿਆਹ ਦੀ ਮਿਤੀ ਤੋਂ ਨਿਰਧਾਰਤ ਸਮੇਂ ਨਾਲ ਜੁੜੀ ਹੋ ਸਕਦੀ ਹੈ, ਇਸ ਲਈ ਦੇਰੀ ਕਰਨ ਦੀ ਬਜਾਏ ਮੌਜੂਦਾ ਪੋਰਟਲ ਉੱਤੇ ਆਖਰੀ ਮਿਤੀ ਵੇਖੋ।",
+      "ਪੁਰਾਣੇ ਫਾਰਮ ਅਤੇ ਮੌਜੂਦਾ ਲਾਭ ਵਿੱਚ ਫ਼ਰਕ ਹੋ ਸਕਦਾ ਹੈ; ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਸੂਚਨਾ ਜਾਂ ਪੋਰਟਲ ਨੂੰ ਤਾਜ਼ਾ ਸਰੋਤ ਮੰਨੋ।",
     ],
     faqs: [
       {
         question: "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਵਿੱਚ ਕਿੰਨੇ ਪੈਸੇ ਮਿਲਦੇ ਹਨ?",
         answer:
-          "Current Punjab government material eligible beneficiary ਲਈ ₹51,000 marriage assistance ਦੱਸਦਾ ਹੈ।",
+          "ਪੰਜਾਬ ਸਰਕਾਰ ਦੀ ਮੌਜੂਦਾ ਸਮੱਗਰੀ ਯੋਗ ਲਾਭਪਾਤਰੀ ਲਈ ₹51,000 ਵਿਆਹ ਸਹਾਇਤਾ ਦੱਸਦੀ ਹੈ।",
       },
       {
-        question: "Bride ਦੀ minimum age ਕਿੰਨੀ ਹੈ?",
+        question: "ਦੁਲਹਨ ਦੀ ਘੱਟੋ-ਘੱਟ ਉਮਰ ਕਿੰਨੀ ਹੈ?",
         answer:
-          "Eligible bride ਦੀ ਉਮਰ ਘੱਟੋ-ਘੱਟ 18 ਸਾਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
+          "ਯੋਗ ਦੁਲਹਨ ਦੀ ਉਮਰ ਘੱਟੋ-ਘੱਟ 18 ਸਾਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ।",
       },
       {
-        question: "Apply online ਕਿੱਥੇ ਕਰੀਏ?",
+        question: "ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਕਿੱਥੇ ਦਈਏ?",
         answer:
-          "Official Punjab Ashirwad portal https://ashirwad.punjab.gov.in ਵਰਤੋ।",
+          "ਪੰਜਾਬ ਦਾ ਅਧਿਕਾਰਤ Ashirwad ਪੋਰਟਲ https://ashirwad.punjab.gov.in ਵਰਤੋ।",
       },
       {
-        question: "ਕੀ application fee ਹੈ?",
+        question: "ਕੀ ਅਰਜ਼ੀ ਦੀ ਕੋਈ ਫੀਸ ਹੈ?",
         answer:
-          "Punjab approved facilitation-charge record service fee nil ਦਰਸਾਉਂਦਾ ਹੈ।",
+          "ਪੰਜਾਬ ਦੇ ਮਨਜ਼ੂਰ ਸਹੂਲਤ-ਖਰਚਾ ਰਿਕਾਰਡ ਵਿੱਚ ਇਸ ਸੇਵਾ ਦੀ ਫੀਸ ਸਿਫ਼ਰ ਦਰਜ ਹੈ।",
       },
       {
-        question: "Old form ਵਿੱਚ ₹15,000 ਕਿਉਂ ਲਿਖਿਆ ਹੈ?",
+        question: "ਪੁਰਾਣੇ ਫਾਰਮ ਵਿੱਚ ₹15,000 ਕਿਉਂ ਲਿਖਿਆ ਹੈ?",
         answer:
-          "Older downloadable form outdated amount ਦਿਖਾਉਂਦਾ ਹੈ; current government material ₹51,000 benefit ਦੱਸਦਾ ਹੈ।",
+          "ਡਾਊਨਲੋਡਯੋਗ ਪੁਰਾਣੇ ਫਾਰਮ ਵਿੱਚ ਪੁਰਾਣੀ ਰਕਮ ਹੈ; ਮੌਜੂਦਾ ਸਰਕਾਰੀ ਸਮੱਗਰੀ ₹51,000 ਲਾਭ ਦੱਸਦੀ ਹੈ।",
       },
     ],
     officialUrl: "https://ashirwad.punjab.gov.in",
     department:
       "ਸਮਾਜਿਕ ਨਿਆਂ, ਅਧਿਕਾਰਤਾ ਅਤੇ ਘੱਟ ਗਿਣਤੀ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image: "/images/schemes/aashirwad-scheme-punjab.webp",
     imageAlt:
       "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ ਲਈ ਦਸਤਾਵੇਜ਼ ਤਿਆਰ ਕਰਦੀ ਪੰਜਾਬੀ ਦੁਲਹਨ ਅਤੇ ਉਸਦੀ ਮਾਤਾ",
@@ -924,77 +925,77 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "bebe-nanki-laadli-beti-kalyan-scheme",
     name: "ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਕਲਿਆਣ ਸਕੀਮ",
     seoTitle:
-      "ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਕਲਿਆਣ ਸਕੀਮ 2026: ਯੋਗਤਾ, ਲਾਭ ਅਤੇ ਮੌਜੂਦਾ Status",
+      "ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਕਲਿਆਣ ਸਕੀਮ 2026: ਯੋਗਤਾ, ਲਾਭ ਅਤੇ ਮੌਜੂਦਾ ਸਥਿਤੀ",
     description:
-      "Bebe Nanki Laadli Beti Kalyan Scheme Punjab ਬਾਰੇ girl-child eligibility, documents, benefits ਅਤੇ current enrolment status ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਕਲਿਆਣ ਸਕੀਮ ਪੰਜਾਬ ਲਈ ਬੱਚੀ ਦੀ ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਲਾਭ ਅਤੇ ਮੌਜੂਦਾ ਨਾਮਾਂਕਣ ਸਥਿਤੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਕਲਿਆਣ ਸਕੀਮ ਪੰਜਾਬ ਦੀ girl-child welfare scheme ਵਜੋਂ responsible department ਦੀ scheme information ਵਿੱਚ listed ਰਹੀ ਹੈ, ਪਰ current enrolment status, benefit schedule ਅਤੇ application route ਲਈ direct official confirmation ਲੋੜੀਂਦੀ ਹੈ।",
+      "ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਕਲਿਆਣ ਸਕੀਮ ਪੰਜਾਬ ਦੀ ਬੱਚੀਆਂ ਦੀ ਭਲਾਈ ਸਕੀਮ ਵਜੋਂ ਜ਼ਿੰਮੇਵਾਰ ਵਿਭਾਗ ਦੀ ਸੂਚੀ ਵਿੱਚ ਰਹੀ ਹੈ, ਪਰ ਮੌਜੂਦਾ ਨਾਮਾਂਕਣ, ਲਾਭਾਂ ਦੀ ਸਮਾਂ-ਸਾਰਣੀ ਅਤੇ ਅਰਜ਼ੀ ਦੇ ਰਸਤੇ ਲਈ ਸਿੱਧੀ ਅਧਿਕਾਰਤ ਪੁਸ਼ਟੀ ਲੋੜੀਂਦੀ ਹੈ।",
     category: "ਬੱਚੀਆਂ ਅਤੇ ਮਹਿਲਾ ਭਲਾਈ",
     beneficiaries:
-      "Scheme historically economically disadvantaged Punjab families ਦੀਆਂ eligible girls ਲਈ child sex ratio ਅਤੇ girl-child welfare objective ਨਾਲ ਜੋੜੀ ਗਈ ਸੀ। Current detailed eligibility official source ਤੋਂ confirm ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
+      "ਇਤਿਹਾਸਕ ਤੌਰ ਉੱਤੇ ਇਹ ਸਕੀਮ ਪੰਜਾਬ ਦੇ ਆਰਥਿਕ ਤੌਰ ਉੱਤੇ ਕਮਜ਼ੋਰ ਪਰਿਵਾਰਾਂ ਦੀਆਂ ਯੋਗ ਬੱਚੀਆਂ ਲਈ ਚਲਾਈ ਗਈ ਸੀ। ਇਸਦਾ ਉਦੇਸ਼ ਬਾਲ ਲਿੰਗ ਅਨੁਪਾਤ ਸੁਧਾਰਨ ਅਤੇ ਬੱਚੀਆਂ ਦੀ ਭਲਾਈ ਨਾਲ ਜੁੜਿਆ ਸੀ। ਮੌਜੂਦਾ ਵਿਸਥਾਰਤ ਯੋਗਤਾ ਦੀ ਅਧਿਕਾਰਤ ਸਰੋਤ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
     benefitDetails: [
-      "Girl-child welfare ਅਤੇ long-term support ਨਾਲ ਜੁੜੀ Punjab scheme",
-      "Economically disadvantaged families ਉੱਤੇ historical focus",
-      "Current benefit schedule ਅਤੇ payment structure direct official confirmation ਮੰਗਦੇ ਹਨ",
+      "ਬੱਚੀਆਂ ਦੀ ਭਲਾਈ ਅਤੇ ਲੰਬੇ ਸਮੇਂ ਦੀ ਸਹਾਇਤਾ ਨਾਲ ਜੁੜੀ ਪੰਜਾਬ ਸਕੀਮ",
+      "ਇਤਿਹਾਸਕ ਤੌਰ ਉੱਤੇ ਆਰਥਿਕ ਤੌਰ ਉੱਤੇ ਕਮਜ਼ੋਰ ਪਰਿਵਾਰਾਂ ਵੱਲ ਵਿਸ਼ੇਸ਼ ਧਿਆਨ",
+      "ਮੌਜੂਦਾ ਲਾਭ ਸਮਾਂ-ਸਾਰਣੀ ਅਤੇ ਭੁਗਤਾਨ ਬਣਤਰ ਲਈ ਸਿੱਧੀ ਅਧਿਕਾਰਤ ਪੁਸ਼ਟੀ ਲੋੜੀਂਦੀ ਹੈ",
     ],
     eligibilityChecklist: [
-      "Girl child Punjab family ਨਾਲ related eligibility satisfy ਕਰਦੀ ਹੋਵੇ",
-      "Current birth-date condition department ਤੋਂ verify ਕੀਤੀ ਜਾਵੇ",
-      "Income ਅਤੇ family-size conditions current rules ਤੋਂ confirm ਕੀਤੀਆਂ ਜਾਣ",
-      "Any category priority official source ਤੋਂ verify ਕੀਤੀ ਜਾਵੇ",
+      "ਬੱਚੀ ਪੰਜਾਬ ਦੇ ਪਰਿਵਾਰ ਨਾਲ ਸੰਬੰਧਤ ਮੌਜੂਦਾ ਯੋਗਤਾ ਪੂਰੀ ਕਰਦੀ ਹੋਵੇ",
+      "ਜਨਮ ਮਿਤੀ ਨਾਲ ਸੰਬੰਧਤ ਮੌਜੂਦਾ ਸ਼ਰਤ ਦੀ ਵਿਭਾਗ ਤੋਂ ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾਵੇ",
+      "ਆਮਦਨ ਅਤੇ ਪਰਿਵਾਰ ਦੇ ਆਕਾਰ ਨਾਲ ਸੰਬੰਧਤ ਸ਼ਰਤਾਂ ਦੀ ਮੌਜੂਦਾ ਨਿਯਮਾਂ ਤੋਂ ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾਵੇ",
+      "ਕਿਸੇ ਸ਼੍ਰੇਣੀ ਨੂੰ ਪਹਿਲ ਹੋਵੇ ਤਾਂ ਉਸਦੀ ਅਧਿਕਾਰਤ ਸਰੋਤ ਤੋਂ ਪੁਸ਼ਟੀ ਕੀਤੀ ਜਾਵੇ",
     ],
     documents: [
-      "Girl child's registered birth certificate",
-      "Parent/guardian identity proof",
-      "Punjab residence proof",
-      "Current accepted family-income evidence",
-      "Family record",
-      "Authorized office ਵੱਲੋਂ ਮੰਗਿਆ bank/payment detail",
+      "ਬੱਚੀ ਦਾ ਰਜਿਸਟਰਡ ਜਨਮ ਸਰਟੀਫਿਕੇਟ",
+      "ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਦੀ ਪਛਾਣ ਦਾ ਸਬੂਤ",
+      "ਪੰਜਾਬ ਦੀ ਰਹਾਇਸ਼ ਦਾ ਸਬੂਤ",
+      "ਮੌਜੂਦਾ ਮਨਜ਼ੂਰਸ਼ੁਦਾ ਪਰਿਵਾਰਕ ਆਮਦਨ ਦਾ ਸਬੂਤ",
+      "ਪਰਿਵਾਰਕ ਰਿਕਾਰਡ",
+      "ਅਧਿਕਾਰਤ ਦਫ਼ਤਰ ਵੱਲੋਂ ਮੰਗੇ ਬੈਂਕ ਜਾਂ ਭੁਗਤਾਨ ਵੇਰਵੇ",
     ],
     applicationMethods: [
-      "Department ਤੋਂ ਪਹਿਲਾਂ confirm ਕਰੋ ਕਿ fresh enrolment currently open ਹੈ ਜਾਂ ਨਹੀਂ",
-      "Current application form ਅਤੇ authorized channel ਬਾਰੇ ਪੁੱਛੋ",
-      "Birth, residence, income ਅਤੇ family documents ਤਿਆਰ ਕਰੋ",
-      "Unofficial portal ਉੱਤੇ child documents upload ਨਾ ਕਰੋ",
-      "Acknowledgement ਮਿਲਣ ਉੱਤੇ ਸੰਭਾਲੋ",
+      "ਵਿਭਾਗ ਤੋਂ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਨਵਾਂ ਨਾਮਾਂਕਣ ਇਸ ਵੇਲੇ ਖੁੱਲ੍ਹਾ ਹੈ ਜਾਂ ਨਹੀਂ",
+      "ਮੌਜੂਦਾ ਅਰਜ਼ੀ ਫਾਰਮ ਅਤੇ ਅਧਿਕਾਰਤ ਜਮ੍ਹਾਂ ਰਸਤੇ ਬਾਰੇ ਪੁੱਛੋ",
+      "ਜਨਮ, ਰਹਾਇਸ਼, ਆਮਦਨ ਅਤੇ ਪਰਿਵਾਰ ਨਾਲ ਸੰਬੰਧਤ ਦਸਤਾਵੇਜ਼ ਤਿਆਰ ਕਰੋ",
+      "ਗੈਰ-ਅਧਿਕਾਰਤ ਪੋਰਟਲ ਉੱਤੇ ਬੱਚੀ ਦੇ ਦਸਤਾਵੇਜ਼ ਅਪਲੋਡ ਨਾ ਕਰੋ",
+      "ਰਸੀਦ ਮਿਲਣ ਉੱਤੇ ਸੰਭਾਲ ਕੇ ਰੱਖੋ",
     ],
     practicalTips: [
-      "Old blog posts ਤੋਂ current benefit amount assume ਨਾ ਕਰੋ।",
-      "Agent ਨੂੰ enrolment fee ਨਾ ਦਿਓ ਜਦ ਤੱਕ official department fee confirm ਨਾ ਕਰੇ।",
-      "Child's birth certificate ਅਤੇ parent records ਵਿੱਚ names match ਕਰੋ।",
-      "Current enrolment status department ਤੋਂ verify ਕਰਨਾ ਸਭ ਤੋਂ ਪਹਿਲਾ step ਹੈ।",
+      "ਪੁਰਾਣੀਆਂ ਬਲੌਗ ਲਿਖਤਾਂ ਤੋਂ ਮੌਜੂਦਾ ਲਾਭ ਰਕਮ ਨਾ ਮੰਨੋ।",
+      "ਜਦ ਤੱਕ ਵਿਭਾਗ ਅਧਿਕਾਰਤ ਫੀਸ ਦੀ ਪੁਸ਼ਟੀ ਨਾ ਕਰੇ, ਕਿਸੇ ਏਜੰਟ ਨੂੰ ਨਾਮਾਂਕਣ ਲਈ ਪੈਸੇ ਨਾ ਦਿਓ।",
+      "ਬੱਚੀ ਦੇ ਜਨਮ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਮਾਤਾ-ਪਿਤਾ ਦੇ ਰਿਕਾਰਡ ਵਿੱਚ ਨਾਮ ਇੱਕੋ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ।",
+      "ਨਵੇਂ ਨਾਮਾਂਕਣ ਦੀ ਮੌਜੂਦਾ ਸਥਿਤੀ ਵਿਭਾਗ ਤੋਂ ਪੁੱਛਣਾ ਸਭ ਤੋਂ ਪਹਿਲਾ ਕਦਮ ਹੈ।",
     ],
     currentStatus:
-      "Scheme responsible Punjab department ਨਾਲ associated/listed ਹੈ, ਪਰ 21 August 2026 review ਵਿੱਚ current fresh enrolment window, complete benefit schedule ਅਤੇ active application portal independently verify ਨਹੀਂ ਹੋਏ।",
+      "ਸਕੀਮ ਜ਼ਿੰਮੇਵਾਰ ਪੰਜਾਬ ਵਿਭਾਗ ਦੀ ਸੂਚੀ ਵਿੱਚ ਹੈ, ਪਰ 26 ਅਗਸਤ 2026 ਦੀ ਸਮੀਖਿਆ ਵਿੱਚ ਨਵੇਂ ਨਾਮਾਂਕਣ ਦੀ ਮੌਜੂਦਾ ਮਿਆਦ, ਲਾਭਾਂ ਦੀ ਪੂਰੀ ਸਮਾਂ-ਸਾਰਣੀ ਅਤੇ ਸਰਗਰਮ ਅਰਜ਼ੀ ਪੋਰਟਲ ਦੀ ਸੁਤੰਤਰ ਪੁਸ਼ਟੀ ਨਹੀਂ ਹੋਈ।",
     deepDiveHeading:
-      "ਇਸ ਸਕੀਮ ਬਾਰੇ current information ਨੂੰ ਸਾਵਧਾਨੀ ਨਾਲ ਕਿਉਂ verify ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?",
+      "ਇਸ ਸਕੀਮ ਦੀ ਮੌਜੂਦਾ ਜਾਣਕਾਰੀ ਦੀ ਸਾਵਧਾਨੀ ਨਾਲ ਪੁਸ਼ਟੀ ਕਿਉਂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ?",
     deepDive: [
-      "Girl-child schemes ਬਾਰੇ ਕਈ websites ਪੁਰਾਣੀਆਂ amounts ਅਤੇ eligibility rules ਨੂੰ current ਦੱਸਦੀਆਂ ਹਨ। ਜਦ official current notification unavailable ਹੋਵੇ ਤਾਂ outdated figures publish ਕਰਨਾ applicant ਨੂੰ ਗਲਤ decision ਵੱਲ ਲੈ ਜਾ ਸਕਦਾ ਹੈ।",
-      "Fresh enrolment open ਹੈ ਜਾਂ ਨਹੀਂ, ਇਹ benefit details ਤੋਂ ਵੀ ਪਹਿਲਾਂ verify ਕਰਨ ਵਾਲੀ ਗੱਲ ਹੈ।",
-      "PunjabSchemes.com ਇਸ page ਨੂੰ update ਕਰੇਗਾ ਜਦ responsible department current application instructions ਜਾਂ notification publish ਕਰਦਾ ਹੈ।",
+      "ਬੱਚੀਆਂ ਦੀਆਂ ਸਕੀਮਾਂ ਬਾਰੇ ਕਈ ਵੈੱਬਸਾਈਟਾਂ ਪੁਰਾਣੀਆਂ ਰਕਮਾਂ ਅਤੇ ਯੋਗਤਾ ਨਿਯਮਾਂ ਨੂੰ ਮੌਜੂਦਾ ਦੱਸਦੀਆਂ ਹਨ। ਜਦੋਂ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਸੂਚਨਾ ਉਪਲਬਧ ਨਾ ਹੋਵੇ ਤਾਂ ਪੁਰਾਣੇ ਅੰਕ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਨਾ ਪਰਿਵਾਰ ਨੂੰ ਗਲਤ ਫ਼ੈਸਲੇ ਵੱਲ ਲੈ ਜਾ ਸਕਦਾ ਹੈ।",
+      "ਨਵਾਂ ਨਾਮਾਂਕਣ ਖੁੱਲ੍ਹਾ ਹੈ ਜਾਂ ਨਹੀਂ, ਇਹ ਲਾਭਾਂ ਦੇ ਵੇਰਵਿਆਂ ਤੋਂ ਵੀ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰਨ ਵਾਲੀ ਗੱਲ ਹੈ।",
+      "PunjabSchemes.com ਇਸ ਪੰਨੇ ਨੂੰ ਉਸ ਵੇਲੇ ਅਪਡੇਟ ਕਰੇਗਾ ਜਦੋਂ ਜ਼ਿੰਮੇਵਾਰ ਵਿਭਾਗ ਮੌਜੂਦਾ ਅਰਜ਼ੀ ਹਦਾਇਤਾਂ ਜਾਂ ਸੂਚਨਾ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੇਗਾ।",
     ],
     faqs: [
       {
-        question: "ਕੀ ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਸਕੀਮ ਅਜੇ open ਹੈ?",
+        question: "ਕੀ ਬੇਬੇ ਨਾਨਕੀ ਲਾਡਲੀ ਬੇਟੀ ਸਕੀਮ ਅਜੇ ਖੁੱਲ੍ਹੀ ਹੈ?",
         answer:
-          "Current fresh enrolment window 21 August 2026 review ਵਿੱਚ independently confirm ਨਹੀਂ ਹੋਈ। Department ਤੋਂ current status verify ਕਰੋ।",
+          "26 ਅਗਸਤ 2026 ਦੀ ਸਮੀਖਿਆ ਵਿੱਚ ਨਵੇਂ ਨਾਮਾਂਕਣ ਦੀ ਮੌਜੂਦਾ ਮਿਆਦ ਦੀ ਸੁਤੰਤਰ ਪੁਸ਼ਟੀ ਨਹੀਂ ਹੋਈ। ਮੌਜੂਦਾ ਸਥਿਤੀ ਵਿਭਾਗ ਤੋਂ ਪੁੱਛੋ।",
       },
       {
-        question: "ਕੀ online apply ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਦਿੱਤੀ ਜਾ ਸਕਦੀ ਹੈ?",
         answer:
-          "Current authorized online portal verify ਨਹੀਂ ਹੋਇਆ। Unofficial registration websites ਤੋਂ ਬਚੋ।",
+          "ਕੋਈ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਆਨਲਾਈਨ ਪੋਰਟਲ ਪੁਸ਼ਟੀਤ ਨਹੀਂ ਹੋਇਆ। ਗੈਰ-ਅਧਿਕਾਰਤ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਬਚੋ।",
       },
       {
-        question: "ਕਿਹੜੇ documents ਤਿਆਰ ਰੱਖੀਏ?",
+        question: "ਕਿਹੜੇ ਦਸਤਾਵੇਜ਼ ਤਿਆਰ ਰੱਖੀਏ?",
         answer:
-          "Birth certificate, parent/guardian identity, Punjab residence ਅਤੇ current income/family evidence useful ਹੋ ਸਕਦੇ ਹਨ, ਪਰ exact list department ਤੋਂ ਲਵੋ।",
+          "ਜਨਮ ਸਰਟੀਫਿਕੇਟ, ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਸਰਪ੍ਰਸਤ ਦੀ ਪਛਾਣ, ਪੰਜਾਬ ਰਹਾਇਸ਼ ਅਤੇ ਮੌਜੂਦਾ ਆਮਦਨ ਜਾਂ ਪਰਿਵਾਰਕ ਸਬੂਤ ਲਾਭਦਾਇਕ ਹੋ ਸਕਦੇ ਹਨ, ਪਰ ਪੂਰੀ ਸੂਚੀ ਵਿਭਾਗ ਤੋਂ ਲਵੋ।",
       },
     ],
     officialUrl:
       "https://punjab.gov.in/government/departments/social-security1/",
     department:
       "ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ, ਮਹਿਲਾ ਅਤੇ ਬਾਲ ਵਿਕਾਸ ਵਿਭਾਗ, ਪੰਜਾਬ ਸਰਕਾਰ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image:
       "/images/schemes/bebe-nanki-laadli-beti-kalyan-scheme.webp",
     imageAlt:
@@ -1005,320 +1006,320 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "construction-worker-shagun-scheme-punjab",
     name: "ਪੰਜਾਬ BOCW ਸ਼ਗਨ ਸਕੀਮ",
     seoTitle:
-      "Punjab BOCW Shagun Scheme 2026: ₹31,000, ਯੋਗਤਾ, Documents ਅਤੇ Apply",
+      "ਪੰਜਾਬ BOCW ਸ਼ਗਨ ਸਕੀਮ 2026: ₹31,000, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ",
     description:
-      "Punjab construction worker Shagun Scheme ਲਈ ₹31,000 marriage assistance, registered worker eligibility, daughter marriage documents ਅਤੇ application ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਸ਼ਗਨ ਸਕੀਮ ਲਈ ₹31,000 ਵਿਆਹ ਸਹਾਇਤਾ, ਰਜਿਸਟਰਡ ਮਜ਼ਦੂਰ ਦੀ ਯੋਗਤਾ, ਧੀ ਦੇ ਵਿਆਹ ਦੇ ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "Punjab Building and Other Construction Workers Welfare Board ਦੀ Shagun Scheme eligible registered construction worker ਦੀ ਧੀ ਦੇ ਪਹਿਲੇ ਵਿਆਹ ਜਾਂ eligible registered female beneficiary ਦੇ ਆਪਣੇ ਪਹਿਲੇ ਵਿਆਹ ਲਈ ₹31,000 assistance ਦਿੰਦੀ ਹੈ।",
+      "Punjab Building and Other Construction Workers Welfare Board ਦੀ ਸ਼ਗਨ ਸਕੀਮ ਯੋਗ ਰਜਿਸਟਰਡ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਦੀ ਧੀ ਦੇ ਪਹਿਲੇ ਵਿਆਹ ਜਾਂ ਯੋਗ ਰਜਿਸਟਰਡ ਮਹਿਲਾ ਲਾਭਪਾਤਰੀ ਦੇ ਆਪਣੇ ਪਹਿਲੇ ਵਿਆਹ ਲਈ ₹31,000 ਸਹਾਇਤਾ ਦਿੰਦੀ ਹੈ।",
     category: "ਨਿਰਮਾਣ ਮਜ਼ਦੂਰ",
     beneficiaries:
-      "Registered Punjab BOCW beneficiary ਦੀ eligible daughter ਦਾ first marriage ਜਾਂ eligible registered female beneficiary ਦਾ ਆਪਣਾ first marriage, subject to active membership ਅਤੇ contribution conditions.",
+      "ਰਜਿਸਟਰਡ ਪੰਜਾਬ BOCW ਲਾਭਪਾਤਰੀ ਦੀ ਯੋਗ ਧੀ ਦਾ ਪਹਿਲਾ ਵਿਆਹ ਜਾਂ ਯੋਗ ਰਜਿਸਟਰਡ ਮਹਿਲਾ ਲਾਭਪਾਤਰੀ ਦਾ ਆਪਣਾ ਪਹਿਲਾ ਵਿਆਹ, ਬਸ਼ਰਤੇ ਮੈਂਬਰਸ਼ਿਪ ਅਤੇ ਅੰਸ਼ਦਾਨ ਸਰਗਰਮ ਹੋਣ।",
     benefitDetails: [
-      "Eligible marriage ਲਈ ₹31,000 assistance",
-      "Maximum ਦੋ daughters ਦੇ eligible marriages ਲਈ benefit",
-      "Eligible registered female beneficiary ਦੇ ਆਪਣੇ first marriage ਲਈ ਵੀ provision",
-      "Second marriage ਲਈ benefit ਨਹੀਂ",
+      "ਯੋਗ ਵਿਆਹ ਲਈ ₹31,000 ਸਹਾਇਤਾ",
+      "ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਧੀਆਂ ਦੇ ਯੋਗ ਵਿਆਹਾਂ ਲਈ ਲਾਭ",
+      "ਯੋਗ ਰਜਿਸਟਰਡ ਮਹਿਲਾ ਲਾਭਪਾਤਰੀ ਦੇ ਆਪਣੇ ਪਹਿਲੇ ਵਿਆਹ ਲਈ ਵੀ ਪ੍ਰਬੰਧ",
+      "ਦੂਜੇ ਵਿਆਹ ਲਈ ਲਾਭ ਨਹੀਂ",
     ],
     eligibilityChecklist: [
-      "Construction worker Punjab BOCW Board ਨਾਲ registered ਹੋਵੇ",
-      "Membership ਅਤੇ contribution current ਹੋਣ",
-      "Marriage eligible first-marriage condition satisfy ਕਰਦੀ ਹੋਵੇ",
-      "Daughter cases ਵਿੱਚ maximum two-daughter condition observe ਹੋਵੇ",
+      "ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਪੰਜਾਬ BOCW ਬੋਰਡ ਨਾਲ ਰਜਿਸਟਰਡ ਹੋਵੇ",
+      "ਮੈਂਬਰਸ਼ਿਪ ਅਤੇ ਅੰਸ਼ਦਾਨ ਮੌਜੂਦਾ ਹੋਣ",
+      "ਵਿਆਹ ਯੋਗ ਪਹਿਲੇ ਵਿਆਹ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਕਰਦਾ ਹੋਵੇ",
+      "ਧੀਆਂ ਦੇ ਮਾਮਲੇ ਵਿੱਚ ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਧੀਆਂ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
     ],
     documents: [
-      "Registered marriage certificate",
-      "Bride photograph",
-      "Marriage photograph",
-      "Bride date-of-birth certificate",
-      "BOCW registration ਅਤੇ bank details",
-      "Sarpanch ਜਾਂ accepted local authority marriage confirmation",
+      "ਰਜਿਸਟਰਡ ਵਿਆਹ ਸਰਟੀਫਿਕੇਟ",
+      "ਦੁਲਹਨ ਦੀ ਫੋਟੋ",
+      "ਵਿਆਹ ਦੀ ਫੋਟੋ",
+      "ਦੁਲਹਨ ਦੀ ਜਨਮ ਮਿਤੀ ਦਾ ਸਰਟੀਫਿਕੇਟ",
+      "BOCW ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਤੇ ਬੈਂਕ ਵੇਰਵੇ",
+      "ਸਰਪੰਚ ਜਾਂ ਹੋਰ ਮਨਜ਼ੂਰ ਸਥਾਨਕ ਅਧਿਕਾਰੀ ਵੱਲੋਂ ਵਿਆਹ ਦੀ ਪੁਸ਼ਟੀ",
     ],
     applicationMethods: [
-      "BOCW Form 35 complete ਕਰੋ",
-      "Required marriage ਅਤੇ age documents attach ਕਰੋ",
-      "Current authorized labour/Sewa channel ਰਾਹੀਂ submit ਕਰੋ",
-      "Official form ਅਨੁਸਾਰ marriage ਤੋਂ ਤਿੰਨ ਮਹੀਨੇ ਦੇ ਅੰਦਰ apply ਕਰੋ",
+      "BOCW ਫਾਰਮ 35 ਪੂਰਾ ਭਰੋ",
+      "ਵਿਆਹ ਅਤੇ ਉਮਰ ਦੇ ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼ ਨਾਲ ਲਗਾਓ",
+      "ਕਿਰਤ ਵਿਭਾਗ ਜਾਂ Sewa Kendra ਦੇ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ ਰਸਤੇ ਰਾਹੀਂ ਜਮ੍ਹਾਂ ਕਰੋ",
+      "ਅਧਿਕਾਰਤ ਫਾਰਮ ਅਨੁਸਾਰ ਵਿਆਹ ਤੋਂ ਤਿੰਨ ਮਹੀਨੇ ਦੇ ਅੰਦਰ ਅਰਜ਼ੀ ਦਿਓ",
     ],
     practicalTips: [
-      "Worker contribution active ਹੈ ਜਾਂ ਨਹੀਂ ਪਹਿਲਾਂ check ਕਰੋ।",
-      "Bride date of birth ਅਤੇ marriage certificate details match ਕਰੋ।",
-      "Three-month timing condition miss ਨਾ ਕਰੋ।",
-      "Benefit amount current Board source ਤੋਂ final verify ਕਰੋ।",
+      "ਮਜ਼ਦੂਰ ਦਾ ਅੰਸ਼ਦਾਨ ਸਰਗਰਮ ਹੈ ਜਾਂ ਨਹੀਂ, ਪਹਿਲਾਂ ਜਾਂਚੋ।",
+      "ਦੁਲਹਨ ਦੀ ਜਨਮ ਮਿਤੀ ਅਤੇ ਵਿਆਹ ਸਰਟੀਫਿਕੇਟ ਦੇ ਵੇਰਵੇ ਆਪਸ ਵਿੱਚ ਮਿਲਾਓ।",
+      "ਤਿੰਨ ਮਹੀਨੇ ਦੀ ਸਮਾਂ-ਹੱਦ ਨਾ ਲੰਘਣ ਦਿਓ।",
+      "ਲਾਭ ਦੀ ਰਕਮ ਦੀ ਮੌਜੂਦਾ ਬੋਰਡ ਸਰੋਤ ਤੋਂ ਅੰਤਿਮ ਪੁਸ਼ਟੀ ਕਰੋ।",
     ],
     currentStatus:
-      "Reviewed official BOCW material eligible marriage ਲਈ ₹31,000 assistance ਦੱਸਦਾ ਹੈ। Membership ਅਤੇ contribution status application ਤੋਂ ਪਹਿਲਾਂ verify ਕਰੋ।",
+      "ਸਮੀਖਿਆ ਕੀਤੀ ਅਧਿਕਾਰਤ BOCW ਸਮੱਗਰੀ ਯੋਗ ਵਿਆਹ ਲਈ ₹31,000 ਸਹਾਇਤਾ ਦੱਸਦੀ ਹੈ। ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਮੈਂਬਰਸ਼ਿਪ ਅਤੇ ਅੰਸ਼ਦਾਨ ਦੀ ਸਥਿਤੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
     deepDiveHeading:
-      "BOCW membership ਅਤੇ marriage eligibility ਕਿਉਂ ਮਹੱਤਵਪੂਰਨ ਹਨ?",
+      "BOCW ਮੈਂਬਰਸ਼ਿਪ ਅਤੇ ਵਿਆਹ ਦੀ ਯੋਗਤਾ ਕਿਉਂ ਮਹੱਤਵਪੂਰਨ ਹਨ?",
     deepDive: [
-      "Shagun benefit general Punjab marriage grant ਨਹੀਂ ਹੈ; ਇਹ registered BOCW beneficiary welfare benefit ਹੈ।",
-      "Worker registration ਅਤੇ contribution record inactive ਹੋਣ ਉੱਤੇ otherwise eligible marriage claim affect ਹੋ ਸਕਦਾ ਹੈ।",
-      "Marriage date, bride age ਅਤੇ prescribed supporting evidence correctly document ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ।",
+      "ਸ਼ਗਨ ਲਾਭ ਪੰਜਾਬ ਦੀ ਆਮ ਵਿਆਹ ਗ੍ਰਾਂਟ ਨਹੀਂ; ਇਹ ਰਜਿਸਟਰਡ BOCW ਲਾਭਪਾਤਰੀ ਲਈ ਭਲਾਈ ਲਾਭ ਹੈ।",
+      "ਮਜ਼ਦੂਰ ਦੀ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਜਾਂ ਅੰਸ਼ਦਾਨ ਰਿਕਾਰਡ ਸਰਗਰਮ ਨਾ ਹੋਣ ਨਾਲ ਹੋਰ ਪੱਖੋਂ ਯੋਗ ਵਿਆਹ ਦਾ ਦਾਅਵਾ ਪ੍ਰਭਾਵਿਤ ਹੋ ਸਕਦਾ ਹੈ।",
+      "ਵਿਆਹ ਦੀ ਮਿਤੀ, ਦੁਲਹਨ ਦੀ ਉਮਰ ਅਤੇ ਨਿਰਧਾਰਤ ਸਹਾਇਕ ਸਬੂਤ ਸਹੀ ਤਰੀਕੇ ਨਾਲ ਦਰਜ ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ।",
     ],
     faqs: [
       {
-        question: "BOCW Shagun Scheme ਵਿੱਚ ਕਿੰਨੀ ਰਕਮ ਮਿਲਦੀ ਹੈ?",
+        question: "BOCW ਸ਼ਗਨ ਸਕੀਮ ਵਿੱਚ ਕਿੰਨੀ ਰਕਮ ਮਿਲਦੀ ਹੈ?",
         answer:
-          "Reviewed official Board material eligible marriage ਲਈ ₹31,000 assistance ਦੱਸਦਾ ਹੈ।",
+          "ਸਮੀਖਿਆ ਕੀਤੀ ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਮੱਗਰੀ ਯੋਗ ਵਿਆਹ ਲਈ ₹31,000 ਸਹਾਇਤਾ ਦੱਸਦੀ ਹੈ।",
       },
       {
-        question: "ਕਿੰਨੀਆਂ daughters ਲਈ benefit ਮਿਲ ਸਕਦਾ ਹੈ?",
+        question: "ਕਿੰਨੀਆਂ ਧੀਆਂ ਲਈ ਲਾਭ ਮਿਲ ਸਕਦਾ ਹੈ?",
         answer:
-          "Official scheme conditions up to two daughters ਦੇ eligible marriages ਦੀ limit ਦੱਸਦੀਆਂ ਹਨ।",
+          "ਅਧਿਕਾਰਤ ਸਕੀਮ ਸ਼ਰਤਾਂ ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਧੀਆਂ ਦੇ ਯੋਗ ਵਿਆਹਾਂ ਦੀ ਹੱਦ ਦੱਸਦੀਆਂ ਹਨ।",
       },
       {
-        question: "Apply ਕਿੰਨੇ ਸਮੇਂ ਵਿੱਚ ਕਰਨਾ ਹੈ?",
+        question: "ਅਰਜ਼ੀ ਕਿੰਨੇ ਸਮੇਂ ਵਿੱਚ ਦੇਣੀ ਹੈ?",
         answer:
-          "Official form marriage date ਤੋਂ ਤਿੰਨ ਮਹੀਨੇ ਦੇ ਅੰਦਰ application ਦਾ rule ਦੱਸਦਾ ਹੈ।",
+          "ਅਧਿਕਾਰਤ ਫਾਰਮ ਵਿਆਹ ਦੀ ਮਿਤੀ ਤੋਂ ਤਿੰਨ ਮਹੀਨੇ ਦੇ ਅੰਦਰ ਅਰਜ਼ੀ ਦੇਣ ਦਾ ਨਿਯਮ ਦੱਸਦਾ ਹੈ।",
       },
     ],
     officialUrl:
       "https://bocw.punjab.gov.in/userfiles/file/shagun%20Form%2035%20updated.pdf",
     department:
       "Punjab Building and Other Construction Workers Welfare Board, ਕਿਰਤ ਵਿਭਾਗ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image:
       "/images/schemes/construction-worker-shagun-scheme-punjab.webp",
     imageAlt:
-      "Punjab BOCW Shagun Scheme ਲਈ ਵਿਆਹ ਦੇ documents ਤਿਆਰ ਕਰਦਾ construction worker ਅਤੇ ਉਸਦੀ ਬਾਲਗ ਧੀ",
+      "ਪੰਜਾਬ BOCW ਸ਼ਗਨ ਸਕੀਮ ਲਈ ਵਿਆਹ ਦੇ ਦਸਤਾਵੇਜ਼ ਤਿਆਰ ਕਰਦਾ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਅਤੇ ਉਸਦੀ ਬਾਲਗ ਧੀ",
   },
 
   "construction-worker-scholarship-punjab": {
     slug: "construction-worker-scholarship-punjab",
     name: "ਪੰਜਾਬ BOCW ਸਿੱਖਿਆ ਵਜ਼ੀਫ਼ਾ ਸਕੀਮ",
     seoTitle:
-      "Punjab BOCW Scholarship 2026: Construction Worker Children Stipend, Eligibility ਅਤੇ Apply",
+      "ਪੰਜਾਬ BOCW ਸਿੱਖਿਆ ਵਜ਼ੀਫ਼ਾ 2026: ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚਿਆਂ ਲਈ ਯੋਗਤਾ ਅਤੇ ਅਰਜ਼ੀ",
     description:
-      "Punjab BOCW scholarship/stipend scheme ਲਈ construction workers ਦੇ ਬੱਚਿਆਂ ਦੀ school ਤੋਂ degree education assistance, documents, rates ਅਤੇ application ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ BOCW ਵਜ਼ੀਫ਼ਾ ਸਕੀਮ ਲਈ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਸਕੂਲ ਤੋਂ ਡਿਗਰੀ ਪੱਧਰ ਤੱਕ ਸਿੱਖਿਆ ਸਹਾਇਤਾ, ਦਸਤਾਵੇਜ਼, ਦਰਾਂ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "Punjab BOCW Welfare Board eligible registered construction workers ਦੇ ਬੱਚਿਆਂ ਲਈ school ਤੋਂ degree-level study ਤੱਕ education assistance ਦਿੰਦਾ ਹੈ। ਕੁਝ courses ਅਤੇ hostel students ਲਈ higher assistance listed ਹੈ।",
+      "ਪੰਜਾਬ BOCW ਭਲਾਈ ਬੋਰਡ ਯੋਗ ਰਜਿਸਟਰਡ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਸਕੂਲ ਤੋਂ ਡਿਗਰੀ ਪੱਧਰ ਤੱਕ ਪੜ੍ਹਾਈ ਲਈ ਸਹਾਇਤਾ ਦਿੰਦਾ ਹੈ। ਕੁਝ ਕੋਰਸਾਂ ਅਤੇ ਹੋਸਟਲ ਵਿੱਚ ਰਹਿੰਦੇ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਵੱਧ ਸਹਾਇਤਾ ਦਰਜ ਹੈ।",
     category: "ਨਿਰਮਾਣ ਮਜ਼ਦੂਰ ਅਤੇ ਵਿਦਿਆਰਥੀ",
     beneficiaries:
-      "Registered Punjab BOCW beneficiary ਦੇ eligible children ਜੋ prescribed school, college ਜਾਂ course ਵਿੱਚ study ਕਰ ਰਹੇ ਹਨ; detailed scheme ਕੁਝ registered beneficiaries ਦੀ evening-class study ਨੂੰ ਵੀ cover ਕਰਦੀ ਹੈ।",
+      "ਰਜਿਸਟਰਡ ਪੰਜਾਬ BOCW ਲਾਭਪਾਤਰੀ ਦੇ ਯੋਗ ਬੱਚੇ ਜੋ ਨਿਰਧਾਰਤ ਸਕੂਲ, ਕਾਲਜ ਜਾਂ ਕੋਰਸ ਵਿੱਚ ਪੜ੍ਹ ਰਹੇ ਹਨ। ਵਿਸਥਾਰਤ ਸਕੀਮ ਕੁਝ ਰਜਿਸਟਰਡ ਲਾਭਪਾਤਰੀਆਂ ਦੀ ਸ਼ਾਮ ਦੀਆਂ ਜਮਾਤਾਂ ਵਿੱਚ ਪੜ੍ਹਾਈ ਨੂੰ ਵੀ ਸ਼ਾਮਲ ਕਰਦੀ ਹੈ।",
     benefitDetails: [
-      "School ਤੋਂ degree-level education ਲਈ annual assistance",
-      "Official Board summary ਵਿੱਚ category/course ਅਨੁਸਾਰ ₹3,000 ਤੋਂ ₹70,000 ਤੱਕ historical listed rates",
-      "Certain hostel students ਲਈ higher support",
-      "Rates course, class, gender ਅਤੇ hostel status ਅਨੁਸਾਰ ਵੱਖ ਹੋ ਸਕਦੀਆਂ ਹਨ",
+      "ਸਕੂਲ ਤੋਂ ਡਿਗਰੀ ਪੱਧਰ ਦੀ ਪੜ੍ਹਾਈ ਲਈ ਸਾਲਾਨਾ ਸਹਾਇਤਾ",
+      "ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਾਰ ਵਿੱਚ ਸ਼੍ਰੇਣੀ ਅਤੇ ਕੋਰਸ ਅਨੁਸਾਰ ₹3,000 ਤੋਂ ₹70,000 ਤੱਕ ਇਤਿਹਾਸਕ ਦਰਾਂ",
+      "ਕੁਝ ਹੋਸਟਲ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਵੱਧ ਸਹਾਇਤਾ",
+      "ਦਰਾਂ ਕੋਰਸ, ਜਮਾਤ, ਲਿੰਗ ਅਤੇ ਹੋਸਟਲ ਸਥਿਤੀ ਅਨੁਸਾਰ ਵੱਖ ਹੋ ਸਕਦੀਆਂ ਹਨ",
     ],
     eligibilityChecklist: [
-      "Parent/beneficiary active registered Punjab BOCW worker ਹੋਵੇ",
-      "Student eligible class/course ਵਿੱਚ admitted ਹੋਵੇ",
-      "Current contribution/membership condition satisfy ਹੋਵੇ",
-      "Required institution certificates available ਹੋਣ",
+      "ਮਾਤਾ-ਪਿਤਾ ਜਾਂ ਲਾਭਪਾਤਰੀ ਸਰਗਰਮ ਰਜਿਸਟਰਡ ਪੰਜਾਬ BOCW ਮਜ਼ਦੂਰ ਹੋਵੇ",
+      "ਵਿਦਿਆਰਥੀ ਯੋਗ ਜਮਾਤ ਜਾਂ ਕੋਰਸ ਵਿੱਚ ਦਾਖ਼ਲ ਹੋਵੇ",
+      "ਮੌਜੂਦਾ ਅੰਸ਼ਦਾਨ ਅਤੇ ਮੈਂਬਰਸ਼ਿਪ ਦੀ ਸ਼ਰਤ ਪੂਰੀ ਹੁੰਦੀ ਹੋਵੇ",
+      "ਸਿੱਖਿਆ ਸੰਸਥਾ ਦੇ ਲੋੜੀਂਦੇ ਸਰਟੀਫਿਕੇਟ ਮੌਜੂਦ ਹੋਣ",
     ],
     documents: [
-      "Institution-attested student photograph",
-      "Current admission/class certificate",
-      "Previous class pass certificate",
-      "Hostel certificate, ਜਿੱਥੇ hostel assistance claim ਹੋਵੇ",
-      "BOCW registration ਅਤੇ bank details",
+      "ਸਿੱਖਿਆ ਸੰਸਥਾ ਵੱਲੋਂ ਤਸਦੀਕ ਕੀਤੀ ਵਿਦਿਆਰਥੀ ਦੀ ਫੋਟੋ",
+      "ਮੌਜੂਦਾ ਦਾਖ਼ਲੇ ਅਤੇ ਜਮਾਤ ਦਾ ਸਰਟੀਫਿਕੇਟ",
+      "ਪਿਛਲੀ ਜਮਾਤ ਪਾਸ ਕਰਨ ਦਾ ਸਰਟੀਫਿਕੇਟ",
+      "ਜਿੱਥੇ ਹੋਸਟਲ ਸਹਾਇਤਾ ਦਾ ਦਾਅਵਾ ਹੋਵੇ, ਹੋਸਟਲ ਸਰਟੀਫਿਕੇਟ",
+      "BOCW ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਤੇ ਬੈਂਕ ਵੇਰਵੇ",
     ],
     applicationMethods: [
-      "School/college ਤੋਂ required certificates ਲਵੋ",
-      "Current BOCW welfare service channel ਰਾਹੀਂ apply ਕਰੋ",
-      "Documents upload ਜਾਂ submit ਕਰੋ",
-      "Acknowledgement/application number ਸੰਭਾਲੋ",
+      "ਸਕੂਲ ਜਾਂ ਕਾਲਜ ਤੋਂ ਲੋੜੀਂਦੇ ਸਰਟੀਫਿਕੇਟ ਲਵੋ",
+      "ਮੌਜੂਦਾ BOCW ਭਲਾਈ ਸੇਵਾ ਰਾਹੀਂ ਅਰਜ਼ੀ ਦਿਓ",
+      "ਦਸਤਾਵੇਜ਼ ਅਪਲੋਡ ਜਾਂ ਜਮ੍ਹਾਂ ਕਰੋ",
+      "ਰਸੀਦ ਜਾਂ ਅਰਜ਼ੀ ਨੰਬਰ ਸੰਭਾਲੋ",
     ],
     practicalTips: [
-      "Current sanctioned rate apply ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ Board ਤੋਂ confirm ਕਰੋ।",
-      "Old rate table ਨੂੰ automatically 2026 rate ਨਾ ਮੰਨੋ।",
-      "Institution certificate ਵਿੱਚ class/course ਅਤੇ session ਸਹੀ ਹੋਵੇ।",
-      "Hostel benefit ਲਈ separate hostel evidence ਤਿਆਰ ਕਰੋ।",
+      "ਅਰਜ਼ੀ ਦੇਣ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਮਨਜ਼ੂਰ ਦਰ ਦੀ ਬੋਰਡ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "ਪੁਰਾਣੀ ਦਰ-ਸੂਚੀ ਨੂੰ ਆਪਣੇ ਆਪ 2026 ਦੀ ਦਰ ਨਾ ਮੰਨੋ।",
+      "ਸਿੱਖਿਆ ਸੰਸਥਾ ਦੇ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਜਮਾਤ ਜਾਂ ਕੋਰਸ ਅਤੇ ਵਿੱਦਿਅਕ ਸੈਸ਼ਨ ਸਹੀ ਹੋਵੇ।",
+      "ਹੋਸਟਲ ਲਾਭ ਲਈ ਵੱਖਰਾ ਹੋਸਟਲ ਸਬੂਤ ਤਿਆਰ ਕਰੋ।",
     ],
     currentStatus:
-      "Official Board summary assistance range list ਕਰਦਾ ਹੈ, ਪਰ detailed rates 1 April 2016 effective notation ਨਾਲ ਹਨ। Current sanctioned education-assistance rate verify ਕਰੋ।",
+      "ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਾਰ ਸਹਾਇਤਾ ਦੀ ਹੱਦ ਦੱਸਦਾ ਹੈ, ਪਰ ਵਿਸਥਾਰਤ ਦਰਾਂ 1 ਅਪ੍ਰੈਲ 2016 ਤੋਂ ਲਾਗੂ ਹੋਣ ਦੀ ਟਿੱਪਣੀ ਨਾਲ ਹਨ। ਮੌਜੂਦਾ ਮਨਜ਼ੂਰ ਸਿੱਖਿਆ ਸਹਾਇਤਾ ਦਰ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
     deepDiveHeading:
-      "Course ਅਤੇ hostel status ਅਨੁਸਾਰ scholarship amount ਕਿਉਂ ਬਦਲਦੀ ਹੈ?",
+      "ਕੋਰਸ ਅਤੇ ਹੋਸਟਲ ਸਥਿਤੀ ਅਨੁਸਾਰ ਵਜ਼ੀਫ਼ੇ ਦੀ ਰਕਮ ਕਿਉਂ ਬਦਲਦੀ ਹੈ?",
     deepDive: [
-      "BOCW education assistance ਇੱਕ flat scholarship ਨਹੀਂ ਹੈ। Listed rates class, course, gender ਅਤੇ hostel status ਅਨੁਸਾਰ differ ਕਰਦੀਆਂ ਹਨ।",
-      "Old official rate table useful reference ਹੈ ਪਰ 2026 claim ਤੋਂ ਪਹਿਲਾਂ current Board sanction confirm ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
-      "Student admission ਅਤੇ previous-class evidence incomplete ਹੋਣ ਨਾਲ application verification delay ਹੋ ਸਕਦੀ ਹੈ।",
+      "BOCW ਸਿੱਖਿਆ ਸਹਾਇਤਾ ਇੱਕੋ ਦਰ ਵਾਲਾ ਵਜ਼ੀਫ਼ਾ ਨਹੀਂ ਹੈ। ਦਰਜ ਦਰਾਂ ਜਮਾਤ, ਕੋਰਸ, ਲਿੰਗ ਅਤੇ ਹੋਸਟਲ ਸਥਿਤੀ ਅਨੁਸਾਰ ਵੱਖ ਹੁੰਦੀਆਂ ਹਨ।",
+      "ਪੁਰਾਣੀ ਅਧਿਕਾਰਤ ਦਰ-ਸੂਚੀ ਸੰਦਰਭ ਲਈ ਲਾਭਦਾਇਕ ਹੈ, ਪਰ 2026 ਦੇ ਦਾਅਵੇ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਬੋਰਡ ਮਨਜ਼ੂਰੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
+      "ਵਿਦਿਆਰਥੀ ਦੇ ਦਾਖ਼ਲੇ ਅਤੇ ਪਿਛਲੀ ਜਮਾਤ ਦੇ ਅਧੂਰੇ ਸਬੂਤ ਨਾਲ ਅਰਜ਼ੀ ਦੀ ਜਾਂਚ ਵਿੱਚ ਦੇਰੀ ਹੋ ਸਕਦੀ ਹੈ।",
     ],
     faqs: [
       {
-        question: "BOCW scholarship ਕਿਸਦੇ ਬੱਚਿਆਂ ਲਈ ਹੈ?",
+        question: "BOCW ਵਜ਼ੀਫ਼ਾ ਕਿਸਦੇ ਬੱਚਿਆਂ ਲਈ ਹੈ?",
         answer:
-          "Eligible registered Punjab construction workers ਦੇ children prescribed conditions ਅਨੁਸਾਰ apply ਕਰ ਸਕਦੇ ਹਨ।",
+          "ਯੋਗ ਰਜਿਸਟਰਡ ਪੰਜਾਬ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚੇ ਨਿਰਧਾਰਤ ਸ਼ਰਤਾਂ ਅਨੁਸਾਰ ਅਰਜ਼ੀ ਦੇ ਸਕਦੇ ਹਨ।",
       },
       {
-        question: "Scholarship amount ਕਿੰਨੀ ਹੈ?",
+        question: "ਵਜ਼ੀਫ਼ੇ ਦੀ ਰਕਮ ਕਿੰਨੀ ਹੈ?",
         answer:
-          "Official historical summary ₹3,000 ਤੋਂ ₹70,000 ਤੱਕ course/category-based rates list ਕਰਦਾ ਹੈ, ਪਰ current rate Board ਤੋਂ verify ਕਰੋ।",
+          "ਅਧਿਕਾਰਤ ਇਤਿਹਾਸਕ ਸਾਰ ਵਿੱਚ ਕੋਰਸ ਅਤੇ ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ₹3,000 ਤੋਂ ₹70,000 ਤੱਕ ਦਰਾਂ ਹਨ, ਪਰ ਮੌਜੂਦਾ ਦਰ ਦੀ ਬੋਰਡ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
       },
       {
-        question: "Hostel student ਲਈ extra benefit ਹੋ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਹੋਸਟਲ ਵਿਦਿਆਰਥੀ ਨੂੰ ਵੱਧ ਲਾਭ ਮਿਲ ਸਕਦਾ ਹੈ?",
         answer:
-          "Official material ਕੁਝ hostel categories ਲਈ higher assistance list ਕਰਦਾ ਹੈ; hostel certificate required ਹੋ ਸਕਦਾ ਹੈ।",
+          "ਅਧਿਕਾਰਤ ਸਮੱਗਰੀ ਕੁਝ ਹੋਸਟਲ ਸ਼੍ਰੇਣੀਆਂ ਲਈ ਵੱਧ ਸਹਾਇਤਾ ਦਰਜ ਕਰਦੀ ਹੈ; ਹੋਸਟਲ ਸਰਟੀਫਿਕੇਟ ਲੋੜੀਂਦਾ ਹੋ ਸਕਦਾ ਹੈ।",
       },
     ],
     officialUrl:
       "https://bocw.punjab.gov.in/bApi/images/file-1657795250542.pdf",
     department:
       "Punjab Building and Other Construction Workers Welfare Board, ਕਿਰਤ ਵਿਭਾਗ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image:
       "/images/schemes/construction-worker-scholarship-punjab.webp",
     imageAlt:
-      "Construction worker ਦੀ ਧੀ Punjab BOCW scholarship ਲਈ engineering study ਕਰਦੀ ਹੋਈ",
+      "ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਦੀ ਧੀ ਪੰਜਾਬ BOCW ਵਜ਼ੀਫ਼ੇ ਅਧੀਨ ਇੰਜੀਨੀਅਰਿੰਗ ਦੀ ਪੜ੍ਹਾਈ ਕਰਦੀ ਹੋਈ",
   },
 
   "construction-worker-maternity-benefit-punjab": {
     slug: "construction-worker-maternity-benefit-punjab",
     name: "ਪੰਜਾਬ BOCW ਮਾਤਰਿਤਵ ਲਾਭ ਸਕੀਮ",
     seoTitle:
-      "Punjab BOCW Maternity Benefit 2026: ₹21,000/₹5,000, Eligibility ਅਤੇ Documents",
+      "ਪੰਜਾਬ BOCW ਮਾਤਰਿਤਵ ਲਾਭ 2026: ₹21,000/₹5,000, ਯੋਗਤਾ ਅਤੇ ਦਸਤਾਵੇਜ਼",
     description:
-      "Punjab construction worker maternity benefit scheme ਹੇਠ female worker ₹21,000 ਅਤੇ eligible male worker spouse case ₹5,000 historical Board amount, documents ਅਤੇ apply process ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਮਾਤਰਿਤਵ ਲਾਭ ਸਕੀਮ ਹੇਠ ਮਹਿਲਾ ਮਜ਼ਦੂਰ ਲਈ ₹21,000 ਅਤੇ ਯੋਗ ਪੁਰਸ਼ ਮਜ਼ਦੂਰ ਦੇ ਪਤਨੀ-ਸੰਬੰਧੀ ਮਾਮਲੇ ਲਈ ₹5,000 ਦੀ ਇਤਿਹਾਸਕ ਬੋਰਡ ਰਕਮ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "Punjab BOCW Maternity Benefit Scheme eligible registered construction workers ਲਈ up to two children ਦੇ birth ਨਾਲ ਸੰਬੰਧਤ financial assistance ਪ੍ਰਦਾਨ ਕਰਦੀ ਹੈ।",
+      "ਪੰਜਾਬ BOCW ਮਾਤਰਿਤਵ ਲਾਭ ਸਕੀਮ ਯੋਗ ਰਜਿਸਟਰਡ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਬੱਚਿਆਂ ਦੇ ਜਨਮ ਨਾਲ ਸੰਬੰਧਤ ਵਿੱਤੀ ਸਹਾਇਤਾ ਦਿੰਦੀ ਹੈ।",
     category: "ਨਿਰਮਾਣ ਮਜ਼ਦੂਰ ਅਤੇ ਮਾਤਰਿਤਵ",
     beneficiaries:
-      "Eligible registered female construction worker ਜਾਂ eligible registered male construction worker ਆਪਣੀ spouse ਨਾਲ ਸੰਬੰਧਤ claim ਕਰ ਸਕਦਾ ਹੈ, subject to Board membership ਅਤੇ contribution conditions.",
+      "ਯੋਗ ਰਜਿਸਟਰਡ ਮਹਿਲਾ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਜਾਂ ਯੋਗ ਰਜਿਸਟਰਡ ਪੁਰਸ਼ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਆਪਣੀ ਪਤਨੀ ਦੇ ਜਣੇਪੇ ਨਾਲ ਸੰਬੰਧਤ ਦਾਅਵਾ ਕਰ ਸਕਦਾ ਹੈ, ਬਸ਼ਰਤੇ ਬੋਰਡ ਦੀ ਮੈਂਬਰਸ਼ਿਪ ਅਤੇ ਅੰਸ਼ਦਾਨ ਦੀਆਂ ਸ਼ਰਤਾਂ ਪੂਰੀਆਂ ਹੋਣ।",
     benefitDetails: [
-      "Official Board summary female worker ਲਈ ₹21,000 per eligible child list ਕਰਦਾ ਹੈ",
-      "Eligible male worker ਲਈ ₹5,000 per child listed ਹੈ",
-      "Benefit up to two children ਲਈ",
-      "Current amount application ਤੋਂ ਪਹਿਲਾਂ Board ਤੋਂ verify ਕਰੋ",
+      "ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਾਰ ਮਹਿਲਾ ਮਜ਼ਦੂਰ ਲਈ ਪ੍ਰਤੀ ਯੋਗ ਬੱਚਾ ₹21,000 ਦਰਜ ਕਰਦਾ ਹੈ",
+      "ਯੋਗ ਪੁਰਸ਼ ਮਜ਼ਦੂਰ ਲਈ ਪ੍ਰਤੀ ਬੱਚਾ ₹5,000 ਦਰਜ ਹੈ",
+      "ਲਾਭ ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਬੱਚਿਆਂ ਲਈ ਹੈ",
+      "ਅਰਜ਼ੀ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਰਕਮ ਦੀ ਬੋਰਡ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ",
     ],
     eligibilityChecklist: [
-      "Worker registered Punjab BOCW beneficiary ਹੋਵੇ",
-      "Contribution/membership active ਹੋਵੇ",
-      "Birth up-to-two-children condition ਅੰਦਰ ਹੋਵੇ",
-      "Required birth ਅਤੇ local certificates available ਹੋਣ",
+      "ਮਜ਼ਦੂਰ ਰਜਿਸਟਰਡ ਪੰਜਾਬ BOCW ਲਾਭਪਾਤਰੀ ਹੋਵੇ",
+      "ਅੰਸ਼ਦਾਨ ਅਤੇ ਮੈਂਬਰਸ਼ਿਪ ਸਰਗਰਮ ਹੋਣ",
+      "ਜਨਮ ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਬੱਚਿਆਂ ਦੀ ਸ਼ਰਤ ਅੰਦਰ ਹੋਵੇ",
+      "ਜਨਮ ਅਤੇ ਸਥਾਨਕ ਤਸਦੀਕ ਦੇ ਲੋੜੀਂਦੇ ਸਰਟੀਫਿਕੇਟ ਮੌਜੂਦ ਹੋਣ",
     ],
     documents: [
-      "Child birth certificate",
-      "Village Sarpanch certificate",
-      "BOCW registration ਅਤੇ contribution details",
-      "Bank account number, branch ਅਤੇ IFSC",
+      "ਬੱਚੇ ਦਾ ਜਨਮ ਸਰਟੀਫਿਕੇਟ",
+      "ਪਿੰਡ ਦੇ ਸਰਪੰਚ ਦਾ ਸਰਟੀਫਿਕੇਟ",
+      "BOCW ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਤੇ ਅੰਸ਼ਦਾਨ ਦੇ ਵੇਰਵੇ",
+      "ਬੈਂਕ ਖਾਤਾ ਨੰਬਰ, ਸ਼ਾਖਾ ਅਤੇ IFSC",
     ],
     applicationMethods: [
-      "BOCW Maternity Benefit Form 46 complete ਕਰੋ",
-      "Birth certificate ਅਤੇ Sarpanch certificate attach ਕਰੋ",
-      "Sewa Kendra ਜਾਂ current authorized BOCW channel ਰਾਹੀਂ submit ਕਰੋ",
-      "Official scheme conditions ਅਨੁਸਾਰ child birth ਤੋਂ ਤਿੰਨ ਮਹੀਨੇ ਅੰਦਰ apply ਕਰੋ",
+      "BOCW ਮਾਤਰਿਤਵ ਲਾਭ ਫਾਰਮ 46 ਪੂਰਾ ਭਰੋ",
+      "ਜਨਮ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਸਰਪੰਚ ਦਾ ਸਰਟੀਫਿਕੇਟ ਨਾਲ ਲਗਾਓ",
+      "Sewa Kendra ਜਾਂ ਮੌਜੂਦਾ ਅਧਿਕਾਰਤ BOCW ਰਸਤੇ ਰਾਹੀਂ ਜਮ੍ਹਾਂ ਕਰੋ",
+      "ਅਧਿਕਾਰਤ ਸਕੀਮ ਸ਼ਰਤਾਂ ਅਨੁਸਾਰ ਬੱਚੇ ਦੇ ਜਨਮ ਤੋਂ ਤਿੰਨ ਮਹੀਨੇ ਅੰਦਰ ਅਰਜ਼ੀ ਦਿਓ",
     ],
     practicalTips: [
-      "Birth certificate registration delay ਨਾ ਕਰੋ।",
-      "Worker contribution status first verify ਕਰੋ।",
-      "Three-month application window current Board ਤੋਂ confirm ਕਰੋ।",
-      "Old Form 46 October 2017 revision ਦਾ ਹੈ, ਇਸ ਲਈ current amount ਵੀ verify ਕਰੋ।",
+      "ਜਨਮ ਸਰਟੀਫਿਕੇਟ ਦੀ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਵਿੱਚ ਦੇਰੀ ਨਾ ਕਰੋ।",
+      "ਮਜ਼ਦੂਰ ਦੇ ਅੰਸ਼ਦਾਨ ਦੀ ਸਥਿਤੀ ਪਹਿਲਾਂ ਜਾਂਚੋ।",
+      "ਤਿੰਨ ਮਹੀਨੇ ਦੀ ਅਰਜ਼ੀ ਮਿਆਦ ਦੀ ਮੌਜੂਦਾ ਬੋਰਡ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "ਪੁਰਾਣਾ ਫਾਰਮ 46 ਅਕਤੂਬਰ 2017 ਵਿੱਚ ਸੋਧਿਆ ਗਿਆ ਸੀ, ਇਸ ਲਈ ਮੌਜੂਦਾ ਰਕਮ ਦੀ ਵੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
     ],
     currentStatus:
-      "Board summary female worker ₹21,000 ਅਤੇ eligible male worker ₹5,000 per child, up to two children, list ਕਰਦਾ ਹੈ। Form older revision ਦਾ ਹੈ, ਇਸ ਲਈ current amount/deadline verify ਕਰੋ।",
+      "ਬੋਰਡ ਸਾਰ ਮਹਿਲਾ ਮਜ਼ਦੂਰ ਲਈ ਪ੍ਰਤੀ ਯੋਗ ਬੱਚਾ ₹21,000 ਅਤੇ ਯੋਗ ਪੁਰਸ਼ ਮਜ਼ਦੂਰ ਲਈ ₹5,000, ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਬੱਚਿਆਂ ਤੱਕ, ਦਰਜ ਕਰਦਾ ਹੈ। ਫਾਰਮ ਪੁਰਾਣੀ ਸੋਧ ਦਾ ਹੈ, ਇਸ ਲਈ ਮੌਜੂਦਾ ਰਕਮ ਅਤੇ ਆਖਰੀ ਮਿਤੀ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
     deepDiveHeading:
-      "Female ਅਤੇ male registered workers ਲਈ benefit ਕਿਵੇਂ ਵੱਖ ਹੈ?",
+      "ਰਜਿਸਟਰਡ ਮਹਿਲਾ ਅਤੇ ਪੁਰਸ਼ ਮਜ਼ਦੂਰਾਂ ਲਈ ਲਾਭ ਕਿਵੇਂ ਵੱਖ ਹੈ?",
     deepDive: [
-      "Scheme registered construction-worker welfare benefit ਹੈ, universal maternity benefit ਨਹੀਂ।",
-      "Official Board summary female beneficiary ਅਤੇ male worker spouse-case ਲਈ ਵੱਖ amounts list ਕਰਦਾ ਹੈ।",
-      "Birth certificate, contribution record ਅਤੇ application timing claim verification ਦੇ ਮੁੱਖ ਹਿੱਸੇ ਹਨ।",
+      "ਇਹ ਸਕੀਮ ਰਜਿਸਟਰਡ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦਾ ਭਲਾਈ ਲਾਭ ਹੈ, ਸਭ ਲਈ ਮਿਲਣ ਵਾਲਾ ਮਾਤਰਿਤਵ ਲਾਭ ਨਹੀਂ।",
+      "ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਾਰ ਮਹਿਲਾ ਲਾਭਪਾਤਰੀ ਅਤੇ ਪੁਰਸ਼ ਮਜ਼ਦੂਰ ਦੀ ਪਤਨੀ ਨਾਲ ਸੰਬੰਧਤ ਮਾਮਲੇ ਲਈ ਵੱਖ-ਵੱਖ ਰਕਮਾਂ ਦਰਜ ਕਰਦਾ ਹੈ।",
+      "ਜਨਮ ਸਰਟੀਫਿਕੇਟ, ਅੰਸ਼ਦਾਨ ਰਿਕਾਰਡ ਅਤੇ ਅਰਜ਼ੀ ਦਾ ਸਮਾਂ ਦਾਅਵੇ ਦੀ ਜਾਂਚ ਦੇ ਮੁੱਖ ਹਿੱਸੇ ਹਨ।",
     ],
     faqs: [
       {
-        question: "Female construction worker ਲਈ amount ਕਿੰਨੀ listed ਹੈ?",
+        question: "ਮਹਿਲਾ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਲਈ ਕਿੰਨੀ ਰਕਮ ਦਰਜ ਹੈ?",
         answer:
-          "Official Board summary ₹21,000 per eligible child list ਕਰਦਾ ਹੈ, subject to current verification।",
+          "ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਾਰ ਪ੍ਰਤੀ ਯੋਗ ਬੱਚਾ ₹21,000 ਦਰਜ ਕਰਦਾ ਹੈ; ਮੌਜੂਦਾ ਰਕਮ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨੀ ਲੋੜੀਂਦੀ ਹੈ।",
       },
       {
-        question: "Male worker ਵੀ claim ਕਰ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਪੁਰਸ਼ ਮਜ਼ਦੂਰ ਵੀ ਦਾਅਵਾ ਕਰ ਸਕਦਾ ਹੈ?",
         answer:
-          "Official material eligible registered male worker ਲਈ spouse-related birth case ਵਿੱਚ ₹5,000 per child list ਕਰਦਾ ਹੈ।",
+          "ਅਧਿਕਾਰਤ ਸਮੱਗਰੀ ਯੋਗ ਰਜਿਸਟਰਡ ਪੁਰਸ਼ ਮਜ਼ਦੂਰ ਦੀ ਪਤਨੀ ਦੇ ਜਣੇਪੇ ਨਾਲ ਸੰਬੰਧਤ ਮਾਮਲੇ ਵਿੱਚ ਪ੍ਰਤੀ ਬੱਚਾ ₹5,000 ਦਰਜ ਕਰਦੀ ਹੈ।",
       },
       {
-        question: "ਕਿੰਨੇ children ਲਈ benefit ਹੈ?",
+        question: "ਲਾਭ ਕਿੰਨੇ ਬੱਚਿਆਂ ਲਈ ਹੈ?",
         answer:
-          "Official scheme material benefit ਨੂੰ up to two children ਤੱਕ limit ਕਰਦਾ ਹੈ।",
+          "ਅਧਿਕਾਰਤ ਸਕੀਮ ਸਮੱਗਰੀ ਲਾਭ ਨੂੰ ਵੱਧ ਤੋਂ ਵੱਧ ਦੋ ਬੱਚਿਆਂ ਤੱਕ ਸੀਮਿਤ ਕਰਦੀ ਹੈ।",
       },
     ],
     officialUrl:
       "https://punjab.gov.in/wp-content/uploads/2020/05/Application-for-Maternity-Benefit-scheme-Form-No-46.pdf",
     department:
       "Punjab Building and Other Construction Workers Welfare Board, ਕਿਰਤ ਵਿਭਾਗ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image:
       "/images/schemes/construction-worker-maternity-benefit-punjab.webp",
     imageAlt:
-      "Punjab BOCW maternity benefit ਨਾਲ ਸੰਬੰਧਤ newborn ਨਾਲ construction-worker ਜੋੜਾ",
+      "ਪੰਜਾਬ BOCW ਮਾਤਰਿਤਵ ਲਾਭ ਨਾਲ ਸੰਬੰਧਤ ਨਵਜੰਮੇ ਬੱਚੇ ਨਾਲ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਜੋੜਾ",
   },
 
   "construction-worker-tools-kit-punjab": {
     slug: "construction-worker-tools-kit-punjab",
     name: "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ",
     seoTitle:
-      "Punjab BOCW Tool Kit Scheme 2026: ₹5,000 Reimbursement, Eligibility ਅਤੇ Apply",
+      "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ 2026: ₹5,000 ਖਰਚ ਵਾਪਸੀ, ਯੋਗਤਾ ਅਤੇ ਅਰਜ਼ੀ",
     description:
-      "Punjab BOCW Tool Kit Scheme ਹੇਠ eligible trained construction workers ਲਈ tools reimbursement, ₹5,000 historical ceiling, training conditions ਅਤੇ application ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ ਹੇਠ ਯੋਗ ਸਿਖਲਾਈ ਪ੍ਰਾਪਤ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਲਈ ਔਜ਼ਾਰਾਂ ਦੇ ਖਰਚ ਦੀ ਵਾਪਸੀ, ₹5,000 ਦੀ ਇਤਿਹਾਸਕ ਹੱਦ, ਸਿਖਲਾਈ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
-      "Punjab BOCW Tool Kit Scheme eligible registered construction workers ਨੂੰ work tools ਖਰੀਦਣ ਲਈ reimbursement assistance ਨਾਲ ਜੋੜਦੀ ਹੈ, ਖਾਸ ਤੌਰ ਉੱਤੇ Board Skill Upgradation ਜਾਂ Recognition of Prior Learning training complete ਕਰਨ ਵਾਲੇ workers ਲਈ।",
+      "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ ਯੋਗ ਰਜਿਸਟਰਡ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਨੂੰ ਕੰਮ ਦੇ ਔਜ਼ਾਰ ਖਰੀਦਣ ਦੇ ਖਰਚ ਦੀ ਵਾਪਸੀ ਨਾਲ ਜੋੜਦੀ ਹੈ, ਖ਼ਾਸ ਕਰਕੇ ਬੋਰਡ ਦੀ Skill Upgradation ਜਾਂ Recognition of Prior Learning ਸਿਖਲਾਈ ਪੂਰੀ ਕਰਨ ਵਾਲੇ ਮਜ਼ਦੂਰਾਂ ਲਈ।",
     category: "ਨਿਰਮਾਣ ਮਜ਼ਦੂਰ",
     beneficiaries:
-      "Regular contribution ਵਾਲੇ eligible registered Punjab BOCW workers ਜਿਨ੍ਹਾਂ ਨੇ prescribed Skill Upgradation ਜਾਂ Recognition of Prior Learning training complete ਕੀਤੀ ਹੈ।",
+      "ਨਿਯਮਤ ਅੰਸ਼ਦਾਨ ਵਾਲੇ ਯੋਗ ਰਜਿਸਟਰਡ ਪੰਜਾਬ BOCW ਮਜ਼ਦੂਰ, ਜਿਨ੍ਹਾਂ ਨੇ ਨਿਰਧਾਰਤ Skill Upgradation ਜਾਂ Recognition of Prior Learning ਸਿਖਲਾਈ ਪੂਰੀ ਕੀਤੀ ਹੈ।",
     benefitDetails: [
-      "Official Board material tools ਲਈ reimbursement up to ₹5,000 describe ਕਰਦਾ ਹੈ",
-      "Benefit prescribed qualifying training ਨਾਲ linked ਹੈ",
-      "Official material benefit ਨੂੰ ਤਿੰਨ ਸਾਲ ਬਾਅਦ ਦੁਬਾਰਾ claim ਕਰਨ ਦੀ provision ਦੱਸਦਾ ਹੈ",
-      "Current ceiling ਅਤੇ interval Board ਤੋਂ verify ਕਰੋ",
+      "ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਮੱਗਰੀ ਔਜ਼ਾਰਾਂ ਲਈ ₹5,000 ਤੱਕ ਖਰਚ ਵਾਪਸੀ ਦੱਸਦੀ ਹੈ",
+      "ਲਾਭ ਨਿਰਧਾਰਤ ਯੋਗ ਸਿਖਲਾਈ ਨਾਲ ਜੁੜਿਆ ਹੈ",
+      "ਅਧਿਕਾਰਤ ਸਮੱਗਰੀ ਤਿੰਨ ਸਾਲ ਬਾਅਦ ਮੁੜ ਲਾਭ ਲੈਣ ਦਾ ਪ੍ਰਬੰਧ ਦੱਸਦੀ ਹੈ",
+      "ਮੌਜੂਦਾ ਹੱਦ ਅਤੇ ਅੰਤਰਾਲ ਦੀ ਬੋਰਡ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ",
     ],
     eligibilityChecklist: [
-      "Worker Punjab BOCW Board ਨਾਲ registered ਹੋਵੇ",
-      "Contribution record regular/current ਹੋਵੇ",
-      "Required Skill Upgradation ਜਾਂ RPL training complete ਕੀਤੀ ਹੋਵੇ",
-      "Qualifying tools ਦੀ purchase evidence available ਹੋਵੇ",
+      "ਮਜ਼ਦੂਰ ਪੰਜਾਬ BOCW ਬੋਰਡ ਨਾਲ ਰਜਿਸਟਰਡ ਹੋਵੇ",
+      "ਅੰਸ਼ਦਾਨ ਰਿਕਾਰਡ ਨਿਯਮਤ ਅਤੇ ਮੌਜੂਦਾ ਹੋਵੇ",
+      "ਲੋੜੀਂਦੀ Skill Upgradation ਜਾਂ RPL ਸਿਖਲਾਈ ਪੂਰੀ ਕੀਤੀ ਹੋਵੇ",
+      "ਯੋਗ ਔਜ਼ਾਰਾਂ ਦੀ ਖਰੀਦ ਦਾ ਸਬੂਤ ਮੌਜੂਦ ਹੋਵੇ",
     ],
     documents: [
-      "BOCW registration details",
-      "Training completion evidence",
-      "Eligible tools purchase bills/receipts",
-      "Bank account details",
-      "Board ਵੱਲੋਂ current application ਵਿੱਚ ਮੰਗੇ ਹੋਰ records",
+      "BOCW ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਵੇਰਵੇ",
+      "ਸਿਖਲਾਈ ਪੂਰੀ ਕਰਨ ਦਾ ਸਬੂਤ",
+      "ਯੋਗ ਔਜ਼ਾਰਾਂ ਦੀ ਖਰੀਦ ਦੇ ਬਿੱਲ ਜਾਂ ਰਸੀਦਾਂ",
+      "ਬੈਂਕ ਖਾਤੇ ਦੇ ਵੇਰਵੇ",
+      "ਬੋਰਡ ਵੱਲੋਂ ਮੌਜੂਦਾ ਅਰਜ਼ੀ ਵਿੱਚ ਮੰਗੇ ਹੋਰ ਰਿਕਾਰਡ",
     ],
     applicationMethods: [
-      "Training qualification first verify ਕਰੋ",
-      "Eligible tools ਦੀ purchase bills ਸੰਭਾਲੋ",
-      "Current BOCW welfare channel ਰਾਹੀਂ reimbursement application ਕਰੋ",
-      "Registration, training, bills ਅਤੇ bank documents submit ਕਰੋ",
-      "Acknowledgement ਸੰਭਾਲੋ",
+      "ਸਿਖਲਾਈ ਸੰਬੰਧੀ ਯੋਗਤਾ ਦੀ ਪਹਿਲਾਂ ਪੁਸ਼ਟੀ ਕਰੋ",
+      "ਯੋਗ ਔਜ਼ਾਰਾਂ ਦੀ ਖਰੀਦ ਦੇ ਬਿੱਲ ਸੰਭਾਲੋ",
+      "ਮੌਜੂਦਾ BOCW ਭਲਾਈ ਸੇਵਾ ਰਾਹੀਂ ਖਰਚ ਵਾਪਸੀ ਲਈ ਅਰਜ਼ੀ ਦਿਓ",
+      "ਰਜਿਸਟ੍ਰੇਸ਼ਨ, ਸਿਖਲਾਈ, ਬਿੱਲ ਅਤੇ ਬੈਂਕ ਨਾਲ ਸੰਬੰਧਤ ਦਸਤਾਵੇਜ਼ ਜਮ੍ਹਾਂ ਕਰੋ",
+      "ਰਸੀਦ ਸੰਭਾਲੋ",
     ],
     practicalTips: [
-      "Tools ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ current eligible list ਅਤੇ reimbursement ceiling verify ਕਰੋ।",
-      "Cash purchase without proper bill claim ਨੂੰ problem ਕਰ ਸਕਦੀ ਹੈ।",
-      "Three-year repeat interval current Board rule ਤੋਂ confirm ਕਰੋ।",
-      "Training certificate safely preserve ਕਰੋ।",
+      "ਔਜ਼ਾਰ ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਯੋਗ ਸੂਚੀ ਅਤੇ ਖਰਚ ਵਾਪਸੀ ਦੀ ਹੱਦ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "ਸਹੀ ਬਿੱਲ ਤੋਂ ਬਿਨਾਂ ਨਕਦ ਖਰੀਦ ਦਾਅਵੇ ਦੀ ਜਾਂਚ ਵਿੱਚ ਮੁਸ਼ਕਲ ਪੈਦਾ ਕਰ ਸਕਦੀ ਹੈ।",
+      "ਤਿੰਨ ਸਾਲ ਬਾਅਦ ਮੁੜ ਲਾਭ ਦੇ ਅੰਤਰਾਲ ਦੀ ਮੌਜੂਦਾ ਬੋਰਡ ਨਿਯਮ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
+      "ਸਿਖਲਾਈ ਸਰਟੀਫਿਕੇਟ ਸੁਰੱਖਿਅਤ ਸੰਭਾਲ ਕੇ ਰੱਖੋ।",
     ],
     currentStatus:
-      "Reviewed official Board material reimbursement up to ₹5,000 ਅਤੇ three-year repeat possibility describe ਕਰਦਾ ਹੈ। Current ceiling ਅਤੇ qualifying interval Board ਤੋਂ verify ਕਰੋ।",
+      "ਸਮੀਖਿਆ ਕੀਤੀ ਅਧਿਕਾਰਤ ਬੋਰਡ ਸਮੱਗਰੀ ₹5,000 ਤੱਕ ਖਰਚ ਵਾਪਸੀ ਅਤੇ ਤਿੰਨ ਸਾਲ ਬਾਅਦ ਮੁੜ ਲਾਭ ਦੀ ਸੰਭਾਵਨਾ ਦੱਸਦੀ ਹੈ। ਮੌਜੂਦਾ ਹੱਦ ਅਤੇ ਯੋਗ ਅੰਤਰਾਲ ਦੀ ਬੋਰਡ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
     deepDiveHeading:
-      "Tool reimbursement ਅਤੇ training condition ਕਿਵੇਂ linked ਹਨ?",
+      "ਔਜ਼ਾਰਾਂ ਦੇ ਖਰਚ ਦੀ ਵਾਪਸੀ ਅਤੇ ਸਿਖਲਾਈ ਦੀ ਸ਼ਰਤ ਕਿਵੇਂ ਜੁੜੀਆਂ ਹਨ?",
     deepDive: [
-      "Tool Kit Scheme general tool-purchase subsidy ਨਹੀਂ ਹੈ। It is linked to eligible registered workers and prescribed skill/RPL training.",
-      "Reimbursement claim ਲਈ purchase evidence ਅਤੇ worker's qualifying status ਦੋਵੇਂ ਮਹੱਤਵਪੂਰਨ ਹਨ।",
-      "Old scheme amount ਉੱਤੇ purchase decision ਲੈਣ ਤੋਂ ਪਹਿਲਾਂ current ceiling verify ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
+      "ਟੂਲ ਕਿੱਟ ਸਕੀਮ ਔਜ਼ਾਰ ਖਰੀਦਣ ਦੀ ਆਮ ਸਬਸਿਡੀ ਨਹੀਂ ਹੈ। ਇਹ ਯੋਗ ਰਜਿਸਟਰਡ ਮਜ਼ਦੂਰ ਅਤੇ ਨਿਰਧਾਰਤ ਹੁਨਰ ਜਾਂ RPL ਸਿਖਲਾਈ ਨਾਲ ਜੁੜੀ ਹੈ।",
+      "ਖਰਚ ਵਾਪਸੀ ਦੇ ਦਾਅਵੇ ਲਈ ਖਰੀਦ ਦਾ ਸਬੂਤ ਅਤੇ ਮਜ਼ਦੂਰ ਦੀ ਯੋਗ ਸਥਿਤੀ ਦੋਵੇਂ ਮਹੱਤਵਪੂਰਨ ਹਨ।",
+      "ਪੁਰਾਣੀ ਸਕੀਮ ਰਕਮ ਦੇ ਆਧਾਰ ਉੱਤੇ ਖਰੀਦ ਦਾ ਫ਼ੈਸਲਾ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਹੱਦ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
     ],
     faqs: [
       {
-        question: "Tool Kit Scheme ਵਿੱਚ ਕਿੰਨੀ reimbursement listed ਹੈ?",
+        question: "ਟੂਲ ਕਿੱਟ ਸਕੀਮ ਵਿੱਚ ਕਿੰਨੀ ਖਰਚ ਵਾਪਸੀ ਦਰਜ ਹੈ?",
         answer:
-          "Reviewed official material up to ₹5,000 reimbursement describe ਕਰਦਾ ਹੈ; current ceiling verify ਕਰੋ।",
+          "ਸਮੀਖਿਆ ਕੀਤੀ ਅਧਿਕਾਰਤ ਸਮੱਗਰੀ ₹5,000 ਤੱਕ ਖਰਚ ਵਾਪਸੀ ਦੱਸਦੀ ਹੈ; ਮੌਜੂਦਾ ਹੱਦ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ।",
       },
       {
-        question: "ਕੀ ਹਰ registered worker eligible ਹੈ?",
+        question: "ਕੀ ਹਰ ਰਜਿਸਟਰਡ ਮਜ਼ਦੂਰ ਯੋਗ ਹੈ?",
         answer:
-          "Scheme qualifying training condition ਨਾਲ linked ਹੈ, ਇਸ ਲਈ registration alone ਕਾਫ਼ੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।",
+          "ਸਕੀਮ ਯੋਗ ਸਿਖਲਾਈ ਦੀ ਸ਼ਰਤ ਨਾਲ ਜੁੜੀ ਹੈ, ਇਸ ਲਈ ਸਿਰਫ਼ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਾਫ਼ੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।",
       },
       {
-        question: "ਕੀ benefit ਦੁਬਾਰਾ ਮਿਲ ਸਕਦਾ ਹੈ?",
+        question: "ਕੀ ਲਾਭ ਦੁਬਾਰਾ ਮਿਲ ਸਕਦਾ ਹੈ?",
         answer:
-          "Official material three-year interval ਤੋਂ ਬਾਅਦ repeat claim ਦੀ provision ਦੱਸਦਾ ਹੈ; current rule Board ਤੋਂ confirm ਕਰੋ।",
+          "ਅਧਿਕਾਰਤ ਸਮੱਗਰੀ ਤਿੰਨ ਸਾਲ ਦੇ ਅੰਤਰਾਲ ਤੋਂ ਬਾਅਦ ਮੁੜ ਦਾਅਵੇ ਦਾ ਪ੍ਰਬੰਧ ਦੱਸਦੀ ਹੈ; ਮੌਜੂਦਾ ਨਿਯਮ ਦੀ ਬੋਰਡ ਤੋਂ ਪੁਸ਼ਟੀ ਕਰੋ।",
       },
     ],
     officialUrl: "https://bocw.punjab.gov.in/",
     department:
       "Punjab Building and Other Construction Workers Welfare Board, ਕਿਰਤ ਵਿਭਾਗ",
-    lastReviewed: "2026-08-21",
+    lastReviewed: "2026-08-26",
     image:
       "/images/schemes/construction-worker-tools-kit-punjab.webp",
     imageAlt:
-      "Punjab BOCW Tool Kit Scheme ਨਾਲ ਸੰਬੰਧਤ workbench ਉੱਤੇ tools ਰੱਖਦਾ trained construction worker",
+      "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ ਨਾਲ ਸੰਬੰਧਤ ਕੰਮ ਵਾਲੇ ਮੇਜ਼ ਉੱਤੇ ਔਜ਼ਾਰ ਰੱਖਦਾ ਸਿਖਲਾਈ ਪ੍ਰਾਪਤ ਉਸਾਰੀ ਮਜ਼ਦੂਰ",
   },
 
 };
