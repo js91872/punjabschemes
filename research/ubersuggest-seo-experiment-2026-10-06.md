@@ -83,3 +83,14 @@ Rule: Preserve existing indexed scheme URLs. Use exact and close long-tail phras
 | Family benefit | national family benefit scheme pdf | 70 | 5 | same |
 | Family benefit | national family benefit scheme apply online | 50 | 5 | same |
 | Family benefit | national family benefit scheme eligibility | 40 | 5 | same |
+
+## Punjabi SEO layer
+
+Punjabi URLs remain unchanged under /pa and /pa/schemes/{slug}. The Punjabi layer intentionally uses both Gurmukhi and common English search actions because users frequently mix terms such as Apply Online, Status Check, Form, Login, SHA Punjab, BOCW and Labour Card with Punjabi scheme names.
+
+Punjabi experiment rules:
+- Keep Punjab, India explicit.
+- Use the same validated intent clusters as English without copying English prose.
+- Put search actions in Punjabi metadata/H1/H2 where natural: Apply Online, Status Check, Form PDF, Eligibility, Beneficiary Search, Login, Last Date.
+- Preserve pa-IN / en-IN hreflang pairing and canonicals.
+- Measure Punjabi landing pages separately in GSC after deployment.
