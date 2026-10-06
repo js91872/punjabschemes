@@ -4,9 +4,9 @@ import Link from "next/link";
 import { punjabiSchemes } from "@/lib/punjabi-schemes";
 
 export const metadata: Metadata = {
-  title: "ਪੰਜਾਬ ਸਰਕਾਰ ਦੀਆਂ ਸਕੀਮਾਂ 2026",
+  title: "ਪੰਜਾਬ ਸਰਕਾਰ ਦੀਆਂ ਸਕੀਮਾਂ 2026: Apply Online, Eligibility, Status ਅਤੇ Latest Schemes",
   description:
-    "ਪੰਜਾਬ, ਭਾਰਤ ਵਿੱਚ ਸਰਕਾਰੀ ਸਕੀਮਾਂ, ਪੈਨਸ਼ਨਾਂ, ਵਜ਼ੀਫ਼ਿਆਂ, ਸਿਹਤ, ਰਿਹਾਇਸ਼, ਮਹਿਲਾ ਤੇ ਬਾਲ ਭਲਾਈ ਅਤੇ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਲਾਭਾਂ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
+    "ਪੰਜਾਬ ਸਰਕਾਰ ਦੀਆਂ ਸਕੀਮਾਂ 2026 ਪੰਜਾਬੀ ਵਿੱਚ: Old Age Pension, Widow Pension, SHA Punjab, ਮਹਿਲਾ ਸਕੀਮਾਂ, BOCW/Labour Card, Apply Online, Eligibility, Form ਅਤੇ Status Check ਜਾਣਕਾਰੀ।",
 
   alternates: {
     canonical: "/pa",
@@ -29,11 +29,10 @@ export default function PunjabiHomePage() {
             ਪੰਜਾਬ, ਭਾਰਤ ਦੀਆਂ ਸਰਕਾਰੀ ਅਤੇ ਭਲਾਈ ਸਕੀਮਾਂ — ਆਸਾਨ ਪੰਜਾਬੀ ਵਿੱਚ
           </p>
 
-          <h1>ਪੰਜਾਬ ਸਰਕਾਰ ਦੀਆਂ ਸਕੀਮਾਂ 2026 — ਪੰਜਾਬ, ਭਾਰਤ</h1>
+          <h1>ਪੰਜਾਬ ਸਰਕਾਰ ਦੀਆਂ ਸਕੀਮਾਂ 2026 – Apply Online, Eligibility, Form ਅਤੇ Status Check</h1>
 
           <p className="lead">
-            ਯੋਗਤਾ, ਲਾਭ, ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼, ਅਰਜ਼ੀ ਦੀ ਪ੍ਰਕਿਰਿਆ ਅਤੇ ਅਧਿਕਾਰਤ
-            ਸਰੋਤ ਇੱਕ ਹੀ ਥਾਂ ਸਮਝੋ।
+            ਪੰਜਾਬ, ਭਾਰਤ ਦੀਆਂ latest government schemes ਬਾਰੇ ਪੰਜਾਬੀ ਵਿੱਚ ਜਾਣੋ। Old Age Pension Punjab, Widow Pension, SHA Punjab Health Card, ਮਹਿਲਾਵਾਂ ਲਈ ₹1,000–₹1,500 ਸਕੀਮ, Ashirwad Scheme, Labour Card ਅਤੇ BOCW benefits ਲਈ eligibility, documents, form, apply online ਅਤੇ status check guidance ਇੱਕ ਥਾਂ ਵੇਖੋ।
           </p>
 
           <div className="hero-actions">
@@ -55,8 +54,17 @@ export default function PunjabiHomePage() {
         <div className="section-heading">
           <div>
             <p className="eyebrow green">ਪੰਜਾਬੀ ਗਾਈਡ</p>
-            <h2>ਸਕੀਮ ਚੁਣੋ</h2>
+            <h2>Punjab Government Schemes 2026 ਪੰਜਾਬੀ ਵਿੱਚ ਖੋਜੋ</h2>
           </div>
+        </div>
+
+        <div style={{ marginBottom: "2rem" }}>
+          <h2>ਪੰਜਾਬ ਵਿੱਚ ਲੋਕ ਸਭ ਤੋਂ ਵੱਧ ਕੀ ਖੋਜ ਰਹੇ ਹਨ?</h2>
+          <p>ਸਿੱਧਾ ਆਪਣੀ ਲੋੜ ਵਾਲੀ ਗਾਈਡ ਖੋਲ੍ਹੋ: <Link className="text-link" href="/pa/schemes/mukh-mantri-sehat-yojana-punjab">SHA Punjab eligibility check ਅਤੇ beneficiary search</Link>, {" "}
+          <Link className="text-link" href="/pa/schemes/old-age-pension-punjab">Old Age Pension Punjab status ਅਤੇ apply online</Link>, {" "}
+          <Link className="text-link" href="/pa/schemes/widow-destitute-pension-punjab">Widow Pension Punjab form ਅਤੇ status</Link>, {" "}
+          <Link className="text-link" href="/pa/schemes/aashirwad-scheme-punjab">Ashirwad Scheme Punjab ₹51,000 form/status</Link>, ਅਤੇ {" "}
+          <Link className="text-link" href="/pa/schemes/construction-worker-scholarship-punjab">Punjab BOCW scholarship / labour card benefits</Link>।</p>
         </div>
 
         <div className="scheme-grid">
