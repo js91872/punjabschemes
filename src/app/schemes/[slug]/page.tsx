@@ -38,6 +38,7 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
   const scheme = getScheme((await params).slug);
   if (!scheme) notFound();
   const guide = schemeGuides[scheme.slug];
+  const seo = schemeSeo[scheme.slug];
   const featuredImage = getSchemeImage(scheme.slug);
   const applicationGuide = getApplicationGuide(scheme).slice(0, 4);
   const deepDive = schemeDeepDives[scheme.slug];
@@ -92,7 +93,7 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
         </div>
       )}
       <p className="eyebrow">{scheme.category}</p>
-      <h1>{scheme.name}</h1>
+      <h1>{seo?.h1 ?? scheme.name}</h1>
       <p className="lead">{scheme.summary}</p>
       {featuredImage && <figure className="scheme-featured-image">
         <Image src={featuredImage.src} alt={featuredImage.alt} width={1200} height={800} priority sizes="(max-width: 812px) calc(100vw - 2rem), 780px" />
