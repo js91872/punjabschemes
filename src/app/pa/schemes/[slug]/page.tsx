@@ -76,7 +76,7 @@ export default async function PunjabiSchemePage({
       {
         "@type": "Article",
         inLanguage: "pa-IN",
-        headline: scheme.name,
+        headline: scheme.seoH1 ?? scheme.seoTitle,
         description: scheme.description,
         dateModified: scheme.lastReviewed,
         mainEntityOfPage: `${siteConfig.url}/pa/schemes/${slug}`,
@@ -147,7 +147,7 @@ export default async function PunjabiSchemePage({
 
       <p className="eyebrow">{scheme.category}</p>
 
-      <h1>{scheme.name}</h1>
+      <h1>{scheme.seoH1 ?? scheme.seoTitle}</h1>
 
       <p className="lead">{scheme.summary}</p>
 
@@ -176,17 +176,17 @@ export default async function PunjabiSchemePage({
         <strong>ਮੌਜੂਦਾ ਸਥਿਤੀ:</strong> {scheme.currentStatus}
       </div>
 
-      <h2>ਸਕੀਮ ਬਾਰੇ</h2>
+      <h2>{scheme.name} ਕੀ ਹੈ?</h2>
       <p>{scheme.summary}</p>
 
-      <h2>ਮੁੱਖ ਲਾਭ</h2>
+      <h2>{scheme.name} ਦੇ ਲਾਭ ਅਤੇ ਰਕਮ</h2>
       <ul>
         {scheme.benefitDetails.map((item) => (
           <li key={item}>{item}</li>
         ))}
       </ul>
 
-      <h2>ਕੌਣ ਯੋਗ ਹੋ ਸਕਦਾ ਹੈ?</h2>
+      <h2>{scheme.name} ਲਈ Eligibility — ਕੌਣ ਯੋਗ ਹੈ?</h2>
       <p>{scheme.beneficiaries}</p>
 
       <ul>
@@ -195,14 +195,14 @@ export default async function PunjabiSchemePage({
         ))}
       </ul>
 
-      <h2>ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼</h2>
+      <h2>{scheme.name} ਲਈ ਲੋੜੀਂਦੇ Documents</h2>
       <ul>
         {scheme.documents.map((item) => (
           <li key={item}>{item}</li>
         ))}
       </ul>
 
-      <h2>ਅਰਜ਼ੀ ਜਾਂ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਿਵੇਂ ਕਰੀਏ?</h2>
+      <h2>{scheme.name} Apply Online / Registration ਕਿਵੇਂ ਕਰੀਏ?</h2>
       <ol>
         {scheme.applicationMethods.map((item) => (
           <li key={item}>{item}</li>
@@ -225,7 +225,7 @@ export default async function PunjabiSchemePage({
       </section>
 
       <section className="faq-section">
-        <h2>ਅਕਸਰ ਪੁੱਛੇ ਜਾਣ ਵਾਲੇ ਸਵਾਲ</h2>
+        <h2>{scheme.name} ਬਾਰੇ FAQ — Status, Form, Eligibility ਅਤੇ Apply Online</h2>
 
         {scheme.faqs.map((faq) => (
           <details key={faq.question}>
