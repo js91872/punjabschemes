@@ -253,6 +253,15 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
 
     faqs: [
       {
+        question: "Punjab government ₹1000 scheme for women apply online ਕਿਵੇਂ ਕਰੀਏ?",
+        answer: "Registration ਦਾ current mode ਅਤੇ centre ਸਰਕਾਰੀ notification ਅਨੁਸਾਰ follow ਕਰੋ। Aadhaar, bank account ਅਤੇ eligibility documents ਤਿਆਰ ਰੱਖੋ; ਕਿਸੇ unofficial website ਨੂੰ OTP ਜਾਂ banking details ਨਾ ਦਿਓ।",
+      },
+      {
+        question: "Punjab ₹1500 women scheme payment status ਕਿਵੇਂ check ਕਰੀਏ?",
+        answer: "Payment ਨਾ ਆਉਣ ਉੱਤੇ ਪਹਿਲਾਂ Aadhaar-bank linkage, registration details ਅਤੇ eligibility verify ਕਰੋ ਅਤੇ ਫਿਰ scheme ਦੇ authorized department/registration channel ਤੋਂ payment status ਪੁੱਛੋ।",
+      },
+
+      {
         question: "ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਵਿੱਚ ਕਿੰਨੇ ਪੈਸੇ ਮਿਲਦੇ ਹਨ?",
         answer:
           "ਯੋਗ ਅਨੁਸੂਚਿਤ ਜਾਤੀ ਦੀ ਮਹਿਲਾ ਨੂੰ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ ਅਤੇ ਹੋਰ ਯੋਗ ਸ਼੍ਰੇਣੀਆਂ ਦੀ ਮਹਿਲਾ ਨੂੰ ₹1,000 ਪ੍ਰਤੀ ਮਹੀਨਾ ਮਿਲਦਾ ਹੈ।",
@@ -380,6 +389,15 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     ],
     faqs: [
       {
+        question: "SHA Punjab eligibility check online by Aadhaar number ਕਿਵੇਂ ਕਰੀਏ?",
+        answer: "SHA Punjab eligibility check ਜਾਂ beneficiary search ਲਈ ਸਿਰਫ਼ State Health Agency Punjab ਦੇ ਅਧਿਕਾਰਤ portal/authorized channel ਦੀ ਵਰਤੋਂ ਕਰੋ। PunjabSchemes Aadhaar database access ਨਹੀਂ ਕਰਦਾ; ਇੱਥੇ ਅਸੀਂ official eligibility route ਅਤੇ ਲੋੜੀਂਦੇ steps ਸਮਝਾਉਂਦੇ ਹਾਂ।",
+      },
+      {
+        question: "SHA Punjab health card download ਅਤੇ hospital list ਕਿੱਥੇ ਮਿਲੇਗੀ?",
+        answer: "Health card download ਅਤੇ empanelled hospital list ਲਈ SHA Punjab ਦੇ current official portal ਜਾਂ authorized registration point ਨੂੰ ਵਰਤੋ। ਇਲਾਜ ਤੋਂ ਪਹਿਲਾਂ hospital ਅਤੇ treatment package ਦੋਵੇਂ ਦੀ eligibility confirm ਕਰੋ।",
+      },
+
+      {
         question: "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਵਿੱਚ ਕਿੰਨਾ ਕਵਰ ਮਿਲਦਾ ਹੈ?",
         answer:
           "ਪੰਜਾਬ ਦੀ ਇਹ ਸਕੀਮ ਯੋਗ ਪਰਿਵਾਰ ਲਈ ਪ੍ਰਤੀ ਸਾਲ ₹10 ਲੱਖ ਤੱਕ ਨਕਦ-ਰਹਿਤ ਹਸਪਤਾਲੀ ਇਲਾਜ ਦਾ ਕਵਰ ਦੱਸਦੀ ਹੈ। ਇਹ ਸਿੱਧਾ ਨਕਦ ਭੁਗਤਾਨ ਨਹੀਂ ਹੈ।",
@@ -469,6 +487,15 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       "ਪੰਜਾਬ ਪੈਨਸ਼ਨ ਦੀ ਸਥਿਤੀ ਪਤਾ ਕਰਨ ਲਈ ਪਹਿਲਾਂ ਰਸੀਦ, ਅਰਜ਼ੀ ਨੰਬਰ ਅਤੇ ਅਰਜ਼ੀ ਵਿੱਚ ਦਿੱਤੇ ਬੈਂਕ ਖਾਤੇ ਦੇ ਵੇਰਵੇ ਤਿਆਰ ਰੱਖੋ। Punjab Connect ਜਾਂ ਅਰਜ਼ੀ ਲੈਣ ਵਾਲੇ ਸੇਵਾ ਕੇਂਦਰ ਤੋਂ ਪੁੱਛੋ ਕਿ ਮਾਮਲਾ ਦਸਤਾਵੇਜ਼ ਜਾਂਚ, ਸਥਾਨਕ ਤਸਦੀਕ, ਮਨਜ਼ੂਰੀ ਜਾਂ ਭੁਗਤਾਨ ਵਿੱਚੋਂ ਕਿਹੜੇ ਪੜਾਅ ਉੱਤੇ ਹੈ। ਬੈਂਕ ਵਿੱਚ ਰਕਮ ਨਾ ਆਉਣਾ ਆਪਣੇ ਆਪ ਇਹ ਨਹੀਂ ਦੱਸਦਾ ਕਿ ਅਰਜ਼ੀ ਲੰਬਿਤ ਹੈ ਜਾਂ ਰੱਦ।",
     ],
     faqs: [
+      {
+        question: "Old Age Pension Punjab status check online ਕਿਵੇਂ ਕਰੀਏ?",
+        answer: "Punjab ਦੀ official citizen-service system application ID ਨਾਲ status tracking ਦਿੰਦੀ ਹੈ। ਆਪਣੀ application receipt/reference number ਸੰਭਾਲੋ ਅਤੇ official Track Status service, Sewa Kendra ਜਾਂ state helpline ਰਾਹੀਂ ਸਥਿਤੀ ਚੈੱਕ ਕਰੋ।",
+      },
+      {
+        question: "Old Age Pension Punjab form PDF download ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ?",
+        answer: "ਮੌਜੂਦਾ Punjab service material Old Age Pension ਨੂੰ form-less service ਵਜੋਂ ਵੀ ਦਰਸਾਉਂਦਾ ਹੈ। ਇਸ ਲਈ ਕਿਸੇ ਪੁਰਾਣੇ PDF form ਨੂੰ download ਕਰਕੇ ਹੀ ਅਰਜ਼ੀ ਦੇਣ ਦੀ ਲੋੜ ਮੰਨਣ ਤੋਂ ਪਹਿਲਾਂ current official application route ਚੈੱਕ ਕਰੋ।",
+      },
+
       {
         question: "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਲਈ ਕੌਣ ਅਰਜ਼ੀ ਦੇ ਸਕਦਾ ਹੈ?",
         answer:
@@ -888,6 +915,15 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     ],
     faqs: [
       {
+        question: "Ashirwad Scheme Punjab status check ਕਿਵੇਂ ਕਰੀਏ?",
+        answer: "ਆਪਣੀ application/reference details ਨਾਲ current official Ashirwad portal ਜਾਂ department channel ਉੱਤੇ application status check ਕਰੋ। PunjabSchemes ਤੁਹਾਡਾ private application record ਨਹੀਂ ਵੇਖ ਸਕਦਾ।",
+      },
+      {
+        question: "Ashirwad Scheme Punjab form PDF ਅਤੇ login ਕਿੱਥੇ ਮਿਲਦਾ ਹੈ?",
+        answer: "Current application ਲਈ official Ashirwad portal ਨੂੰ ਪਹਿਲ ਦਿਓ। ਪੁਰਾਣੇ downloadable forms ਵਿੱਚ benefit amount ਜਾਂ rules outdated ਹੋ ਸਕਦੇ ਹਨ, ਇਸ ਲਈ form PDF ਵਰਤਣ ਤੋਂ ਪਹਿਲਾਂ current portal instructions verify ਕਰੋ।",
+      },
+
+      {
         question: "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਵਿੱਚ ਕਿੰਨੇ ਪੈਸੇ ਮਿਲਦੇ ਹਨ?",
         answer:
           "ਪੰਜਾਬ ਸਰਕਾਰ ਦੀ ਮੌਜੂਦਾ ਸਮੱਗਰੀ ਯੋਗ ਲਾਭਪਾਤਰੀ ਲਈ ₹51,000 ਵਿਆਹ ਸਹਾਇਤਾ ਦੱਸਦੀ ਹੈ।",
@@ -1137,6 +1173,15 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       "ਵਿਦਿਆਰਥੀ ਦੇ ਦਾਖ਼ਲੇ ਅਤੇ ਪਿਛਲੀ ਜਮਾਤ ਦੇ ਅਧੂਰੇ ਸਬੂਤ ਨਾਲ ਅਰਜ਼ੀ ਦੀ ਜਾਂਚ ਵਿੱਚ ਦੇਰੀ ਹੋ ਸਕਦੀ ਹੈ।",
     ],
     faqs: [
+      {
+        question: "Punjab BOCW scholarship status check ਕਿਵੇਂ ਕਰੀਏ?",
+        answer: "Scholarship application ਦੀ receipt/reference details ਸੰਭਾਲੋ ਅਤੇ BOCW Punjab ਦੇ authorized service channel ਰਾਹੀਂ status check ਕਰੋ। Labour card registration active ਹੋਣਾ ਅਤੇ contribution record ਸਹੀ ਹੋਣਾ claim processing ਲਈ ਮਹੱਤਵਪੂਰਨ ਹੋ ਸਕਦਾ ਹੈ।",
+      },
+      {
+        question: "Punjab BOCW scholarship form ਅਤੇ last date ਕਿੱਥੋਂ check ਕਰੀਏ?",
+        answer: "BOCW scholarship form, current academic-session deadline ਅਤੇ rates ਲਈ Punjab BOCW Board ਦੀ latest notification/portal ਨੂੰ follow ਕਰੋ। ਪੁਰਾਣੀ last date ਨੂੰ ਨਵੇਂ session ਲਈ assume ਨਾ ਕਰੋ।",
+      },
+
       {
         question: "BOCW ਵਜ਼ੀਫ਼ਾ ਕਿਸਦੇ ਬੱਚਿਆਂ ਲਈ ਹੈ?",
         answer:
