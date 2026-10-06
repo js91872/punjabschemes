@@ -2,6 +2,7 @@ export type PunjabiScheme = {
   slug: string;
   name: string;
   seoTitle: string;
+  seoH1?: string;
   description: string;
   summary: string;
   category: string;
@@ -29,7 +30,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     name: "ਪੰਜਾਬ 5 ਮਰਲਾ ਪਲਾਟ ਸਕੀਮ",
 
     seoTitle:
-      "ਪੰਜਾਬ 5 ਮਰਲਾ ਪਲਾਟ ਸਕੀਮ 2026: ਯੋਗਤਾ, ਅਰਜ਼ੀ, ਨਿਯਮ ਅਤੇ ਤਾਜ਼ਾ ਜਾਣਕਾਰੀ",
+      "ਪੰਜਾਬ 5 ਮਰਲਾ ਪਲਾਟ ਸਕੀਮ 2026: Apply Online, ਯੋਗਤਾ, Beneficiary List ਅਤੇ Status",
 
     description:
       "ਪੰਜਾਬ 5 ਮਰਲਾ ਪਲਾਟ ਸਕੀਮ ਬਾਰੇ ਯੋਗਤਾ, ਮੁਫ਼ਤ ਰਿਹਾਇਸ਼ੀ ਪਲਾਟ, ਗ੍ਰਾਮ ਸਭਾ ਪ੍ਰਕਿਰਿਆ, ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼, ਅਰਜ਼ੀ ਅਤੇ 2026 ਦੀ ਤਾਜ਼ਾ ਸਥਿਤੀ ਜਾਣੋ।",
@@ -174,7 +175,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     name: "ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ",
 
     seoTitle:
-      "ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ 2026: ₹1,000/₹1,500, ਯੋਗਤਾ, ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਤੇ ਭੁਗਤਾਨ",
+      "Punjab Govt ₹1000 Scheme for Women 2026 ਪੰਜਾਬੀ: ₹1,000/₹1,500, ਯੋਗਤਾ ਅਤੇ Registration",
 
     description:
       "ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਪੰਜਾਬ 2026 ਬਾਰੇ ₹1,000/₹1,500 ਮਹੀਨਾਵਾਰ ਸਹਾਇਤਾ, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਰਜਿਸਟ੍ਰੇਸ਼ਨ, DBT ਅਤੇ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
@@ -323,7 +324,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "mukh-mantri-sehat-yojana-punjab",
     name: "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ",
     seoTitle:
-      "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ 2026: ₹10 ਲੱਖ ਕੈਸ਼ਲੈੱਸ ਇਲਾਜ, ਕਾਰਡ ਅਤੇ ਯੋਗਤਾ",
+      "SHA Punjab 2026 ਪੰਜਾਬੀ: ਯੋਗਤਾ ਚੈੱਕ, Beneficiary Search, Health Card ਅਤੇ ₹10 ਲੱਖ ਇਲਾਜ",
     description:
       "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ 2026 ਹੇਠ ₹10 ਲੱਖ ਤੱਕ ਕੈਸ਼ਲੈੱਸ ਹਸਪਤਾਲ ਇਲਾਜ, ਸਿਹਤ ਕਾਰਡ, ਰਜਿਸਟ੍ਰੇਸ਼ਨ, ਯੋਗਤਾ ਅਤੇ ਹਸਪਤਾਲ ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
     summary:
@@ -417,7 +418,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "old-age-pension-punjab",
     name: "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਸਕੀਮ",
     seoTitle:
-      "ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਅਰਜ਼ੀ ਅਤੇ ਸਟੇਟਸ",
+      "ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: Status Check, Apply Online, Form, ਰਕਮ ਅਤੇ ਉਮਰ",
     description:
       "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ 2026 ਲਈ ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਅਰਜ਼ੀ ਜਾਂ ਲਾਭਪਾਤਰੀ ਦੀ ਸਥਿਤੀ ਅਧਿਕਾਰਤ ਤਰੀਕੇ ਨਾਲ ਪਤਾ ਕਰਨ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -508,7 +509,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "widow-destitute-pension-punjab",
     name: "ਪੰਜਾਬ ਵਿਧਵਾ ਅਤੇ ਬੇਸਹਾਰਾ ਮਹਿਲਾ ਪੈਨਸ਼ਨ",
     seoTitle:
-      "ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਅਰਜ਼ੀ ਅਤੇ ਸਟੇਟਸ",
+      "ਵਿਧਵਾ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: Apply Online, Form, ਰਕਮ, ਯੋਗਤਾ ਅਤੇ Status Check",
     description:
       "ਪੰਜਾਬ ਵਿਧਵਾ ਅਤੇ ਬੇਸਹਾਰਾ ਮਹਿਲਾ ਪੈਨਸ਼ਨ 2026 ਲਈ ਯੋਗਤਾ, ਮੌਤ ਸਰਟੀਫਿਕੇਟ, ਤਲਾਕ ਜਾਂ ਲਾਪਤਾ ਪਤੀ ਦੇ ਸਬੂਤ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -591,7 +592,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "dependent-children-pension-punjab",
     name: "ਪੰਜਾਬ ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਦੀ ਪੈਨਸ਼ਨ ਸਕੀਮ",
     seoTitle:
-      "ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਦੀ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ",
+      "ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਦੀ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ₹1,500, Apply Online, Form ਅਤੇ Status",
     description:
       "ਪੰਜਾਬ ਆਸ਼ਰਿਤ ਬੱਚਿਆਂ ਦੀ ਪੈਨਸ਼ਨ 2026 ਲਈ ਸਰਪ੍ਰਸਤ, ਮਾਂ ਜਾਂ ਪਿਤਾ ਵੱਲੋਂ ਅਰਜ਼ੀ, ਜਨਮ ਸਬੂਤ ਅਤੇ ਮਾਪਿਆਂ ਦੀ ਮੌਤ ਜਾਂ ਦਿਵਿਆਂਗਤਾ ਦੇ ਦਸਤਾਵੇਜ਼ਾਂ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -669,7 +670,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "disabled-person-pension-punjab",
     name: "ਪੰਜਾਬ ਦਿਵਿਆਂਗ ਵਿਅਕਤੀ ਪੈਨਸ਼ਨ ਸਕੀਮ",
     seoTitle:
-      "ਦਿਵਿਆਂਗ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ",
+      "Disability Pension Punjab 2026 ਪੰਜਾਬੀ: ₹1,500, Handicap Pension Form ਅਤੇ Apply Online",
     description:
       "ਪੰਜਾਬ ਦਿਵਿਆਂਗ ਵਿਅਕਤੀ ਪੈਨਸ਼ਨ 2026 ਲਈ ਦਿਵਿਆਂਗਤਾ ਸਰਟੀਫਿਕੇਟ, ਮਾਪੇ ਜਾਂ ਸਰਪ੍ਰਸਤ ਵੱਲੋਂ ਅਰਜ਼ੀ, ਆਮਦਨ ਤੇ ਜਾਇਦਾਦ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਦਸਤਾਵੇਜ਼ਾਂ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -750,7 +751,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "national-family-benefit-scheme-punjab",
     name: "ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰਕ ਲਾਭ ਸਕੀਮ ਪੰਜਾਬ",
     seoTitle:
-      "ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰਕ ਲਾਭ ਸਕੀਮ ਪੰਜਾਬ 2026: ਯੋਗਤਾ, BPL, ਮੌਤ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਅਰਜ਼ੀ",
+      "National Family Benefit Scheme Punjab 2026 ਪੰਜਾਬੀ: BPL Eligibility, Form ਅਤੇ Apply Online",
     description:
       "ਪੰਜਾਬ ਰਾਸ਼ਟਰੀ ਪਰਿਵਾਰਕ ਲਾਭ ਸਕੀਮ ਲਈ ਮੁੱਖ ਕਮਾਊ ਮੈਂਬਰ ਦੀ ਮੌਤ, BPL ਪਰਿਵਾਰ ਦੀ ਯੋਗਤਾ, ਮੌਤ ਸਰਟੀਫਿਕੇਟ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -831,7 +832,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "aashirwad-scheme-punjab",
     name: "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ",
     seoTitle:
-      "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ 2026: ₹51,000, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਸਥਿਤੀ",
+      "Ashirwad Scheme Punjab 2026 ਪੰਜਾਬੀ: ₹51,000, Form PDF, Login, Apply Online ਅਤੇ Status",
     description:
       "ਪੰਜਾਬ ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ 2026 ਹੇਠ ₹51,000 ਵਿਆਹ ਸਹਾਇਤਾ, ਦੁਲਹਨ ਦੀ ਯੋਗਤਾ, ਆਮਦਨ ਤੇ ਸ਼੍ਰੇਣੀ ਦੇ ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਸਥਿਤੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -1006,7 +1007,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "construction-worker-shagun-scheme-punjab",
     name: "ਪੰਜਾਬ BOCW ਸ਼ਗਨ ਸਕੀਮ",
     seoTitle:
-      "ਪੰਜਾਬ BOCW ਸ਼ਗਨ ਸਕੀਮ 2026: ₹31,000, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ",
+      "Punjab Shagun Scheme 2026 ਪੰਜਾਬੀ: ₹31,000, Form Download, Status ਅਤੇ Time Period",
     description:
       "ਪੰਜਾਬ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਸ਼ਗਨ ਸਕੀਮ ਲਈ ₹31,000 ਵਿਆਹ ਸਹਾਇਤਾ, ਰਜਿਸਟਰਡ ਮਜ਼ਦੂਰ ਦੀ ਯੋਗਤਾ, ਧੀ ਦੇ ਵਿਆਹ ਦੇ ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -1087,7 +1088,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "construction-worker-scholarship-punjab",
     name: "ਪੰਜਾਬ BOCW ਸਿੱਖਿਆ ਵਜ਼ੀਫ਼ਾ ਸਕੀਮ",
     seoTitle:
-      "ਪੰਜਾਬ BOCW ਸਿੱਖਿਆ ਵਜ਼ੀਫ਼ਾ 2026: ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚਿਆਂ ਲਈ ਯੋਗਤਾ ਅਤੇ ਅਰਜ਼ੀ",
+      "Punjab BOCW Scholarship 2026 ਪੰਜਾਬੀ: Form, Status Check, Last Date ਅਤੇ Amount",
     description:
       "ਪੰਜਾਬ BOCW ਵਜ਼ੀਫ਼ਾ ਸਕੀਮ ਲਈ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਸਕੂਲ ਤੋਂ ਡਿਗਰੀ ਪੱਧਰ ਤੱਕ ਸਿੱਖਿਆ ਸਹਾਇਤਾ, ਦਸਤਾਵੇਜ਼, ਦਰਾਂ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -1167,7 +1168,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "construction-worker-maternity-benefit-punjab",
     name: "ਪੰਜਾਬ BOCW ਮਾਤਰਿਤਵ ਲਾਭ ਸਕੀਮ",
     seoTitle:
-      "ਪੰਜਾਬ BOCW ਮਾਤਰਿਤਵ ਲਾਭ 2026: ₹21,000/₹5,000, ਯੋਗਤਾ ਅਤੇ ਦਸਤਾਵੇਜ਼",
+      "Punjab BOCW Maternity Benefit 2026 ਪੰਜਾਬੀ: ₹21,000, Form, Eligibility ਅਤੇ Apply",
     description:
       "ਪੰਜਾਬ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਮਾਤਰਿਤਵ ਲਾਭ ਸਕੀਮ ਹੇਠ ਮਹਿਲਾ ਮਜ਼ਦੂਰ ਲਈ ₹21,000 ਅਤੇ ਯੋਗ ਪੁਰਸ਼ ਮਜ਼ਦੂਰ ਦੇ ਪਤਨੀ-ਸੰਬੰਧੀ ਮਾਮਲੇ ਲਈ ₹5,000 ਦੀ ਇਤਿਹਾਸਕ ਬੋਰਡ ਰਕਮ, ਦਸਤਾਵੇਜ਼ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
@@ -1246,7 +1247,7 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     slug: "construction-worker-tools-kit-punjab",
     name: "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ",
     seoTitle:
-      "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ 2026: ₹5,000 ਖਰਚ ਵਾਪਸੀ, ਯੋਗਤਾ ਅਤੇ ਅਰਜ਼ੀ",
+      "Punjab BOCW Tool Kit Scheme 2026 ਪੰਜਾਬੀ: ₹5,000, Eligibility, Form ਅਤੇ Claim",
     description:
       "ਪੰਜਾਬ BOCW ਟੂਲ ਕਿੱਟ ਸਕੀਮ ਹੇਠ ਯੋਗ ਸਿਖਲਾਈ ਪ੍ਰਾਪਤ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਲਈ ਔਜ਼ਾਰਾਂ ਦੇ ਖਰਚ ਦੀ ਵਾਪਸੀ, ₹5,000 ਦੀ ਇਤਿਹਾਸਕ ਹੱਦ, ਸਿਖਲਾਈ ਦੀਆਂ ਸ਼ਰਤਾਂ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
     summary:
