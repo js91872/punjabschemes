@@ -178,10 +178,10 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
       "Punjab Govt ₹1000 Scheme for Women 2026 ਪੰਜਾਬੀ: ₹1,000/₹1,500, ਯੋਗਤਾ ਅਤੇ Registration",
 
     description:
-      "ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਪੰਜਾਬ 2026 ਬਾਰੇ ₹1,000/₹1,500 ਮਹੀਨਾਵਾਰ ਸਹਾਇਤਾ, ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਰਜਿਸਟ੍ਰੇਸ਼ਨ, DBT ਅਤੇ ਭੁਗਤਾਨ ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "Punjab government ₹1000 scheme for women 2026 ਪੰਜਾਬੀ: ₹1,000/₹1,500 monthly benefit, eligibility, registration, documents, Aadhaar-linked DBT ਅਤੇ payment status guidance।",
 
     summary:
-      "ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਪੰਜਾਬ ਸਰਕਾਰ ਦੀ ਮਹੀਨਾਵਾਰ ਵਿੱਤੀ ਸਹਾਇਤਾ ਸਕੀਮ ਹੈ। ਯੋਗ 18 ਸਾਲ ਜਾਂ ਇਸ ਤੋਂ ਵੱਧ ਉਮਰ ਦੀਆਂ ਮਹਿਲਾਵਾਂ ਨੂੰ ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ₹1,000 ਜਾਂ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ Aadhaar ਨਾਲ ਜੁੜੇ ਬੈਂਕ ਖਾਤੇ ਵਿੱਚ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।",
+      "Punjab government ₹1000 scheme for women, Punjab govt scheme for ladies ਜਾਂ ₹1500 women scheme ਖੋਜਣ ਵਾਲਿਆਂ ਲਈ ਇਹ ਮੁੱਖ ਮੰਤਰੀ ਮਾਵਾਂ ਧੀਆਂ ਸਤਿਕਾਰ ਯੋਜਨਾ ਦੀ ਪੰਜਾਬੀ ਗਾਈਡ ਹੈ। ਯੋਗ 18+ ਮਹਿਲਾਵਾਂ ਨੂੰ ਸ਼੍ਰੇਣੀ ਅਨੁਸਾਰ ₹1,000 ਜਾਂ ₹1,500 ਪ੍ਰਤੀ ਮਹੀਨਾ DBT ਰਾਹੀਂ Aadhaar-linked bank account ਵਿੱਚ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ।",
 
     category: "ਮਹਿਲਾਵਾਂ ਅਤੇ ਪਰਿਵਾਰ",
 
@@ -326,9 +326,9 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     seoTitle:
       "SHA Punjab 2026 ਪੰਜਾਬੀ: ਯੋਗਤਾ ਚੈੱਕ, Beneficiary Search, Health Card ਅਤੇ ₹10 ਲੱਖ ਇਲਾਜ",
     description:
-      "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ 2026 ਹੇਠ ₹10 ਲੱਖ ਤੱਕ ਕੈਸ਼ਲੈੱਸ ਹਸਪਤਾਲ ਇਲਾਜ, ਸਿਹਤ ਕਾਰਡ, ਰਜਿਸਟ੍ਰੇਸ਼ਨ, ਯੋਗਤਾ ਅਤੇ ਹਸਪਤਾਲ ਜਾਣਕਾਰੀ ਪੰਜਾਬੀ ਵਿੱਚ।",
+      "SHA Punjab 2026 ਪੰਜਾਬੀ ਗਾਈਡ: eligibility check online, beneficiary search by Aadhaar number, status check, health card download, hospital list ਅਤੇ ₹10 ਲੱਖ cashless treatment ਬਾਰੇ ਜਾਣੋ।",
     summary:
-      "ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ ਦੇ ਯੋਗ ਵਸਨੀਕ ਪਰਿਵਾਰਾਂ ਨੂੰ ਪ੍ਰਤੀ ਸਾਲ ₹10 ਲੱਖ ਤੱਕ ਨਕਦ-ਰਹਿਤ ਹਸਪਤਾਲ ਇਲਾਜ ਦਾ ਕਵਰ ਦਿੰਦੀ ਹੈ। ਇਲਾਜ ਸਿਰਫ਼ ਯੋਗ ਪੈਕੇਜ ਅਤੇ ਸਕੀਮ ਨਾਲ ਸੂਚੀਬੱਧ ਸਰਕਾਰੀ ਜਾਂ ਨਿੱਜੀ ਹਸਪਤਾਲ ਵਿੱਚ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਹੁੰਦਾ ਹੈ।",
+      "ਜੇ ਤੁਸੀਂ SHA Punjab eligibility check online, SHA Punjab beneficiary search, Aadhaar number ਨਾਲ eligibility, health card download ਜਾਂ hospital list ਖੋਜ ਰਹੇ ਹੋ, ਇਹ ਗਾਈਡ ਮੁੱਖ ਮੰਤਰੀ ਸਿਹਤ ਯੋਜਨਾ ਪੰਜਾਬ ਦੀ ਪ੍ਰਕਿਰਿਆ ਸਮਝਾਉਂਦੀ ਹੈ। ਯੋਗ ਪਰਿਵਾਰਾਂ ਲਈ ਪ੍ਰਤੀ ਸਾਲ ₹10 ਲੱਖ ਤੱਕ cashless hospital treatment ਕਵਰ ਹੈ, ਜੋ ਮਨਜ਼ੂਰ ਪੈਕੇਜ ਅਤੇ empanelled hospital ਵਿੱਚ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਮਿਲਦਾ ਹੈ।",
     category: "ਸਿਹਤ",
     beneficiaries:
       "ਪੰਜਾਬ ਦੇ ਅਸਲ ਵਸਨੀਕ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਪਰਿਵਾਰ, ਜਿਨ੍ਹਾਂ ਦੀ ਪਛਾਣ, ਰਹਾਇਸ਼ ਅਤੇ ਪਰਿਵਾਰਕ ਵੇਰਵੇ ਮੌਜੂਦਾ State Health Agency ਪ੍ਰਕਿਰਿਆ ਅਨੁਸਾਰ ਸਹੀ ਪਾਏ ਜਾਂਦੇ ਹਨ।",
@@ -420,9 +420,9 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     seoTitle:
       "ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਪੰਜਾਬ 2026: Status Check, Apply Online, Form, ਰਕਮ ਅਤੇ ਉਮਰ",
     description:
-      "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ 2026 ਲਈ ਯੋਗਤਾ, ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਅਰਜ਼ੀ ਜਾਂ ਲਾਭਪਾਤਰੀ ਦੀ ਸਥਿਤੀ ਅਧਿਕਾਰਤ ਤਰੀਕੇ ਨਾਲ ਪਤਾ ਕਰਨ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
+      "Old Age Pension Punjab 2026 ਪੰਜਾਬੀ ਗਾਈਡ: pension status check, apply online, age limit, documents, beneficiary status, form guidance, pension amount ਅਤੇ official tracking route ਜਾਣੋ।",
     summary:
-      "ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਇੱਕ ਸਮਾਜਿਕ ਸੁਰੱਖਿਆ ਸੇਵਾ ਹੈ ਜਿਸ ਅਧੀਨ ਯੋਗ ਵੱਡੀ ਉਮਰ ਦੇ ਪੰਜਾਬ ਵਸਨੀਕਾਂ ਦੀ ਉਮਰ, ਰਹਾਇਸ਼, ਆਮਦਨ, ਸੰਪਤੀ ਅਤੇ ਹੋਰ ਮੌਜੂਦਾ ਨਿਯਮਾਂ ਅਨੁਸਾਰ ਜਾਂਚ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।",
+      "Old Age Pension Punjab status check, online apply, age limit, pension form ਜਾਂ beneficiary status ਖੋਜਣ ਵਾਲਿਆਂ ਲਈ ਇਹ ਪੰਜਾਬੀ ਗਾਈਡ ਹੈ। ਪੰਜਾਬ ਬੁਢਾਪਾ ਪੈਨਸ਼ਨ ਵਿੱਚ ਉਮਰ, ਰਹਾਇਸ਼, ਆਮਦਨ, ਸੰਪਤੀ ਅਤੇ ਹੋਰ ਮੌਜੂਦਾ ਯੋਗਤਾ ਨਿਯਮਾਂ ਦੀ ਜਾਂਚ ਹੁੰਦੀ ਹੈ; official service route ਰਾਹੀਂ application status ਵੀ track ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।",
     category: "ਪੈਨਸ਼ਨ",
     beneficiaries:
       "ਪੰਜਾਬ ਦੇ ਵੱਡੀ ਉਮਰ ਦੇ ਉਹ ਵਸਨੀਕ ਜਿਨ੍ਹਾਂ ਦੀ ਅਰਜ਼ੀ ਵਿਭਾਗ ਦੇ ਮੌਜੂਦਾ ਉਮਰ, ਰਹਾਇਸ਼, ਆਮਦਨ ਅਤੇ ਜਾਇਦਾਦ ਜਾਂਚ ਦੇ ਨਿਯਮ ਪੂਰੇ ਕਰਦੀ ਹੈ।",
@@ -834,9 +834,9 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     seoTitle:
       "Ashirwad Scheme Punjab 2026 ਪੰਜਾਬੀ: ₹51,000, Form PDF, Login, Apply Online ਅਤੇ Status",
     description:
-      "ਪੰਜਾਬ ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ 2026 ਹੇਠ ₹51,000 ਵਿਆਹ ਸਹਾਇਤਾ, ਦੁਲਹਨ ਦੀ ਯੋਗਤਾ, ਆਮਦਨ ਤੇ ਸ਼੍ਰੇਣੀ ਦੇ ਦਸਤਾਵੇਜ਼, ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਅਤੇ ਸਥਿਤੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
+      "Ashirwad Scheme Punjab 2026 ਪੰਜਾਬੀ: ₹51,000 amount, eligibility, form PDF guidance, portal login, apply online, documents, helpline ਅਤੇ application status check ਜਾਣਕਾਰੀ।",
     summary:
-      "ਆਸ਼ੀਰਵਾਦ ਸਕੀਮ ਪੰਜਾਬ ਦੇ ਘੱਟ ਆਮਦਨ ਵਾਲੇ ਪਰਿਵਾਰਾਂ ਦੀਆਂ ਮੰਨੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਦੀਆਂ ਯੋਗ ਮਹਿਲਾਵਾਂ ਲਈ ਵਿਆਹ ਸਹਾਇਤਾ ਹੈ। ਮੌਜੂਦਾ ਸਰਕਾਰੀ ਜਾਣਕਾਰੀ ਅਨੁਸਾਰ ਯੋਗ ਲਾਭਪਾਤਰੀ ਨੂੰ ₹51,000 ਸਿੱਧੇ ਲਾਭ ਤਬਾਦਲੇ (DBT) ਰਾਹੀਂ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ।",
+      "Ashirwad Scheme Punjab form PDF, login, apply online ਜਾਂ status check ਖੋਜ ਰਹੇ ਪਰਿਵਾਰਾਂ ਲਈ ਇਹ ਪੰਜਾਬੀ ਗਾਈਡ ਹੈ। ਘੱਟ ਆਮਦਨ ਵਾਲੇ ਯੋਗ ਪਰਿਵਾਰਾਂ ਦੀਆਂ ਮੰਨੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਦੀਆਂ ਮਹਿਲਾਵਾਂ ਲਈ ਮੌਜੂਦਾ ਸਰਕਾਰੀ ਜਾਣਕਾਰੀ ਅਨੁਸਾਰ ₹51,000 marriage assistance DBT ਰਾਹੀਂ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ।",
     category: "ਮਹਿਲਾਵਾਂ ਅਤੇ ਵਿਆਹ ਸਹਾਇਤਾ",
     beneficiaries:
       "18 ਸਾਲ ਜਾਂ ਇਸ ਤੋਂ ਵੱਧ ਉਮਰ ਦੀ ਯੋਗ ਦੁਲਹਨ ਜੋ ਪੰਜਾਬ ਦੀ ਵਸਨੀਕ ਹੋਵੇ ਅਤੇ ਮੰਨੀ ਸ਼੍ਰੇਣੀ ਤੇ ਮੌਜੂਦਾ ਪਰਿਵਾਰਕ ਆਮਦਨ ਦੀਆਂ ਸ਼ਰਤਾਂ ਪੂਰੀ ਕਰਦੀ ਹੋਵੇ। ਮੰਨੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਵਿੱਚ SC, ਈਸਾਈ, BC ਅਤੇ ਆਰਥਿਕ ਤੌਰ ਉੱਤੇ ਕਮਜ਼ੋਰ ਵਰਗ ਸਮੇਤ ਕੁਝ ਹੋਰ ਨਿਰਧਾਰਤ ਮਾਮਲੇ ਸ਼ਾਮਲ ਹਨ।",
@@ -1090,9 +1090,9 @@ export const punjabiSchemes: Record<string, PunjabiScheme> = {
     seoTitle:
       "Punjab BOCW Scholarship 2026 ਪੰਜਾਬੀ: Form, Status Check, Last Date ਅਤੇ Amount",
     description:
-      "ਪੰਜਾਬ BOCW ਵਜ਼ੀਫ਼ਾ ਸਕੀਮ ਲਈ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਸਕੂਲ ਤੋਂ ਡਿਗਰੀ ਪੱਧਰ ਤੱਕ ਸਿੱਖਿਆ ਸਹਾਇਤਾ, ਦਸਤਾਵੇਜ਼, ਦਰਾਂ ਅਤੇ ਅਰਜ਼ੀ ਬਾਰੇ ਪੰਜਾਬੀ ਜਾਣਕਾਰੀ।",
+      "Punjab BOCW scholarship 2026 ਪੰਜਾਬੀ: labour card family scholarship form, scholarship amount, last date guidance, documents, BOCW scholarship status check ਅਤੇ application process ਜਾਣੋ।",
     summary:
-      "ਪੰਜਾਬ BOCW ਭਲਾਈ ਬੋਰਡ ਯੋਗ ਰਜਿਸਟਰਡ ਉਸਾਰੀ ਮਜ਼ਦੂਰਾਂ ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਸਕੂਲ ਤੋਂ ਡਿਗਰੀ ਪੱਧਰ ਤੱਕ ਪੜ੍ਹਾਈ ਲਈ ਸਹਾਇਤਾ ਦਿੰਦਾ ਹੈ। ਕੁਝ ਕੋਰਸਾਂ ਅਤੇ ਹੋਸਟਲ ਵਿੱਚ ਰਹਿੰਦੇ ਵਿਦਿਆਰਥੀਆਂ ਲਈ ਵੱਧ ਸਹਾਇਤਾ ਦਰਜ ਹੈ।",
+      "Punjab labour card scholarship, BOCW Punjab scholarship form, labour scholarship last date ਜਾਂ BOCW scholarship status check ਖੋਜਣ ਵਾਲੇ ਉਸਾਰੀ ਮਜ਼ਦੂਰ ਪਰਿਵਾਰਾਂ ਲਈ ਇਹ ਪੰਜਾਬੀ ਗਾਈਡ ਹੈ। ਯੋਗ registered construction workers ਦੇ ਬੱਚਿਆਂ ਨੂੰ ਸਕੂਲ ਤੋਂ degree level ਤੱਕ education assistance ਮਿਲ ਸਕਦੀ ਹੈ ਅਤੇ ਕੁਝ courses ਜਾਂ hostel students ਲਈ ਵੱਖ ਦਰਾਂ ਹੋ ਸਕਦੀਆਂ ਹਨ।",
     category: "ਨਿਰਮਾਣ ਮਜ਼ਦੂਰ ਅਤੇ ਵਿਦਿਆਰਥੀ",
     beneficiaries:
       "ਰਜਿਸਟਰਡ ਪੰਜਾਬ BOCW ਲਾਭਪਾਤਰੀ ਦੇ ਯੋਗ ਬੱਚੇ ਜੋ ਨਿਰਧਾਰਤ ਸਕੂਲ, ਕਾਲਜ ਜਾਂ ਕੋਰਸ ਵਿੱਚ ਪੜ੍ਹ ਰਹੇ ਹਨ। ਵਿਸਥਾਰਤ ਸਕੀਮ ਕੁਝ ਰਜਿਸਟਰਡ ਲਾਭਪਾਤਰੀਆਂ ਦੀ ਸ਼ਾਮ ਦੀਆਂ ਜਮਾਤਾਂ ਵਿੱਚ ਪੜ੍ਹਾਈ ਨੂੰ ਵੀ ਸ਼ਾਮਲ ਕਰਦੀ ਹੈ।",
