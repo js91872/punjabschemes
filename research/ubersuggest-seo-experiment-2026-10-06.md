@@ -60,3 +60,26 @@ Rule: Preserve existing indexed scheme URLs. Use exact and close long-tail phras
 3. Exact-match phrases may be used aggressively, but each use should answer a real sub-intent.
 4. Avoid creating multiple URLs for the same intent until the pillar page becomes too broad; prevent cannibalization.
 5. Track GSC at 7, 14, 28 and 60 days after deployment: impressions, clicks, CTR, average position, query count and page count.
+
+## Batch 2 additions
+
+| Cluster | Keyword | Volume/mo | SD | Target |
+|---|---|---:|---:|---|
+| Labour card / BOCW | punjab labour card status check online | 4,400 | 22 | /categories/construction-workers |
+| BOCW scholarship | bocw punjab gov in scholarship | 390 | 32 | /schemes/construction-worker-scholarship-punjab |
+| BOCW contact | bocw punjab contact number | 390 | 18 | /categories/construction-workers |
+| BOCW scholarship | labour scholarship last date | 390 | 16 | /schemes/construction-worker-scholarship-punjab |
+| BOCW scholarship | bocw scholarship status check | 260 | 44 | /schemes/construction-worker-scholarship-punjab |
+| Shagun | punjab shagun scheme | 170 | 13 | /schemes/construction-worker-shagun-scheme-punjab |
+| Shagun | punjab govt shagun scheme helpline number | 70 | 5 | same |
+| Shagun | shagun scheme punjab time period | 40 | 5 | same |
+| Shagun | punjab shagun scheme amount | 30 | 5 | same |
+| Shagun | punjab shagun scheme status check | 20 | 5 | same |
+| Disability | forms for disability pension | 210 | 5 | /schemes/disabled-person-pension-punjab |
+| Disability | disabled pension amount | 110 | 13 | same |
+| Disability | disabled pension form punjab | 20 | 5 | same |
+| Disability | handicapped pension in punjab form | 20 | 5 | same |
+| Family benefit | national family benefit scheme for bpl families | 140 | 5 | /schemes/national-family-benefit-scheme-punjab |
+| Family benefit | national family benefit scheme pdf | 70 | 5 | same |
+| Family benefit | national family benefit scheme apply online | 50 | 5 | same |
+| Family benefit | national family benefit scheme eligibility | 40 | 5 | same |
