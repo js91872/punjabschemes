@@ -29,8 +29,8 @@ const homepageFaqs = [
 ];
 
 export const metadata: Metadata = {
-  title: { absolute: "Punjab Government Schemes 2026 – Punjab, India" },
-  description: "Explore Punjab Government schemes in Punjab, India: pensions, scholarships, health, housing, financial assistance and welfare benefits with official links.",
+  title: { absolute: "Punjab Government Schemes 2026: Apply Online, Eligibility, Status & Latest Schemes" },
+  description: "Punjab Government Schemes 2026 for Punjab, India: find latest schemes, apply online guidance, eligibility, documents, pension status, women schemes, health card and welfare benefits.",
   alternates: {
     canonical: "/",
     languages: { "en-IN": "/", "pa-IN": "/pa", "x-default": "/" },
@@ -85,8 +85,8 @@ export default function Home() {
         <div className="container hero-grid">
           <div>
             <p className="eyebrow">Punjab, India welfare schemes explained clearly</p>
-            <h1>Punjab Government Schemes 2026 – Punjab, India</h1>
-            <p className="lead">Explore pensions, scholarships, women and children schemes, health and housing schemes, construction worker support, financial assistance and other welfare benefits from the Government of Punjab, India. Check eligibility, documents and official application links—without the jargon.</p>
+            <h1>Punjab Government Schemes 2026 – Latest Schemes, Apply Online, Eligibility & Status</h1>
+            <p className="lead">Find Punjab Government Schemes 2026 for Punjab, India, including old age pension, widow pension, schemes for women, SHA Punjab health-card guidance, Ashirwad Scheme, construction-worker benefits and the 5 Marla Plot Scheme. Check eligibility, documents, apply-online routes, forms and status guidance in simple language.</p>
             <div className="hero-actions"><Link className="button button-light" href="/schemes">Find a scheme</Link><Link className="button button-ghost" href="/about">How we verify information</Link></div>
           </div>
           <aside className="hero-panel" aria-label="Portal highlights">
@@ -110,6 +110,15 @@ export default function Home() {
         </div>
       </section>
       <section className="featured-section"><div className="container section"><div className="section-heading"><div><p className="eyebrow green">Recently verified</p><h2>Start with these guides</h2></div></div><div className="scheme-grid">{schemes.slice(0, 3).map((scheme) => <SchemeCard key={scheme.slug} scheme={scheme} />)}</div></div></section>
+      <section className="container section">
+        <div className="section-heading"><div><p className="eyebrow green">Popular searches in Punjab</p><h2>Check eligibility, apply online, forms and scheme status</h2></div></div>
+        <div className="category-grid">
+          <Link className="category-card" href="/schemes/mukh-mantri-sehat-yojana-punjab"><span className="category-number">Health</span><h3>SHA Punjab eligibility check & beneficiary search</h3><p>Understand SHA Punjab eligibility, beneficiary search, Aadhaar-related checks, health card guidance, status and hospital information.</p><span className="category-arrow" aria-hidden="true">↗</span></Link>
+          <Link className="category-card" href="/schemes/old-age-pension-punjab"><span className="category-number">Pension</span><h3>Old Age Pension Punjab status & apply online</h3><p>Check age limit, eligibility, application route, form guidance, pension status, beneficiary list and monthly amount information.</p><span className="category-arrow" aria-hidden="true">↗</span></Link>
+          <Link className="category-card" href="/schemes/mukh-mantri-mawan-dheeyan-satkar-yojana"><span className="category-number">Women</span><h3>Punjab Government ₹1,000–₹1,500 women scheme</h3><p>Check who can get the Punjab women financial-assistance benefit, required documents, registration and Aadhaar-linked DBT guidance.</p><span className="category-arrow" aria-hidden="true">↗</span></Link>
+          <Link className="category-card" href="/schemes/aashirwad-scheme-punjab"><span className="category-number">Marriage assistance</span><h3>Ashirwad Scheme Punjab form & status check</h3><p>Check ₹51,000 marriage assistance eligibility, form and portal guidance, documents, login route and application status information.</p><span className="category-arrow" aria-hidden="true">↗</span></Link>
+        </div>
+      </section>
       <section className="container section trust-section">
         <div><p className="eyebrow green">A safer way to research</p><h2>Government information, made easier—not replaced.</h2></div>
         <div className="trust-steps"><div><span>1</span><h3>We check the source</h3><p>Every published guide links to a Government of Punjab, India department or official board document.</p></div><div><span>2</span><h3>We explain the process</h3><p>Documents and application routes are organised into a practical checklist.</p></div><div><span>3</span><h3>You confirm officially</h3><p>Rules can change, so the final decision always belongs to the responsible department.</p></div></div>
