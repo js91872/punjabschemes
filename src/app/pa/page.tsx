@@ -70,7 +70,7 @@ export default function PunjabiHomePage() {
         <div className="scheme-grid">
           {schemes.map((scheme) => (
             <article className="scheme-card" key={scheme.slug}>
-              <Link href={`/pa/schemes/${scheme.slug}`}>
+              <Link className="scheme-card-image" href={`/pa/schemes/${scheme.slug}`} aria-label={scheme.name}>
                 <Image
                   src={scheme.image}
                   alt={scheme.imageAlt}
@@ -78,14 +78,13 @@ export default function PunjabiHomePage() {
                   height={800}
                   sizes="(max-width: 680px) calc(100vw - 2rem), (max-width: 900px) calc(50vw - 1.6rem), 370px"
                 />
-
-                <div className="scheme-card-body">
-                  <p className="eyebrow">{scheme.category}</p>
-                  <h3>{scheme.name}</h3>
-                  <p>{scheme.summary}</p>
-                  <span className="text-link">ਪੂਰੀ ਜਾਣਕਾਰੀ ਵੇਖੋ →</span>
-                </div>
               </Link>
+              <div className="scheme-card-content">
+                <div className="scheme-card-top"><span className="pill">{scheme.category}</span></div>
+                <h2><Link href={`/pa/schemes/${scheme.slug}`}>{scheme.name}</Link></h2>
+                <p>{scheme.summary}</p>
+                <Link className="text-link" href={`/pa/schemes/${scheme.slug}`}>ਪੂਰੀ ਜਾਣਕਾਰੀ ਵੇਖੋ →</Link>
+              </div>
             </article>
           ))}
         </div>
