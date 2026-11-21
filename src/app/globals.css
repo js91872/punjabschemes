@@ -54,8 +54,8 @@ h3 { font-size:1.3rem; }
 .scheme-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.1rem; }
 .scheme-card { display:flex; flex-direction:column; min-height:430px; overflow:hidden; border:1px solid var(--line); border-radius:.85rem; background:var(--white); box-shadow:0 8px 24px rgba(20,37,27,.035); transition:transform .2s ease,box-shadow .2s ease; }
 .scheme-card:hover { transform:translateY(-3px); box-shadow:var(--shadow); }
-.scheme-card-image { display:block; overflow:hidden; aspect-ratio:3/2; background:var(--green-soft); }
-.scheme-card-image img { display:block; width:100%; height:100%; object-fit:cover; transition:transform .35s ease; }
+.scheme-card-image { display:block; flex:0 0 auto; width:100%; aspect-ratio:16/9; overflow:hidden; background:var(--green-soft); }
+.scheme-card-image img { display:block; width:100%; height:100%; aspect-ratio:16/9; object-fit:cover; object-position:center; transition:transform .35s ease; }
 .scheme-card:hover .scheme-card-image img { transform:scale(1.025); }
 .scheme-card-content { display:flex; flex:1; flex-direction:column; padding:1.25rem 1.4rem 1.4rem; }
 .scheme-card-top { display:flex; align-items:center; justify-content:space-between; gap:.5rem; }
