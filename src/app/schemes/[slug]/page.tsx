@@ -95,6 +95,19 @@ export default async function SchemePage({ params }: { params: Promise<{ slug: s
       <p className="eyebrow">{scheme.category}</p>
       <h1>{seo?.h1 ?? scheme.name}</h1>
       <p className="lead">{scheme.summary}</p>
+      {["aashirwad-scheme-punjab", "construction-worker-scholarship-punjab", "mukh-mantri-sehat-yojana-punjab", "old-age-pension-punjab"].includes(scheme.slug) && (
+        <section className="scheme-quick-access" aria-label="Official scheme information and next steps">
+          <h2>Official portal and next steps</h2>
+          <p>Use the government source to confirm the current application, eligibility and status-check options. A direct online status checker is not guaranteed for every scheme.</p>
+          <dl>
+            <dt>Responsible department</dt><dd>{scheme.department}</dd>
+            <dt>Application or enquiry routes</dt><dd>{scheme.applicationMethods.join("; ")}</dd>
+            <dt>Last editorial review</dt><dd><time dateTime={scheme.lastReviewed}>{scheme.lastReviewed}</time></dd>
+          </dl>
+          <a className="button" href={scheme.officialUrl} rel="noopener noreferrer" target="_blank">Open official government source ↗</a>
+          <p className="scheme-quick-safety">Never enter Aadhaar numbers, passwords, bank details or OTPs on PunjabSchemes.com.</p>
+        </section>
+      )}
       {featuredImage && <figure className="scheme-featured-image">
         <Image src={featuredImage.src} alt={featuredImage.alt} width={1200} height={800} priority sizes="(max-width: 812px) calc(100vw - 2rem), 780px" />
         <figcaption>Illustrative image created for PunjabSchemes.com; it is not official government artwork.</figcaption>
