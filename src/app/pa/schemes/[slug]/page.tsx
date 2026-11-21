@@ -186,7 +186,7 @@ export default async function PunjabiSchemePage({
         ))}
       </ul>
 
-      <h2>{scheme.name} ਲਈ Eligibility — ਕੌਣ ਯੋਗ ਹੈ?</h2>
+      <h2>{scheme.name} ਲਈ ਯੋਗਤਾ — ਕੌਣ ਅਰਜ਼ੀ ਦੇ ਸਕਦਾ ਹੈ?</h2>
       <p>{scheme.beneficiaries}</p>
 
       <ul>
@@ -195,14 +195,14 @@ export default async function PunjabiSchemePage({
         ))}
       </ul>
 
-      <h2>{scheme.name} ਲਈ ਲੋੜੀਂਦੇ Documents</h2>
+      <h2>{scheme.name} ਲਈ ਲੋੜੀਂਦੇ ਦਸਤਾਵੇਜ਼</h2>
       <ul>
         {scheme.documents.map((item) => (
           <li key={item}>{item}</li>
         ))}
       </ul>
 
-      <h2>{scheme.name} Apply Online / Registration ਕਿਵੇਂ ਕਰੀਏ?</h2>
+      <h2>{scheme.name} ਲਈ ਆਨਲਾਈਨ ਅਰਜ਼ੀ ਜਾਂ ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਕਿਵੇਂ ਕਰੀਏ?</h2>
       <ol>
         {scheme.applicationMethods.map((item) => (
           <li key={item}>{item}</li>
@@ -225,7 +225,7 @@ export default async function PunjabiSchemePage({
       </section>
 
       <section className="faq-section">
-        <h2>{scheme.name} ਬਾਰੇ FAQ — Status, Form, Eligibility ਅਤੇ Apply Online</h2>
+        <h2>{scheme.name} ਬਾਰੇ ਅਕਸਰ ਪੁੱਛੇ ਜਾਂਦੇ ਸਵਾਲ — ਸਥਿਤੀ, ਫਾਰਮ, ਯੋਗਤਾ ਅਤੇ ਅਰਜ਼ੀ</h2>
 
         {scheme.faqs.map((faq) => (
           <details key={faq.question}>
